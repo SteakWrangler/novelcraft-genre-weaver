@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -53,23 +52,18 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
   }, [selectedInspirations]);
 
   const handleGenerate = async () => {
-    if (!title || selectedGenres.length === 0) {
-      toast({
-        title: "Missing Information",
-        description: "Please provide a title and select at least one genre.",
-        variant: "destructive"
-      });
-      return;
-    }
-
     setIsGenerating(true);
+    
+    // Use fallbacks for empty fields
+    const bookTitle = title || "Untitled Story";
+    const bookGenres = selectedGenres.length > 0 ? selectedGenres : ["Fiction"];
     
     // Simulate AI generation
     setTimeout(() => {
       const bookData = {
-        title,
-        genres: selectedGenres,
-        content: `${title}\n\nA ${selectedGenres.join(" & ")} novel\n\nChapter 1\n\nThis advanced story incorporates all your custom preferences...`,
+        title: bookTitle,
+        genres: bookGenres,
+        content: `${bookTitle}\n\nA ${bookGenres.join(" & ")} novel\n\nChapter 1\n\nThis advanced story incorporates all your custom preferences...`,
         settings: {
           advanced: true,
           plotOutline,
@@ -96,9 +90,10 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
         onClearInspirations();
       }
       
+      const genreText = bookGenres.length > 1 ? bookGenres.join(" & ") : bookGenres[0];
       toast({
         title: "Advanced Book Created!",
-        description: `Your custom ${selectedGenres.join(" & ")} novel has been generated.`
+        description: `Your custom ${genreText.toLowerCase()} novel has been generated.`
       });
     }, 4000);
   };
@@ -142,7 +137,7 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
             <Label htmlFor="title">Book Title</Label>
             <Input
               id="title"
-              placeholder="Enter your book title..."
+              placeholder="Enter your book title... (or leave blank for AI to decide)"
               value={title}
               onChange={(e) => setTitle(e.target.value)}
             />
@@ -333,7 +328,7 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
 
       <Button
         onClick={handleGenerate}
-        disabled={isGenerating || !title || selectedGenres.length === 0}
+        disabled={isGenerating}
         className="w-full bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700"
         size="lg"
       >
