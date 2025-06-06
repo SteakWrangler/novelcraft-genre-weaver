@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
@@ -47,12 +46,31 @@ const Index = () => {
 
   const handleSelectInspiration = (inspiration: any) => {
     console.log('Selected inspiration:', inspiration);
-    setSelectedInspirations(prev => [...prev, inspiration]);
-    setActiveTab("advanced");
+    setSelectedInspirations(prev => {
+      const exists = prev.some(item => 
+        item.name === inspiration.name && item.type === inspiration.type
+      );
+      if (!exists) {
+        return [...prev, inspiration];
+      }
+      return prev;
+    });
+  };
+
+  const handleUnselectInspiration = (inspiration: any) => {
+    setSelectedInspirations(prev => 
+      prev.filter(item => 
+        !(item.name === inspiration.name && item.type === inspiration.type)
+      )
+    );
   };
 
   const handleClearInspirations = () => {
     setSelectedInspirations([]);
+  };
+
+  const handleGoToAdvancedCreator = () => {
+    setActiveTab("advanced");
   };
 
   return (
@@ -108,7 +126,10 @@ const Index = () => {
               <CardContent>
                 <BookInspiration 
                   onSelectIdea={handleSelectInspiration}
+                  onUnselectIdea={handleUnselectInspiration}
                   selectedInspirations={selectedInspirations}
+                  onClearInspirations={handleClearInspirations}
+                  onGoToAdvancedCreator={handleGoToAdvancedCreator}
                 />
               </CardContent>
             </Card>

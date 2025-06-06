@@ -4,14 +4,23 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Lightbulb, Heart, Zap, Crown, Sword, Rocket, Wand2, Search, Plus, RefreshCw, Check } from "lucide-react";
+import { Lightbulb, Heart, Zap, Crown, Sword, Rocket, Wand2, Search, Plus, RefreshCw, Check, X, ArrowRight } from "lucide-react";
 
 interface BookInspirationProps {
   onSelectIdea: (idea: any) => void;
+  onUnselectIdea: (idea: any) => void;
   selectedInspirations: any[];
+  onClearInspirations: () => void;
+  onGoToAdvancedCreator: () => void;
 }
 
-const BookInspiration = ({ onSelectIdea, selectedInspirations }: BookInspirationProps) => {
+const BookInspiration = ({ 
+  onSelectIdea, 
+  onUnselectIdea, 
+  selectedInspirations, 
+  onClearInspirations,
+  onGoToAdvancedCreator 
+}: BookInspirationProps) => {
   const [selectedCategory, setSelectedCategory] = useState("tropes");
 
   const initialTropes = [
@@ -188,6 +197,10 @@ const BookInspiration = ({ onSelectIdea, selectedInspirations }: BookInspiration
   const [popularTropes, setPopularTropes] = useState(initialTropes);
   const [popularSettings, setPopularSettings] = useState(initialSettings);
   const [plotStarters, setPlotStarters] = useState(initialPlots);
+  
+  const [generatedMoreTropes, setGeneratedMoreTropes] = useState(false);
+  const [generatedMoreSettings, setGeneratedMoreSettings] = useState(false);
+  const [generatedMorePlots, setGeneratedMorePlots] = useState(false);
 
   const isSelected = (idea: any, type: string) => {
     return selectedInspirations.some(inspiration => 
@@ -195,28 +208,37 @@ const BookInspiration = ({ onSelectIdea, selectedInspirations }: BookInspiration
     );
   };
 
-  const handleSelectIdea = (idea: any, type: string) => {
-    if (!isSelected(idea, type)) {
+  const handleToggleIdea = (idea: any, type: string) => {
+    if (isSelected(idea, type)) {
+      onUnselectIdea({ ...idea, type });
+    } else {
       onSelectIdea({ ...idea, type });
     }
+  };
+
+  const handleRemoveInspiration = (inspiration: any) => {
+    onUnselectIdea(inspiration);
   };
 
   const generateMore = (category: string) => {
     switch (category) {
       case 'tropes':
-        setPopularTropes(prev => [...prev, ...additionalTropes.filter(trope => 
-          !prev.some(existing => existing.name === trope.name)
-        )]);
+        if (!generatedMoreTropes) {
+          setPopularTropes(prev => [...prev, ...additionalTropes]);
+          setGeneratedMoreTropes(true);
+        }
         break;
       case 'settings':
-        setPopularSettings(prev => [...prev, ...additionalSettings.filter(setting => 
-          !prev.some(existing => existing.name === setting.name)
-        )]);
+        if (!generatedMoreSettings) {
+          setPopularSettings(prev => [...prev, ...additionalSettings]);
+          setGeneratedMoreSettings(true);
+        }
         break;
       case 'plots':
-        setPlotStarters(prev => [...prev, ...additionalPlots.filter(plot => 
-          !prev.some(existing => existing.hook === plot.hook)
-        )]);
+        if (!generatedMorePlots) {
+          setPlotStarters(prev => [...prev, ...additionalPlots]);
+          setGeneratedMorePlots(true);
+        }
         break;
     }
   };
@@ -226,14 +248,47 @@ const BookInspiration = ({ onSelectIdea, selectedInspirations }: BookInspiration
       {selectedInspirations.length > 0 && (
         <Card className="bg-green-50 border-green-200">
           <CardHeader>
-            <CardTitle className="text-green-800 text-lg">Selected Inspirations ({selectedInspirations.length})</CardTitle>
+            <div className="flex items-center justify-between">
+              <CardTitle className="text-green-800 text-lg">
+                Selected Inspirations ({selectedInspirations.length})
+              </CardTitle>
+              <div className="flex gap-2">
+                <Button
+                  size="sm"
+                  onClick={onGoToAdvancedCreator}
+                  className="bg-green-600 hover:bg-green-700"
+                >
+                  <ArrowRight className="w-4 h-4 mr-1" />
+                  Go to Advanced Creator
+                </Button>
+                <Button
+                  size="sm"
+                  variant="outline"
+                  onClick={onClearInspirations}
+                >
+                  Clear All
+                </Button>
+              </div>
+            </div>
           </CardHeader>
           <CardContent>
             <div className="flex flex-wrap gap-2">
               {selectedInspirations.map((inspiration, index) => (
-                <Badge key={index} variant="secondary" className="bg-green-100 text-green-800">
+                <Badge 
+                  key={index} 
+                  variant="secondary" 
+                  className="bg-green-100 text-green-800 cursor-pointer hover:bg-green-200 pr-1"
+                >
                   {inspiration.name || inspiration.hook?.substring(0, 30) + "..."}
                   <span className="ml-1 text-xs">({inspiration.type})</span>
+                  <Button
+                    size="sm"
+                    variant="ghost"
+                    className="ml-1 h-4 w-4 p-0 hover:bg-green-300"
+                    onClick={() => handleRemoveInspiration(inspiration)}
+                  >
+                    <X className="w-3 h-3" />
+                  </Button>
                 </Badge>
               ))}
             </div>
@@ -266,10 +321,11 @@ const BookInspiration = ({ onSelectIdea, selectedInspirations }: BookInspiration
                   variant="outline"
                   size="sm"
                   onClick={() => generateMore('tropes')}
+                  disabled={generatedMoreTropes}
                   className="flex items-center gap-2"
                 >
                   <RefreshCw className="w-4 h-4" />
-                  Generate More
+                  {generatedMoreTropes ? "All Loaded" : "Generate More"}
                 </Button>
               </div>
               <div className="grid gap-4">
@@ -295,8 +351,7 @@ const BookInspiration = ({ onSelectIdea, selectedInspirations }: BookInspiration
                         <Button
                           size="sm"
                           variant={isSelected(trope, 'trope') ? "default" : "outline"}
-                          onClick={() => handleSelectIdea(trope, 'trope')}
-                          disabled={isSelected(trope, 'trope')}
+                          onClick={() => handleToggleIdea(trope, 'trope')}
                         >
                           {isSelected(trope, 'trope') ? "Selected" : "Select"}
                         </Button>
@@ -314,10 +369,11 @@ const BookInspiration = ({ onSelectIdea, selectedInspirations }: BookInspiration
                   variant="outline"
                   size="sm"
                   onClick={() => generateMore('settings')}
+                  disabled={generatedMoreSettings}
                   className="flex items-center gap-2"
                 >
                   <RefreshCw className="w-4 h-4" />
-                  Generate More
+                  {generatedMoreSettings ? "All Loaded" : "Generate More"}
                 </Button>
               </div>
               <div className="grid gap-4">
@@ -345,8 +401,7 @@ const BookInspiration = ({ onSelectIdea, selectedInspirations }: BookInspiration
                         <Button
                           size="sm"
                           variant={isSelected(setting, 'setting') ? "default" : "outline"}
-                          onClick={() => handleSelectIdea(setting, 'setting')}
-                          disabled={isSelected(setting, 'setting')}
+                          onClick={() => handleToggleIdea(setting, 'setting')}
                         >
                           {isSelected(setting, 'setting') ? "Selected" : "Select"}
                         </Button>
@@ -364,10 +419,11 @@ const BookInspiration = ({ onSelectIdea, selectedInspirations }: BookInspiration
                   variant="outline"
                   size="sm"
                   onClick={() => generateMore('plots')}
+                  disabled={generatedMorePlots}
                   className="flex items-center gap-2"
                 >
                   <RefreshCw className="w-4 h-4" />
-                  Generate More
+                  {generatedMorePlots ? "All Loaded" : "Generate More"}
                 </Button>
               </div>
               <div className="grid gap-4">
@@ -394,8 +450,7 @@ const BookInspiration = ({ onSelectIdea, selectedInspirations }: BookInspiration
                         <Button
                           size="sm"
                           variant={isSelected(plot, 'plot') ? "default" : "outline"}
-                          onClick={() => handleSelectIdea(plot, 'plot')}
-                          disabled={isSelected(plot, 'plot')}
+                          onClick={() => handleToggleIdea(plot, 'plot')}
                         >
                           {isSelected(plot, 'plot') ? "Selected" : "Select"}
                         </Button>
