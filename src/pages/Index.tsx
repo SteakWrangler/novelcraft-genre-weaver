@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
@@ -8,6 +7,7 @@ import GenreSelector from "@/components/GenreSelector";
 import BookCustomizer from "@/components/BookCustomizer";
 import BookLibrary from "@/components/BookLibrary";
 import SimpleBookCreator from "@/components/SimpleBookCreator";
+import BookInspiration from "@/components/BookInspiration";
 
 interface Book {
   id: string;
@@ -43,6 +43,16 @@ const Index = () => {
     ));
   };
 
+  const handleSelectInspiration = (inspiration: any) => {
+    console.log('Selected inspiration:', inspiration);
+    // Switch to the appropriate creator tab based on inspiration complexity
+    if (inspiration.type === 'trope' || inspiration.type === 'plot') {
+      setActiveTab("advanced");
+    } else {
+      setActiveTab("create");
+    }
+  };
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-blue-50">
       <header className="bg-white/80 backdrop-blur-sm border-b sticky top-0 z-50">
@@ -63,7 +73,11 @@ const Index = () => {
 
       <main className="container mx-auto px-4 py-8">
         <Tabs value={activeTab} onValueChange={setActiveTab} className="w-full">
-          <TabsList className="grid w-full grid-cols-3 mb-8">
+          <TabsList className="grid w-full grid-cols-4 mb-8">
+            <TabsTrigger value="inspiration" className="flex items-center gap-2">
+              <Sparkles className="w-4 h-4" />
+              Inspiration
+            </TabsTrigger>
             <TabsTrigger value="create" className="flex items-center gap-2">
               <Plus className="w-4 h-4" />
               Create Book
@@ -77,6 +91,23 @@ const Index = () => {
               My Library
             </TabsTrigger>
           </TabsList>
+
+          <TabsContent value="inspiration" className="space-y-6">
+            <Card>
+              <CardHeader>
+                <CardTitle className="flex items-center gap-2">
+                  <Sparkles className="w-5 h-5 text-yellow-600" />
+                  Find Your Next Great Story
+                </CardTitle>
+                <CardDescription>
+                  Explore popular tropes, settings, and plot ideas to inspire your next masterpiece
+                </CardDescription>
+              </CardHeader>
+              <CardContent>
+                <BookInspiration onSelectIdea={handleSelectInspiration} />
+              </CardContent>
+            </Card>
+          </TabsContent>
 
           <TabsContent value="create" className="space-y-6">
             <Card>
