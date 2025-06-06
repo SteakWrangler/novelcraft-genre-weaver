@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
@@ -23,6 +24,7 @@ const Index = () => {
   const [books, setBooks] = useState<Book[]>([]);
   const [activeTab, setActiveTab] = useState("create");
   const [selectedBook, setSelectedBook] = useState<Book | null>(null);
+  const [selectedInspirations, setSelectedInspirations] = useState<any[]>([]);
 
   const handleCreateBook = (bookData: Omit<Book, "id" | "createdAt" | "updatedAt">) => {
     const newBook: Book = {
@@ -45,12 +47,12 @@ const Index = () => {
 
   const handleSelectInspiration = (inspiration: any) => {
     console.log('Selected inspiration:', inspiration);
-    // Switch to the appropriate creator tab based on inspiration complexity
-    if (inspiration.type === 'trope' || inspiration.type === 'plot') {
-      setActiveTab("advanced");
-    } else {
-      setActiveTab("create");
-    }
+    setSelectedInspirations(prev => [...prev, inspiration]);
+    setActiveTab("advanced");
+  };
+
+  const handleClearInspirations = () => {
+    setSelectedInspirations([]);
   };
 
   return (
@@ -104,7 +106,10 @@ const Index = () => {
                 </CardDescription>
               </CardHeader>
               <CardContent>
-                <BookInspiration onSelectIdea={handleSelectInspiration} />
+                <BookInspiration 
+                  onSelectIdea={handleSelectInspiration}
+                  selectedInspirations={selectedInspirations}
+                />
               </CardContent>
             </Card>
           </TabsContent>
@@ -138,7 +143,11 @@ const Index = () => {
                 </CardDescription>
               </CardHeader>
               <CardContent>
-                <BookCustomizer onCreateBook={handleCreateBook} />
+                <BookCustomizer 
+                  onCreateBook={handleCreateBook}
+                  selectedInspirations={selectedInspirations}
+                  onClearInspirations={handleClearInspirations}
+                />
               </CardContent>
             </Card>
           </TabsContent>

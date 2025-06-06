@@ -4,16 +4,17 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Lightbulb, Heart, Zap, Crown, Sword, Rocket, Wand2, Search } from "lucide-react";
+import { Lightbulb, Heart, Zap, Crown, Sword, Rocket, Wand2, Search, Plus, RefreshCw, Check } from "lucide-react";
 
 interface BookInspirationProps {
   onSelectIdea: (idea: any) => void;
+  selectedInspirations: any[];
 }
 
-const BookInspiration = ({ onSelectIdea }: BookInspirationProps) => {
+const BookInspiration = ({ onSelectIdea, selectedInspirations }: BookInspirationProps) => {
   const [selectedCategory, setSelectedCategory] = useState("tropes");
 
-  const popularTropes = [
+  const initialTropes = [
     {
       name: "Enemies to Lovers",
       description: "Two characters who start as adversaries gradually fall in love",
@@ -52,7 +53,28 @@ const BookInspiration = ({ onSelectIdea }: BookInspirationProps) => {
     }
   ];
 
-  const popularSettings = [
+  const additionalTropes = [
+    {
+      name: "Amnesia",
+      description: "Character loses their memory and must rediscover who they are",
+      genres: ["Drama", "Romance", "Thriller"],
+      icon: <Zap className="w-4 h-4" />
+    },
+    {
+      name: "Secret Identity",
+      description: "Character hides their true nature or background from others",
+      genres: ["Fantasy", "Romance", "Adventure"],
+      icon: <Crown className="w-4 h-4" />
+    },
+    {
+      name: "Redemption Arc",
+      description: "A villain or flawed character seeks to make amends for past wrongs",
+      genres: ["Fantasy", "Drama", "Adventure"],
+      icon: <Heart className="w-4 h-4" />
+    }
+  ];
+
+  const initialSettings = [
     {
       name: "Magic Academy",
       description: "A school where students learn to harness magical abilities",
@@ -91,7 +113,28 @@ const BookInspiration = ({ onSelectIdea }: BookInspirationProps) => {
     }
   ];
 
-  const plotStarters = [
+  const additionalSettings = [
+    {
+      name: "Floating City",
+      description: "A metropolis suspended in the clouds or above water",
+      atmosphere: "Wonder, isolation, technological marvel",
+      genres: ["Fantasy", "Science Fiction", "Adventure"]
+    },
+    {
+      name: "Underground Society",
+      description: "A hidden civilization beneath the surface world",
+      atmosphere: "Mystery, claustrophobia, hidden knowledge",
+      genres: ["Fantasy", "Science Fiction", "Thriller"]
+    },
+    {
+      name: "Time-Displaced Town",
+      description: "A place where different time periods coexist",
+      atmosphere: "Confusion, wonder, temporal mystery",
+      genres: ["Science Fiction", "Fantasy", "Mystery"]
+    }
+  ];
+
+  const initialPlots = [
     {
       hook: "A character receives a mysterious package with no return address",
       potential: "Mystery box, secret admirer, dangerous conspiracy",
@@ -124,132 +167,248 @@ const BookInspiration = ({ onSelectIdea }: BookInspirationProps) => {
     }
   ];
 
+  const additionalPlots = [
+    {
+      hook: "A character inherits a house that exists in multiple dimensions",
+      potential: "Parallel worlds, family secrets, interdimensional travel",
+      genres: ["Science Fiction", "Fantasy", "Mystery"]
+    },
+    {
+      hook: "Every lie a character tells becomes reality",
+      potential: "Reality manipulation, moral dilemmas, unintended consequences",
+      genres: ["Fantasy", "Drama", "Comedy"]
+    },
+    {
+      hook: "A character discovers their dreams are someone else's memories",
+      potential: "Psychic connection, past lives, shared consciousness",
+      genres: ["Fantasy", "Thriller", "Romance"]
+    }
+  ];
+
+  const [popularTropes, setPopularTropes] = useState(initialTropes);
+  const [popularSettings, setPopularSettings] = useState(initialSettings);
+  const [plotStarters, setPlotStarters] = useState(initialPlots);
+
+  const isSelected = (idea: any, type: string) => {
+    return selectedInspirations.some(inspiration => 
+      inspiration.name === idea.name && inspiration.type === type
+    );
+  };
+
   const handleSelectIdea = (idea: any, type: string) => {
-    onSelectIdea({ ...idea, type });
+    if (!isSelected(idea, type)) {
+      onSelectIdea({ ...idea, type });
+    }
+  };
+
+  const generateMore = (category: string) => {
+    switch (category) {
+      case 'tropes':
+        setPopularTropes(prev => [...prev, ...additionalTropes.filter(trope => 
+          !prev.some(existing => existing.name === trope.name)
+        )]);
+        break;
+      case 'settings':
+        setPopularSettings(prev => [...prev, ...additionalSettings.filter(setting => 
+          !prev.some(existing => existing.name === setting.name)
+        )]);
+        break;
+      case 'plots':
+        setPlotStarters(prev => [...prev, ...additionalPlots.filter(plot => 
+          !prev.some(existing => existing.hook === plot.hook)
+        )]);
+        break;
+    }
   };
 
   return (
-    <Card>
-      <CardHeader>
-        <CardTitle className="flex items-center gap-2">
-          <Lightbulb className="w-5 h-5 text-yellow-600" />
-          Book Inspiration Hub
-        </CardTitle>
-        <p className="text-sm text-muted-foreground">
-          Discover popular tropes, settings, and plot ideas to spark your creativity
-        </p>
-      </CardHeader>
-      <CardContent>
-        <Tabs value={selectedCategory} onValueChange={setSelectedCategory}>
-          <TabsList className="grid w-full grid-cols-3">
-            <TabsTrigger value="tropes">Popular Tropes</TabsTrigger>
-            <TabsTrigger value="settings">Settings</TabsTrigger>
-            <TabsTrigger value="plots">Plot Starters</TabsTrigger>
-          </TabsList>
-
-          <TabsContent value="tropes" className="space-y-4">
-            <div className="grid gap-4">
-              {popularTropes.map((trope, index) => (
-                <Card key={index} className="hover:shadow-md transition-shadow cursor-pointer border-l-4 border-l-blue-500">
-                  <CardContent className="p-4">
-                    <div className="flex items-start justify-between">
-                      <div className="flex-1">
-                        <div className="flex items-center gap-2 mb-2">
-                          {trope.icon}
-                          <h4 className="font-semibold">{trope.name}</h4>
-                        </div>
-                        <p className="text-sm text-muted-foreground mb-3">{trope.description}</p>
-                        <div className="flex flex-wrap gap-1">
-                          {trope.genres.map((genre) => (
-                            <Badge key={genre} variant="secondary" className="text-xs">
-                              {genre}
-                            </Badge>
-                          ))}
-                        </div>
-                      </div>
-                      <Button
-                        size="sm"
-                        variant="outline"
-                        onClick={() => handleSelectIdea(trope, 'trope')}
-                      >
-                        Use This
-                      </Button>
-                    </div>
-                  </CardContent>
-                </Card>
+    <div className="space-y-6">
+      {selectedInspirations.length > 0 && (
+        <Card className="bg-green-50 border-green-200">
+          <CardHeader>
+            <CardTitle className="text-green-800 text-lg">Selected Inspirations ({selectedInspirations.length})</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <div className="flex flex-wrap gap-2">
+              {selectedInspirations.map((inspiration, index) => (
+                <Badge key={index} variant="secondary" className="bg-green-100 text-green-800">
+                  {inspiration.name || inspiration.hook?.substring(0, 30) + "..."}
+                  <span className="ml-1 text-xs">({inspiration.type})</span>
+                </Badge>
               ))}
             </div>
-          </TabsContent>
+          </CardContent>
+        </Card>
+      )}
 
-          <TabsContent value="settings" className="space-y-4">
-            <div className="grid gap-4">
-              {popularSettings.map((setting, index) => (
-                <Card key={index} className="hover:shadow-md transition-shadow cursor-pointer border-l-4 border-l-purple-500">
-                  <CardContent className="p-4">
-                    <div className="flex items-start justify-between">
-                      <div className="flex-1">
-                        <h4 className="font-semibold mb-2">{setting.name}</h4>
-                        <p className="text-sm text-muted-foreground mb-2">{setting.description}</p>
-                        <p className="text-xs text-blue-600 mb-3">
-                          <strong>Atmosphere:</strong> {setting.atmosphere}
-                        </p>
-                        <div className="flex flex-wrap gap-1">
-                          {setting.genres.map((genre) => (
-                            <Badge key={genre} variant="secondary" className="text-xs">
-                              {genre}
-                            </Badge>
-                          ))}
-                        </div>
-                      </div>
-                      <Button
-                        size="sm"
-                        variant="outline"
-                        onClick={() => handleSelectIdea(setting, 'setting')}
-                      >
-                        Use This
-                      </Button>
-                    </div>
-                  </CardContent>
-                </Card>
-              ))}
-            </div>
-          </TabsContent>
+      <Card>
+        <CardHeader>
+          <CardTitle className="flex items-center gap-2">
+            <Lightbulb className="w-5 h-5 text-yellow-600" />
+            Book Inspiration Hub
+          </CardTitle>
+          <p className="text-sm text-muted-foreground">
+            Discover popular tropes, settings, and plot ideas to spark your creativity. Select multiple ideas to combine them!
+          </p>
+        </CardHeader>
+        <CardContent>
+          <Tabs value={selectedCategory} onValueChange={setSelectedCategory}>
+            <TabsList className="grid w-full grid-cols-3">
+              <TabsTrigger value="tropes">Popular Tropes</TabsTrigger>
+              <TabsTrigger value="settings">Settings</TabsTrigger>
+              <TabsTrigger value="plots">Plot Starters</TabsTrigger>
+            </TabsList>
 
-          <TabsContent value="plots" className="space-y-4">
-            <div className="grid gap-4">
-              {plotStarters.map((plot, index) => (
-                <Card key={index} className="hover:shadow-md transition-shadow cursor-pointer border-l-4 border-l-green-500">
-                  <CardContent className="p-4">
-                    <div className="flex items-start justify-between">
-                      <div className="flex-1">
-                        <h4 className="font-semibold mb-2">"{plot.hook}"</h4>
-                        <p className="text-xs text-green-600 mb-3">
-                          <strong>Potential directions:</strong> {plot.potential}
-                        </p>
-                        <div className="flex flex-wrap gap-1">
-                          {plot.genres.map((genre) => (
-                            <Badge key={genre} variant="secondary" className="text-xs">
-                              {genre}
-                            </Badge>
-                          ))}
+            <TabsContent value="tropes" className="space-y-4">
+              <div className="flex justify-between items-center">
+                <h3 className="font-semibold">Choose Your Tropes</h3>
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={() => generateMore('tropes')}
+                  className="flex items-center gap-2"
+                >
+                  <RefreshCw className="w-4 h-4" />
+                  Generate More
+                </Button>
+              </div>
+              <div className="grid gap-4">
+                {popularTropes.map((trope, index) => (
+                  <Card key={index} className="hover:shadow-md transition-shadow cursor-pointer border-l-4 border-l-blue-500">
+                    <CardContent className="p-4">
+                      <div className="flex items-start justify-between">
+                        <div className="flex-1">
+                          <div className="flex items-center gap-2 mb-2">
+                            {trope.icon}
+                            <h4 className="font-semibold">{trope.name}</h4>
+                            {isSelected(trope, 'trope') && <Check className="w-4 h-4 text-green-600" />}
+                          </div>
+                          <p className="text-sm text-muted-foreground mb-3">{trope.description}</p>
+                          <div className="flex flex-wrap gap-1">
+                            {trope.genres.map((genre) => (
+                              <Badge key={genre} variant="secondary" className="text-xs">
+                                {genre}
+                              </Badge>
+                            ))}
+                          </div>
                         </div>
+                        <Button
+                          size="sm"
+                          variant={isSelected(trope, 'trope') ? "default" : "outline"}
+                          onClick={() => handleSelectIdea(trope, 'trope')}
+                          disabled={isSelected(trope, 'trope')}
+                        >
+                          {isSelected(trope, 'trope') ? "Selected" : "Select"}
+                        </Button>
                       </div>
-                      <Button
-                        size="sm"
-                        variant="outline"
-                        onClick={() => handleSelectIdea(plot, 'plot')}
-                      >
-                        Use This
-                      </Button>
-                    </div>
-                  </CardContent>
-                </Card>
-              ))}
-            </div>
-          </TabsContent>
-        </Tabs>
-      </CardContent>
-    </Card>
+                    </CardContent>
+                  </Card>
+                ))}
+              </div>
+            </TabsContent>
+
+            <TabsContent value="settings" className="space-y-4">
+              <div className="flex justify-between items-center">
+                <h3 className="font-semibold">Choose Your Settings</h3>
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={() => generateMore('settings')}
+                  className="flex items-center gap-2"
+                >
+                  <RefreshCw className="w-4 h-4" />
+                  Generate More
+                </Button>
+              </div>
+              <div className="grid gap-4">
+                {popularSettings.map((setting, index) => (
+                  <Card key={index} className="hover:shadow-md transition-shadow cursor-pointer border-l-4 border-l-purple-500">
+                    <CardContent className="p-4">
+                      <div className="flex items-start justify-between">
+                        <div className="flex-1">
+                          <div className="flex items-center gap-2 mb-2">
+                            <h4 className="font-semibold">{setting.name}</h4>
+                            {isSelected(setting, 'setting') && <Check className="w-4 h-4 text-green-600" />}
+                          </div>
+                          <p className="text-sm text-muted-foreground mb-2">{setting.description}</p>
+                          <p className="text-xs text-blue-600 mb-3">
+                            <strong>Atmosphere:</strong> {setting.atmosphere}
+                          </p>
+                          <div className="flex flex-wrap gap-1">
+                            {setting.genres.map((genre) => (
+                              <Badge key={genre} variant="secondary" className="text-xs">
+                                {genre}
+                              </Badge>
+                            ))}
+                          </div>
+                        </div>
+                        <Button
+                          size="sm"
+                          variant={isSelected(setting, 'setting') ? "default" : "outline"}
+                          onClick={() => handleSelectIdea(setting, 'setting')}
+                          disabled={isSelected(setting, 'setting')}
+                        >
+                          {isSelected(setting, 'setting') ? "Selected" : "Select"}
+                        </Button>
+                      </div>
+                    </CardContent>
+                  </Card>
+                ))}
+              </div>
+            </TabsContent>
+
+            <TabsContent value="plots" className="space-y-4">
+              <div className="flex justify-between items-center">
+                <h3 className="font-semibold">Choose Your Plot Starters</h3>
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={() => generateMore('plots')}
+                  className="flex items-center gap-2"
+                >
+                  <RefreshCw className="w-4 h-4" />
+                  Generate More
+                </Button>
+              </div>
+              <div className="grid gap-4">
+                {plotStarters.map((plot, index) => (
+                  <Card key={index} className="hover:shadow-md transition-shadow cursor-pointer border-l-4 border-l-green-500">
+                    <CardContent className="p-4">
+                      <div className="flex items-start justify-between">
+                        <div className="flex-1">
+                          <div className="flex items-center gap-2 mb-2">
+                            <h4 className="font-semibold">"{plot.hook}"</h4>
+                            {isSelected(plot, 'plot') && <Check className="w-4 h-4 text-green-600" />}
+                          </div>
+                          <p className="text-xs text-green-600 mb-3">
+                            <strong>Potential directions:</strong> {plot.potential}
+                          </p>
+                          <div className="flex flex-wrap gap-1">
+                            {plot.genres.map((genre) => (
+                              <Badge key={genre} variant="secondary" className="text-xs">
+                                {genre}
+                              </Badge>
+                            ))}
+                          </div>
+                        </div>
+                        <Button
+                          size="sm"
+                          variant={isSelected(plot, 'plot') ? "default" : "outline"}
+                          onClick={() => handleSelectIdea(plot, 'plot')}
+                          disabled={isSelected(plot, 'plot')}
+                        >
+                          {isSelected(plot, 'plot') ? "Selected" : "Select"}
+                        </Button>
+                      </div>
+                    </CardContent>
+                  </Card>
+                ))}
+              </div>
+            </TabsContent>
+          </Tabs>
+        </CardContent>
+      </Card>
+    </div>
   );
 };
 
