@@ -1,5 +1,5 @@
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
@@ -13,9 +13,11 @@ import GenreSelector from "./GenreSelector";
 
 interface BookCustomizerProps {
   onCreateBook: (bookData: any) => void;
+  selectedInspirations?: any[];
+  onClearInspirations?: () => void;
 }
 
-const BookCustomizer = ({ onCreateBook }: BookCustomizerProps) => {
+const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspirations }: BookCustomizerProps) => {
   const [title, setTitle] = useState("");
   const [selectedGenres, setSelectedGenres] = useState<string[]>([]);
   const [plotOutline, setPlotOutline] = useState("");
@@ -32,6 +34,23 @@ const BookCustomizer = ({ onCreateBook }: BookCustomizerProps) => {
   const [specialRequests, setSpecialRequests] = useState("");
   const [isGenerating, setIsGenerating] = useState(false);
   const { toast } = useToast();
+
+  // Populate fields with selected inspirations when they change
+  useEffect(() => {
+    if (selectedInspirations.length > 0) {
+      const inspirationText = selectedInspirations.map(inspiration => {
+        return `${inspiration.type}: ${inspiration.name}${inspiration.description ? ` - ${inspiration.description}` : ''}`;
+      }).join('\n\n');
+      
+      // Add inspirations to special requests if there are any
+      if (inspirationText) {
+        setSpecialRequests(prev => {
+          const newText = prev ? `${prev}\n\n--- Selected Inspirations ---\n${inspirationText}` : `--- Selected Inspirations ---\n${inspirationText}`;
+          return newText;
+        });
+      }
+    }
+  }, [selectedInspirations]);
 
   const handleGenerate = async () => {
     if (!title || selectedGenres.length === 0) {
@@ -64,12 +83,18 @@ const BookCustomizer = ({ onCreateBook }: BookCustomizerProps) => {
           perspective,
           themes,
           avoidContent,
-          specialRequests
+          specialRequests,
+          selectedInspirations
         }
       };
       
       onCreateBook(bookData);
       setIsGenerating(false);
+      
+      // Clear inspirations after creating the book
+      if (onClearInspirations) {
+        onClearInspirations();
+      }
       
       toast({
         title: "Advanced Book Created!",
@@ -80,6 +105,35 @@ const BookCustomizer = ({ onCreateBook }: BookCustomizerProps) => {
 
   return (
     <div className="space-y-8">
+      {/* Show selected inspirations if any */}
+      {selectedInspirations.length > 0 && (
+        <Card className="border-blue-200 bg-blue-50/50">
+          <CardHeader>
+            <CardTitle className="text-base text-blue-700">Selected Inspirations</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <div className="space-y-2">
+              {selectedInspirations.map((inspiration, index) => (
+                <div key={index} className="text-sm text-blue-600">
+                  <span className="font-medium">{inspiration.type}:</span> {inspiration.name}
+                  {inspiration.description && <span className="text-blue-500"> - {inspiration.description}</span>}
+                </div>
+              ))}
+            </div>
+            {onClearInspirations && (
+              <Button
+                variant="outline"
+                size="sm"
+                onClick={onClearInspirations}
+                className="mt-3"
+              >
+                Clear Inspirations
+              </Button>
+            )}
+          </CardContent>
+        </Card>
+      )}
+
       {/* Basic Information */}
       <div className="space-y-4">
         <h3 className="text-lg font-semibold">Basic Information</h3>
