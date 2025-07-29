@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
@@ -8,22 +8,30 @@ import BookCustomizer from "@/components/BookCustomizer";
 import BookLibrary from "@/components/BookLibrary";
 import SimpleBookCreator from "@/components/SimpleBookCreator";
 import BookInspiration from "@/components/BookInspiration";
-
-interface Book {
-  id: string;
-  title: string;
-  genres: string[];
-  content: string;
-  settings: any;
-  createdAt: Date;
-  updatedAt: Date;
-}
+import { Book, Inspiration } from "@/types";
+import { 
+  getBooksFromStorage, 
+  addBookToStorage, 
+  updateBookInStorage,
+  getSelectedInspirationsFromStorage,
+  saveSelectedInspirationsToStorage,
+  clearSelectedInspirationsFromStorage
+} from "@/lib/storage";
 
 const Index = () => {
   const [books, setBooks] = useState<Book[]>([]);
   const [activeTab, setActiveTab] = useState("create");
   const [selectedBook, setSelectedBook] = useState<Book | null>(null);
-  const [selectedInspirations, setSelectedInspirations] = useState<any[]>([]);
+  const [selectedInspirations, setSelectedInspirations] = useState<Inspiration[]>([]);
+
+  // Load data from localStorage on component mount
+  useEffect(() => {
+    const savedBooks = getBooksFromStorage();
+    const savedInspirations = getSelectedInspirationsFromStorage();
+    
+    setBooks(savedBooks);
+    setSelectedInspirations(savedInspirations);
+  }, []);
 
   const handleCreateBook = (bookData: Omit<Book, "id" | "createdAt" | "updatedAt">) => {
     const newBook: Book = {
@@ -32,40 +40,44 @@ const Index = () => {
       createdAt: new Date(),
       updatedAt: new Date()
     };
-    setBooks(prev => [...prev, newBook]);
+    const updatedBooks = addBookToStorage(newBook);
+    setBooks(updatedBooks);
     setActiveTab("library");
   };
 
   const handleUpdateBook = (updatedBook: Book) => {
-    setBooks(prev => prev.map(book => 
-      book.id === updatedBook.id 
-        ? { ...updatedBook, updatedAt: new Date() }
-        : book
-    ));
+    const bookWithUpdatedTime = { ...updatedBook, updatedAt: new Date() };
+    const updatedBooks = updateBookInStorage(bookWithUpdatedTime);
+    setBooks(updatedBooks);
   };
 
-  const handleSelectInspiration = (inspiration: any) => {
+  const handleSelectInspiration = (inspiration: Inspiration) => {
     console.log('Selected inspiration:', inspiration);
     setSelectedInspirations(prev => {
       const exists = prev.some(item => 
         item.name === inspiration.name && item.type === inspiration.type
       );
       if (!exists) {
-        return [...prev, inspiration];
+        const updated = [...prev, inspiration];
+        saveSelectedInspirationsToStorage(updated);
+        return updated;
       }
       return prev;
     });
   };
 
-  const handleUnselectInspiration = (inspiration: any) => {
-    setSelectedInspirations(prev => 
-      prev.filter(item => 
+  const handleUnselectInspiration = (inspiration: Inspiration) => {
+    setSelectedInspirations(prev => {
+      const updated = prev.filter(item => 
         !(item.name === inspiration.name && item.type === inspiration.type)
-      )
-    );
+      );
+      saveSelectedInspirationsToStorage(updated);
+      return updated;
+    });
   };
 
   const handleClearInspirations = () => {
+    clearSelectedInspirationsFromStorage();
     setSelectedInspirations([]);
   };
 
@@ -93,22 +105,26 @@ const Index = () => {
 
       <main className="container mx-auto px-4 py-8">
         <Tabs value={activeTab} onValueChange={setActiveTab} className="w-full">
-          <TabsList className="grid w-full grid-cols-4 mb-8">
-            <TabsTrigger value="inspiration" className="flex items-center gap-2">
-              <Sparkles className="w-4 h-4" />
-              Inspiration
+          <TabsList className="grid w-full grid-cols-2 md:grid-cols-4 mb-8 h-auto">
+            <TabsTrigger value="inspiration" className="flex items-center gap-1 md:gap-2 text-xs md:text-sm p-2 md:p-3">
+              <Sparkles className="w-3 h-3 md:w-4 md:h-4" />
+              <span className="hidden sm:inline">Inspiration</span>
+              <span className="sm:hidden">Ideas</span>
             </TabsTrigger>
-            <TabsTrigger value="create" className="flex items-center gap-2">
-              <Plus className="w-4 h-4" />
-              Create Book
+            <TabsTrigger value="create" className="flex items-center gap-1 md:gap-2 text-xs md:text-sm p-2 md:p-3">
+              <Plus className="w-3 h-3 md:w-4 md:h-4" />
+              <span className="hidden sm:inline">Create Book</span>
+              <span className="sm:hidden">Create</span>
             </TabsTrigger>
-            <TabsTrigger value="advanced" className="flex items-center gap-2">
-              <Sparkles className="w-4 h-4" />
-              Advanced Creator
+            <TabsTrigger value="advanced" className="flex items-center gap-1 md:gap-2 text-xs md:text-sm p-2 md:p-3">
+              <Sparkles className="w-3 h-3 md:w-4 md:h-4" />
+              <span className="hidden sm:inline">Advanced Creator</span>
+              <span className="sm:hidden">Advanced</span>
             </TabsTrigger>
-            <TabsTrigger value="library" className="flex items-center gap-2">
-              <Library className="w-4 h-4" />
-              My Library
+            <TabsTrigger value="library" className="flex items-center gap-1 md:gap-2 text-xs md:text-sm p-2 md:p-3">
+              <Library className="w-3 h-3 md:w-4 md:h-4" />
+              <span className="hidden sm:inline">My Library</span>
+              <span className="sm:hidden">Library</span>
             </TabsTrigger>
           </TabsList>
 

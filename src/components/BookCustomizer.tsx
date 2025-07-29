@@ -9,12 +9,9 @@ import { Separator } from "@/components/ui/separator";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { useToast } from "@/hooks/use-toast";
 import GenreSelector from "./GenreSelector";
-
-interface BookCustomizerProps {
-  onCreateBook: (bookData: any) => void;
-  selectedInspirations?: any[];
-  onClearInspirations?: () => void;
-}
+import { BookCustomizerProps, Book, BookSettings, ContentRating, NarrativePerspective } from "@/types";
+import { validateAdvancedBook, ValidationError } from "@/lib/validation";
+import { BookGenerationProgress } from "@/components/LoadingSkeletons";
 
 const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspirations }: BookCustomizerProps) => {
   const [title, setTitle] = useState("");
@@ -23,16 +20,22 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
   const [characterDetails, setCharacterDetails] = useState("");
   const [setting, setSetting] = useState("");
   const [length, setLength] = useState("300");
-  const [rating, setRating] = useState("PG-13");
+  const [rating, setRating] = useState<ContentRating>("PG-13");
   const [happyEnding, setHappyEnding] = useState(true);
   const [bigTwist, setBigTwist] = useState(false);
   const [romanticSubplot, setRomanticSubplot] = useState(false);
-  const [perspective, setPerspective] = useState("third-person");
+  const [perspective, setPerspective] = useState<NarrativePerspective>("third-person");
   const [themes, setThemes] = useState("");
   const [avoidContent, setAvoidContent] = useState("");
   const [specialRequests, setSpecialRequests] = useState("");
   const [isGenerating, setIsGenerating] = useState(false);
+  const [errors, setErrors] = useState<ValidationError[]>([]);
   const { toast } = useToast();
+  
+  // Helper function to get error message for a field
+  const getFieldError = (fieldName: string): string | undefined => {
+    return errors.find(error => error.field === fieldName)?.message;
+  };
 
   // Populate fields with selected inspirations when they change
   useEffect(() => {
@@ -52,6 +55,34 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
   }, [selectedInspirations]);
 
   const handleGenerate = async () => {
+    // Clear previous errors
+    setErrors([]);
+    
+    // Validate form data
+    const validation = validateAdvancedBook({
+      title,
+      selectedGenres,
+      plotOutline,
+      characterDetails,
+      setting,
+      themes,
+      avoidContent,
+      specialRequests,
+      length,
+      rating,
+      perspective
+    });
+    
+    if (!validation.success) {
+      setErrors(validation.errors);
+      toast({
+        title: "Validation Error",
+        description: "Please fix the errors below and try again.",
+        variant: "destructive"
+      });
+      return;
+    }
+    
     setIsGenerating(true);
     
     // Use fallbacks for empty fields
@@ -60,7 +91,7 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
     
     // Simulate AI generation
     setTimeout(() => {
-      const bookData = {
+      const bookData: Omit<Book, "id" | "createdAt" | "updatedAt"> = {
         title: bookTitle,
         genres: bookGenres,
         content: `${bookTitle}\n\nA ${bookGenres.join(" & ")} novel\n\nChapter 1\n\nThis advanced story incorporates all your custom preferences...`,
@@ -79,7 +110,7 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
           avoidContent,
           specialRequests,
           selectedInspirations
-        }
+        } as BookSettings
       };
       
       onCreateBook(bookData);
@@ -132,20 +163,24 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
       {/* Basic Information */}
       <div className="space-y-4">
         <h3 className="text-lg font-semibold">Basic Information</h3>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
           <div className="space-y-2">
-            <Label htmlFor="title">Book Title</Label>
+            <Label htmlFor="title" className="text-sm font-medium">Book Title</Label>
             <Input
               id="title"
               placeholder="Enter your book title... (or leave blank for AI to decide)"
               value={title}
               onChange={(e) => setTitle(e.target.value)}
+              className={`h-10 ${getFieldError('title') ? 'border-red-500 focus:border-red-500' : ''}`}
             />
+            {getFieldError('title') && (
+              <p className="text-sm text-red-600 mt-1">{getFieldError('title')}</p>
+            )}
           </div>
           <div className="space-y-2">
-            <Label htmlFor="length">Target Length</Label>
+            <Label htmlFor="length" className="text-sm font-medium">Target Length</Label>
             <Select value={length} onValueChange={setLength}>
-              <SelectTrigger>
+              <SelectTrigger className="h-10">
                 <SelectValue />
               </SelectTrigger>
               <SelectContent>
@@ -165,7 +200,8 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
       {/* Genre Selection */}
       <GenreSelector 
         selectedGenres={selectedGenres} 
-        onGenreChange={setSelectedGenres} 
+        onGenreChange={setSelectedGenres}
+        error={getFieldError('selectedGenres')}
       />
 
       <Separator />
@@ -173,49 +209,77 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
       {/* Story Elements */}
       <div className="space-y-4">
         <h3 className="text-lg font-semibold">Story Elements</h3>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
           <div className="space-y-4">
             <div className="space-y-2">
-              <Label htmlFor="plot">Plot Outline</Label>
+              <Label htmlFor="plot" className="text-sm font-medium">Plot Outline</Label>
               <Textarea
                 id="plot"
                 placeholder="Describe the main plot points, conflicts, and story arc..."
                 value={plotOutline}
                 onChange={(e) => setPlotOutline(e.target.value)}
                 rows={4}
+                className={`resize-none ${getFieldError('plotOutline') ? 'border-red-500 focus:border-red-500' : ''}`}
               />
+              <div className="flex justify-between items-center">
+                <span className="text-xs text-muted-foreground">{plotOutline.length}/2000 characters</span>
+                {getFieldError('plotOutline') && (
+                  <p className="text-sm text-red-600">{getFieldError('plotOutline')}</p>
+                )}
+              </div>
             </div>
             <div className="space-y-2">
-              <Label htmlFor="characters">Character Details</Label>
+              <Label htmlFor="characters" className="text-sm font-medium">Character Details</Label>
               <Textarea
                 id="characters"
                 placeholder="Describe main characters, their personalities, backgrounds..."
                 value={characterDetails}
                 onChange={(e) => setCharacterDetails(e.target.value)}
                 rows={4}
+                className={`resize-none ${getFieldError('characterDetails') ? 'border-red-500 focus:border-red-500' : ''}`}
               />
+              <div className="flex justify-between items-center">
+                <span className="text-xs text-muted-foreground">{characterDetails.length}/2000 characters</span>
+                {getFieldError('characterDetails') && (
+                  <p className="text-sm text-red-600">{getFieldError('characterDetails')}</p>
+                )}
+              </div>
             </div>
           </div>
           <div className="space-y-4">
             <div className="space-y-2">
-              <Label htmlFor="setting">Setting & World</Label>
+              <Label htmlFor="setting" className="text-sm font-medium">Setting & World</Label>
               <Textarea
                 id="setting"
                 placeholder="Time period, location, world-building details..."
                 value={setting}
                 onChange={(e) => setSetting(e.target.value)}
                 rows={4}
+                className={`resize-none ${getFieldError('setting') ? 'border-red-500 focus:border-red-500' : ''}`}
               />
+              <div className="flex justify-between items-center">
+                <span className="text-xs text-muted-foreground">{setting.length}/1500 characters</span>
+                {getFieldError('setting') && (
+                  <p className="text-sm text-red-600">{getFieldError('setting')}</p>
+                )}
+              </div>
             </div>
             <div className="space-y-2">
-              <Label htmlFor="themes">Themes & Messages</Label>
+              <Label htmlFor="themes" className="text-sm font-medium">Themes & Messages</Label>
               <Textarea
                 id="themes"
                 placeholder="What themes or messages should the book explore?"
                 value={themes}
                 onChange={(e) => setThemes(e.target.value)}
                 rows={4}
+                className={`resize-none ${getFieldError('themes') ? 'border-red-500 focus:border-red-500' : ''}`}
               />
+              <div className="flex justify-between items-center">
+                <span className="text-xs text-muted-foreground">{themes.length}/1000 characters</span>
+                {getFieldError('themes') && (
+                  <p className="text-sm text-red-600">{getFieldError('themes')}</p>
+                )}
+              </div>
             </div>
           </div>
         </div>
@@ -226,30 +290,30 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
       {/* Story Preferences */}
       <div className="space-y-4">
         <h3 className="text-lg font-semibold">Story Preferences</h3>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          <Card>
-            <CardHeader>
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <Card className="shadow-sm hover:shadow-md transition-shadow">
+            <CardHeader className="pb-4">
               <CardTitle className="text-base">Story Options</CardTitle>
             </CardHeader>
             <CardContent className="space-y-4">
-              <div className="flex items-center justify-between">
-                <Label htmlFor="happy-ending">Happy Ending</Label>
+              <div className="flex items-center justify-between py-2">
+                <Label htmlFor="happy-ending" className="text-sm font-medium cursor-pointer">Happy Ending</Label>
                 <Switch
                   id="happy-ending"
                   checked={happyEnding}
                   onCheckedChange={setHappyEnding}
                 />
               </div>
-              <div className="flex items-center justify-between">
-                <Label htmlFor="big-twist">Include Big Twist</Label>
+              <div className="flex items-center justify-between py-2">
+                <Label htmlFor="big-twist" className="text-sm font-medium cursor-pointer">Include Big Twist</Label>
                 <Switch
                   id="big-twist"
                   checked={bigTwist}
                   onCheckedChange={setBigTwist}
                 />
               </div>
-              <div className="flex items-center justify-between">
-                <Label htmlFor="romantic-subplot">Romantic Subplot</Label>
+              <div className="flex items-center justify-between py-2">
+                <Label htmlFor="romantic-subplot" className="text-sm font-medium cursor-pointer">Romantic Subplot</Label>
                 <Switch
                   id="romantic-subplot"
                   checked={romanticSubplot}
@@ -259,15 +323,15 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
             </CardContent>
           </Card>
 
-          <Card>
-            <CardHeader>
+          <Card className="shadow-sm hover:shadow-md transition-shadow">
+            <CardHeader className="pb-4">
               <CardTitle className="text-base">Technical Preferences</CardTitle>
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="space-y-2">
-                <Label htmlFor="rating">Content Rating</Label>
+                <Label htmlFor="rating" className="text-sm font-medium">Content Rating</Label>
                 <Select value={rating} onValueChange={setRating}>
-                  <SelectTrigger>
+                  <SelectTrigger className="h-10">
                     <SelectValue />
                   </SelectTrigger>
                   <SelectContent>
@@ -280,9 +344,9 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
                 </Select>
               </div>
               <div className="space-y-2">
-                <Label htmlFor="perspective">Narrative Perspective</Label>
+                <Label htmlFor="perspective" className="text-sm font-medium">Narrative Perspective</Label>
                 <Select value={perspective} onValueChange={setPerspective}>
-                  <SelectTrigger>
+                  <SelectTrigger className="h-10">
                     <SelectValue />
                   </SelectTrigger>
                   <SelectContent>
@@ -326,13 +390,27 @@ const BookCustomizer = ({ onCreateBook, selectedInspirations = [], onClearInspir
         </div>
       </div>
 
+      {isGenerating && (
+        <BookGenerationProgress 
+          progress={85} 
+          currentStep="Incorporating your custom preferences..." 
+        />
+      )}
+      
       <Button
         onClick={handleGenerate}
         disabled={isGenerating}
-        className="w-full bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700"
+        className="w-full bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 disabled:opacity-50 transition-all duration-200"
         size="lg"
       >
-        {isGenerating ? "Crafting Your Custom Book..." : "Create Advanced Book"}
+        {isGenerating ? (
+          <div className="flex items-center gap-2">
+            <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></div>
+            Crafting Your Custom Book...
+          </div>
+        ) : (
+          "Create Advanced Book"
+        )}
       </Button>
     </div>
   );

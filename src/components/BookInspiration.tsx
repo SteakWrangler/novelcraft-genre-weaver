@@ -5,14 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Lightbulb, Heart, Zap, Crown, Sword, Rocket, Wand2, Search, Plus, RefreshCw, Check, X, ArrowRight } from "lucide-react";
-
-interface BookInspirationProps {
-  onSelectIdea: (idea: any) => void;
-  onUnselectIdea: (idea: any) => void;
-  selectedInspirations: any[];
-  onClearInspirations: () => void;
-  onGoToAdvancedCreator: () => void;
-}
+import { BookInspirationProps, Trope, Setting, PlotStarter, Inspiration } from "@/types";
 
 const BookInspiration = ({ 
   onSelectIdea, 
@@ -59,6 +52,42 @@ const BookInspiration = ({
       description: "Characters pretend to be in a relationship for mutual benefit",
       genres: ["Romance", "Comedy", "Contemporary Fiction"],
       icon: <Heart className="w-4 h-4" />
+    },
+    {
+      name: "Love Triangle",
+      description: "Protagonist must choose between two compelling romantic interests",
+      genres: ["Romance", "Young Adult", "Drama"],
+      icon: <Heart className="w-4 h-4" />
+    },
+    {
+      name: "Slow Burn Romance",
+      description: "Romantic tension builds gradually over the entire story",
+      genres: ["Romance", "Historical Fiction", "Contemporary Fiction"],
+      icon: <Heart className="w-4 h-4" />
+    },
+    {
+      name: "The Reluctant Hero",
+      description: "Hero doesn't want the responsibility but must accept their role",
+      genres: ["Fantasy", "Adventure", "Science Fiction"],
+      icon: <Crown className="w-4 h-4" />
+    },
+    {
+      name: "Magic Academy",
+      description: "Students learning to master supernatural abilities in school setting",
+      genres: ["Fantasy", "Young Adult", "Urban Fantasy"],
+      icon: <Wand2 className="w-4 h-4" />
+    },
+    {
+      name: "Portal Fantasy",
+      description: "Characters travel from our world to a magical realm",
+      genres: ["Fantasy", "Young Adult", "Adventure"],
+      icon: <Zap className="w-4 h-4" />
+    },
+    {
+      name: "Dark Academia",
+      description: "Elite academic setting with secrets, competition, and dark undertones",
+      genres: ["Thriller", "Mystery", "Gothic"],
+      icon: <Crown className="w-4 h-4" />
     }
   ];
 
@@ -79,6 +108,60 @@ const BookInspiration = ({
       name: "Redemption Arc",
       description: "A villain or flawed character seeks to make amends for past wrongs",
       genres: ["Fantasy", "Drama", "Adventure"],
+      icon: <Heart className="w-4 h-4" />
+    },
+    {
+      name: "Soulmates",
+      description: "Two people destined to be together across time and space",
+      genres: ["Romance", "Fantasy", "Paranormal"],
+      icon: <Heart className="w-4 h-4" />
+    },
+    {
+      name: "Prophecy",
+      description: "Ancient prediction drives the plot and character actions",
+      genres: ["Fantasy", "Adventure", "Young Adult"],
+      icon: <Crown className="w-4 h-4" />
+    },
+    {
+      name: "Fish Out of Water",
+      description: "Character finds themselves in completely unfamiliar circumstances",
+      genres: ["Comedy", "Romance", "Science Fiction"],
+      icon: <Zap className="w-4 h-4" />
+    },
+    {
+      name: "Corrupted Utopia",
+      description: "Perfect society reveals dark secrets and hidden flaws",
+      genres: ["Dystopian", "Science Fiction", "Thriller"],
+      icon: <Crown className="w-4 h-4" />
+    },
+    {
+      name: "Antihero Protagonist",
+      description: "Morally ambiguous main character who isn't traditionally heroic",
+      genres: ["Crime", "Thriller", "Drama"],
+      icon: <Sword className="w-4 h-4" />
+    },
+    {
+      name: "Forbidden Love",
+      description: "Romance between characters from opposing sides or forbidden circumstances",
+      genres: ["Romance", "Historical Fiction", "Fantasy"],
+      icon: <Heart className="w-4 h-4" />
+    },
+    {
+      name: "Heist Story",
+      description: "Team assembles to pull off an elaborate theft or con",
+      genres: ["Crime", "Thriller", "Adventure"],
+      icon: <Crown className="w-4 h-4" />
+    },
+    {
+      name: "Rivals to Lovers",
+      description: "Competitive opponents gradually develop romantic feelings",
+      genres: ["Romance", "Sports", "Contemporary Fiction"],
+      icon: <Heart className="w-4 h-4" />
+    },
+    {
+      name: "One Bed",
+      description: "Forced proximity when characters must share sleeping arrangements",
+      genres: ["Romance", "Comedy", "Contemporary Fiction"],
       icon: <Heart className="w-4 h-4" />
     }
   ];
@@ -119,6 +202,42 @@ const BookInspiration = ({
       description: "A world dominated by mega-corporations",
       atmosphere: "Technology, surveillance, rebellion",
       genres: ["Science Fiction", "Dystopian", "Thriller"]
+    },
+    {
+      name: "Medieval Fantasy Kingdom",
+      description: "Classic fantasy realm with knights, castles, and magic",
+      atmosphere: "Adventure, honor, political intrigue",
+      genres: ["Fantasy", "Adventure", "Romance"]
+    },
+    {
+      name: "Modern University Campus",
+      description: "Elite academic institution with competitive atmosphere",
+      atmosphere: "Ambition, social pressure, intellectual discovery",
+      genres: ["Contemporary Fiction", "Romance", "Drama"]
+    },
+    {
+      name: "Jazz Age New York",
+      description: "1920s Manhattan during prohibition era",
+      atmosphere: "Glamour, rebellion, moral complexity",
+      genres: ["Historical Fiction", "Crime", "Romance"]
+    },
+    {
+      name: "Cyberpunk Megacity",
+      description: "High-tech urban sprawl with corporate control",
+      atmosphere: "Neon lights, digital rebellion, class warfare",
+      genres: ["Cyberpunk", "Science Fiction", "Thriller"]
+    },
+    {
+      name: "Haunted Mansion",
+      description: "Ancient estate with supernatural presence",
+      atmosphere: "Gothic mystery, family secrets, supernatural dread",
+      genres: ["Horror", "Gothic", "Mystery"]
+    },
+    {
+      name: "Generation Ship",
+      description: "Multi-generational voyage through space",
+      atmosphere: "Isolation, purpose, social evolution",
+      genres: ["Science Fiction", "Drama", "Space Opera"]
     }
   ];
 
@@ -140,6 +259,60 @@ const BookInspiration = ({
       description: "A place where different time periods coexist",
       atmosphere: "Confusion, wonder, temporal mystery",
       genres: ["Science Fiction", "Fantasy", "Mystery"]
+    },
+    {
+      name: "Desert Nomad Tribes",
+      description: "Wandering people in harsh desert landscapes",
+      atmosphere: "Survival, tradition, harsh beauty",
+      genres: ["Fantasy", "Adventure", "Historical Fiction"]
+    },
+    {
+      name: "Arctic Research Station",
+      description: "Remote outpost in frozen wilderness",
+      atmosphere: "Isolation, survival, claustrophobia",
+      genres: ["Thriller", "Horror", "Science Fiction"]
+    },
+    {
+      name: "Pirate Ship & Caribbean",
+      description: "Age of sail adventure on the high seas",
+      atmosphere: "Freedom, danger, treasure hunting",
+      genres: ["Adventure", "Historical Fiction", "Romance"]
+    },
+    {
+      name: "Alternate Earth",
+      description: "World where history took a different path",
+      atmosphere: "Familiar yet strange, what-if scenarios",
+      genres: ["Alternate History", "Science Fiction", "Dystopian"]
+    },
+    {
+      name: "Virtual Reality World",
+      description: "Digital realm indistinguishable from reality",
+      atmosphere: "Limitless possibilities, identity questions",
+      genres: ["Science Fiction", "Cyberpunk", "Thriller"]
+    },
+    {
+      name: "Boarding School",
+      description: "Elite educational institution with traditions and secrets",
+      atmosphere: "Coming-of-age, social hierarchy, hidden agendas",
+      genres: ["Young Adult", "Mystery", "Drama"]
+    },
+    {
+      name: "Wild West Frontier",
+      description: "Lawless frontier towns during American expansion",
+      atmosphere: "Justice vs survival, rugged individualism",
+      genres: ["Western", "Adventure", "Drama"]
+    },
+    {
+      name: "Steampunk London",
+      description: "Victorian era with advanced steam-powered technology",
+      atmosphere: "Innovation, class contrast, mechanical wonder",
+      genres: ["Steampunk", "Adventure", "Romance"]
+    },
+    {
+      name: "Fairy Tale Forest",
+      description: "Enchanted woodland where magic is real and dangerous",
+      atmosphere: "Wonder, danger, ancient magic",
+      genres: ["Fantasy", "Fairy Tale Retelling", "Romance"]
     }
   ];
 
@@ -173,6 +346,36 @@ const BookInspiration = ({
       hook: "The new neighbor seems too perfect to be real",
       potential: "Secret identity, supernatural being, con artist, spy",
       genres: ["Mystery", "Thriller", "Paranormal"]
+    },
+    {
+      hook: "A librarian discovers books that predict the future",
+      potential: "Time magic, prophecy manipulation, responsibility burden",
+      genres: ["Fantasy", "Mystery", "Drama"]
+    },
+    {
+      hook: "Every mirror shows a different version of reality",
+      potential: "Parallel universes, identity crisis, world-hopping adventure",
+      genres: ["Science Fiction", "Fantasy", "Thriller"]
+    },
+    {
+      hook: "A wedding planner must organize their own ex's wedding",
+      potential: "Second chance romance, professional pride, emotional growth",
+      genres: ["Romance", "Comedy", "Contemporary Fiction"]
+    },
+    {
+      hook: "The world's memory resets every 24 hours except for one person",
+      potential: "Time loop variation, saving the world, loneliness burden",
+      genres: ["Science Fiction", "Drama", "Thriller"]
+    },
+    {
+      hook: "A detective realizes they're investigating their own past crimes",
+      potential: "Memory manipulation, split personality, time travel",
+      genres: ["Mystery", "Psychological Thriller", "Science Fiction"]
+    },
+    {
+      hook: "Magic returns to the modern world, but only children can use it",
+      potential: "Generational conflict, power dynamics, societal upheaval",
+      genres: ["Urban Fantasy", "Young Adult", "Drama"]
     }
   ];
 
@@ -191,6 +394,51 @@ const BookInspiration = ({
       hook: "A character discovers their dreams are someone else's memories",
       potential: "Psychic connection, past lives, shared consciousness",
       genres: ["Fantasy", "Thriller", "Romance"]
+    },
+    {
+      hook: "The world's best assassin is hired to kill themselves",
+      potential: "Time travel, doppelgangers, identity crisis, moral awakening",
+      genres: ["Thriller", "Science Fiction", "Action"]
+    },
+    {
+      hook: "A character can taste emotions in food prepared by others",
+      potential: "Culinary magic, empathy burden, restaurant mysteries",
+      genres: ["Fantasy", "Mystery", "Romance"]
+    },
+    {
+      hook: "Death takes a vacation and asks someone to fill in",
+      potential: "Moral dilemmas, cosmic responsibility, dark comedy",
+      genres: ["Fantasy", "Comedy", "Drama"]
+    },
+    {
+      hook: "A character finds their childhood imaginary friend is real",
+      potential: "Hidden magical world, growing up themes, supernatural adventure",
+      genres: ["Fantasy", "Coming-of-age", "Adventure"]
+    },
+    {
+      hook: "Every photograph taken shows events one hour in the future",
+      potential: "Time manipulation, preventing disasters, changing fate",
+      genres: ["Science Fiction", "Thriller", "Mystery"]
+    },
+    {
+      hook: "A character wakes up as the villain in their favorite book",
+      potential: "Isekai adventure, changing the narrative, redemption arc",
+      genres: ["Fantasy", "Adventure", "Comedy"]
+    },
+    {
+      hook: "The apocalypse happens, but only one small town notices",
+      potential: "Community bonds, isolation horror, questioning reality",
+      genres: ["Horror", "Drama", "Science Fiction"]
+    },
+    {
+      hook: "A character can see the expiration date above everyone's head",
+      potential: "Moral burden, saving lives, dealing with inevitability",
+      genres: ["Drama", "Thriller", "Fantasy"]
+    },
+    {
+      hook: "Two rival food truck owners are forced to share a kitchen",
+      potential: "Enemies to lovers, culinary competition, small business drama",
+      genres: ["Romance", "Comedy", "Contemporary Fiction"]
     }
   ];
 
@@ -202,21 +450,21 @@ const BookInspiration = ({
   const [generatedMoreSettings, setGeneratedMoreSettings] = useState(false);
   const [generatedMorePlots, setGeneratedMorePlots] = useState(false);
 
-  const isSelected = (idea: any, type: string) => {
+  const isSelected = (idea: Trope | Setting | PlotStarter, type: string) => {
     return selectedInspirations.some(inspiration => 
       inspiration.name === idea.name && inspiration.type === type
     );
   };
 
-  const handleToggleIdea = (idea: any, type: string) => {
+  const handleToggleIdea = (idea: Trope | Setting | PlotStarter, type: string) => {
     if (isSelected(idea, type)) {
-      onUnselectIdea({ ...idea, type });
+      onUnselectIdea({ ...idea, type } as Inspiration);
     } else {
-      onSelectIdea({ ...idea, type });
+      onSelectIdea({ ...idea, type } as Inspiration);
     }
   };
 
-  const handleRemoveInspiration = (inspiration: any) => {
+  const handleRemoveInspiration = (inspiration: Inspiration) => {
     onUnselectIdea(inspiration);
   };
 
@@ -315,29 +563,30 @@ const BookInspiration = ({
             </TabsList>
 
             <TabsContent value="tropes" className="space-y-4">
-              <div className="flex justify-between items-center">
+              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-2 sm:gap-0">
                 <h3 className="font-semibold">Choose Your Tropes</h3>
                 <Button
                   variant="outline"
                   size="sm"
                   onClick={() => generateMore('tropes')}
                   disabled={generatedMoreTropes}
-                  className="flex items-center gap-2"
+                  className="flex items-center gap-2 self-start sm:self-auto"
                 >
                   <RefreshCw className="w-4 h-4" />
-                  {generatedMoreTropes ? "All Loaded" : "Generate More"}
+                  <span className="hidden sm:inline">{generatedMoreTropes ? "All Loaded" : "Generate More"}</span>
+                  <span className="sm:hidden">{generatedMoreTropes ? "Loaded" : "More"}</span>
                 </Button>
               </div>
-              <div className="grid gap-4">
+              <div className="grid gap-3 md:gap-4">
                 {popularTropes.map((trope, index) => (
                   <Card key={index} className="hover:shadow-md transition-shadow cursor-pointer border-l-4 border-l-blue-500">
-                    <CardContent className="p-4">
-                      <div className="flex items-start justify-between">
-                        <div className="flex-1">
+                    <CardContent className="p-3 md:p-4">
+                      <div className="flex flex-col sm:flex-row sm:items-start gap-3 sm:justify-between">
+                        <div className="flex-1 min-w-0">
                           <div className="flex items-center gap-2 mb-2">
                             {trope.icon}
-                            <h4 className="font-semibold">{trope.name}</h4>
-                            {isSelected(trope, 'trope') && <Check className="w-4 h-4 text-green-600" />}
+                            <h4 className="font-semibold truncate">{trope.name}</h4>
+                            {isSelected(trope, 'trope') && <Check className="w-4 h-4 text-green-600 flex-shrink-0" />}
                           </div>
                           <p className="text-sm text-muted-foreground mb-3">{trope.description}</p>
                           <div className="flex flex-wrap gap-1">
@@ -352,6 +601,7 @@ const BookInspiration = ({
                           size="sm"
                           variant={isSelected(trope, 'trope') ? "default" : "outline"}
                           onClick={() => handleToggleIdea(trope, 'trope')}
+                          className="flex-shrink-0 self-start sm:self-auto"
                         >
                           {isSelected(trope, 'trope') ? "Selected" : "Select"}
                         </Button>
@@ -363,28 +613,29 @@ const BookInspiration = ({
             </TabsContent>
 
             <TabsContent value="settings" className="space-y-4">
-              <div className="flex justify-between items-center">
+              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-2 sm:gap-0">
                 <h3 className="font-semibold">Choose Your Settings</h3>
                 <Button
                   variant="outline"
                   size="sm"
                   onClick={() => generateMore('settings')}
                   disabled={generatedMoreSettings}
-                  className="flex items-center gap-2"
+                  className="flex items-center gap-2 self-start sm:self-auto"
                 >
                   <RefreshCw className="w-4 h-4" />
-                  {generatedMoreSettings ? "All Loaded" : "Generate More"}
+                  <span className="hidden sm:inline">{generatedMoreSettings ? "All Loaded" : "Generate More"}</span>
+                  <span className="sm:hidden">{generatedMoreSettings ? "Loaded" : "More"}</span>
                 </Button>
               </div>
-              <div className="grid gap-4">
+              <div className="grid gap-3 md:gap-4">
                 {popularSettings.map((setting, index) => (
                   <Card key={index} className="hover:shadow-md transition-shadow cursor-pointer border-l-4 border-l-purple-500">
-                    <CardContent className="p-4">
-                      <div className="flex items-start justify-between">
-                        <div className="flex-1">
+                    <CardContent className="p-3 md:p-4">
+                      <div className="flex flex-col sm:flex-row sm:items-start gap-3 sm:justify-between">
+                        <div className="flex-1 min-w-0">
                           <div className="flex items-center gap-2 mb-2">
-                            <h4 className="font-semibold">{setting.name}</h4>
-                            {isSelected(setting, 'setting') && <Check className="w-4 h-4 text-green-600" />}
+                            <h4 className="font-semibold truncate">{setting.name}</h4>
+                            {isSelected(setting, 'setting') && <Check className="w-4 h-4 text-green-600 flex-shrink-0" />}
                           </div>
                           <p className="text-sm text-muted-foreground mb-2">{setting.description}</p>
                           <p className="text-xs text-blue-600 mb-3">
@@ -402,6 +653,7 @@ const BookInspiration = ({
                           size="sm"
                           variant={isSelected(setting, 'setting') ? "default" : "outline"}
                           onClick={() => handleToggleIdea(setting, 'setting')}
+                          className="flex-shrink-0 self-start sm:self-auto"
                         >
                           {isSelected(setting, 'setting') ? "Selected" : "Select"}
                         </Button>
@@ -413,28 +665,29 @@ const BookInspiration = ({
             </TabsContent>
 
             <TabsContent value="plots" className="space-y-4">
-              <div className="flex justify-between items-center">
+              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-2 sm:gap-0">
                 <h3 className="font-semibold">Choose Your Plot Starters</h3>
                 <Button
                   variant="outline"
                   size="sm"
                   onClick={() => generateMore('plots')}
                   disabled={generatedMorePlots}
-                  className="flex items-center gap-2"
+                  className="flex items-center gap-2 self-start sm:self-auto"
                 >
                   <RefreshCw className="w-4 h-4" />
-                  {generatedMorePlots ? "All Loaded" : "Generate More"}
+                  <span className="hidden sm:inline">{generatedMorePlots ? "All Loaded" : "Generate More"}</span>
+                  <span className="sm:hidden">{generatedMorePlots ? "Loaded" : "More"}</span>
                 </Button>
               </div>
-              <div className="grid gap-4">
+              <div className="grid gap-3 md:gap-4">
                 {plotStarters.map((plot, index) => (
                   <Card key={index} className="hover:shadow-md transition-shadow cursor-pointer border-l-4 border-l-green-500">
-                    <CardContent className="p-4">
-                      <div className="flex items-start justify-between">
-                        <div className="flex-1">
-                          <div className="flex items-center gap-2 mb-2">
-                            <h4 className="font-semibold">"{plot.hook}"</h4>
-                            {isSelected(plot, 'plot') && <Check className="w-4 h-4 text-green-600" />}
+                    <CardContent className="p-3 md:p-4">
+                      <div className="flex flex-col sm:flex-row sm:items-start gap-3 sm:justify-between">
+                        <div className="flex-1 min-w-0">
+                          <div className="flex items-start gap-2 mb-2">
+                            <h4 className="font-semibold text-sm sm:text-base">"{plot.hook}"</h4>
+                            {isSelected(plot, 'plot') && <Check className="w-4 h-4 text-green-600 flex-shrink-0 mt-0.5" />}
                           </div>
                           <p className="text-xs text-green-600 mb-3">
                             <strong>Potential directions:</strong> {plot.potential}
@@ -451,6 +704,7 @@ const BookInspiration = ({
                           size="sm"
                           variant={isSelected(plot, 'plot') ? "default" : "outline"}
                           onClick={() => handleToggleIdea(plot, 'plot')}
+                          className="flex-shrink-0 self-start sm:self-auto"
                         >
                           {isSelected(plot, 'plot') ? "Selected" : "Select"}
                         </Button>

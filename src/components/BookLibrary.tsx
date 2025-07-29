@@ -8,22 +8,7 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from 
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { useToast } from "@/hooks/use-toast";
 import { BookOpen, Download, Search, Calendar } from "lucide-react";
-
-interface Book {
-  id: string;
-  title: string;
-  genres: string[];
-  content: string;
-  settings: any;
-  createdAt: Date;
-  updatedAt: Date;
-}
-
-interface BookLibraryProps {
-  books: Book[];
-  onSelectBook: (book: Book) => void;
-  onUpdateBook: (book: Book) => void;
-}
+import { BookLibraryProps, Book } from "@/types";
 
 const BookLibrary = ({ books, onSelectBook, onUpdateBook }: BookLibraryProps) => {
   const [searchTerm, setSearchTerm] = useState("");
@@ -65,20 +50,20 @@ const BookLibrary = ({ books, onSelectBook, onUpdateBook }: BookLibraryProps) =>
 
   return (
     <div className="space-y-6">
-      <div className="flex items-center justify-between">
-        <div>
-          <h2 className="text-2xl font-bold">My Book Library</h2>
-          <p className="text-muted-foreground">
+      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+        <div className="flex-1">
+          <h2 className="text-xl sm:text-2xl font-bold">My Book Library</h2>
+          <p className="text-sm text-muted-foreground">
             {books.length} {books.length === 1 ? 'book' : 'books'} in your collection
           </p>
         </div>
-        <div className="relative w-64">
+        <div className="relative w-full sm:w-64">
           <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground w-4 h-4" />
           <Input
             placeholder="Search books..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            className="pl-10"
+            className="pl-10 h-10"
           />
         </div>
       </div>
@@ -94,16 +79,16 @@ const BookLibrary = ({ books, onSelectBook, onUpdateBook }: BookLibraryProps) =>
           </CardContent>
         </Card>
       ) : (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
           {filteredBooks.map((book) => (
             <Card key={book.id} className="hover:shadow-lg transition-shadow cursor-pointer">
-              <CardHeader>
+              <CardHeader className="pb-3">
                 <div className="flex items-start justify-between">
-                  <div className="flex-1">
-                    <CardTitle className="text-lg mb-2 line-clamp-2">{book.title}</CardTitle>
+                  <div className="flex-1 min-w-0">
+                    <CardTitle className="text-base sm:text-lg mb-2 line-clamp-2 break-words">{book.title}</CardTitle>
                     <CardDescription className="flex items-center gap-1 text-xs">
-                      <Calendar className="w-3 h-3" />
-                      Created {formatDate(book.createdAt)}
+                      <Calendar className="w-3 h-3 flex-shrink-0" />
+                      <span className="truncate">Created {formatDate(book.createdAt)}</span>
                     </CardDescription>
                   </div>
                 </div>
@@ -115,29 +100,29 @@ const BookLibrary = ({ books, onSelectBook, onUpdateBook }: BookLibraryProps) =>
                   ))}
                 </div>
               </CardHeader>
-              <CardContent>
+              <CardContent className="pt-0">
                 <div className="space-y-3">
                   <div className="text-sm text-muted-foreground">
                     <p><strong>Words:</strong> {getWordCount(book.content)}</p>
                     <p><strong>Rating:</strong> {book.settings?.rating || "Not specified"}</p>
                   </div>
                   
-                  <div className="flex gap-2">
+                  <div className="flex flex-col sm:flex-row gap-2">
                     <Dialog>
                       <DialogTrigger asChild>
                         <Button 
                           variant="outline" 
                           size="sm" 
-                          className="flex-1"
+                          className="flex-1 justify-center"
                           onClick={() => setSelectedBook(book)}
                         >
                           <BookOpen className="w-3 h-3 mr-1" />
                           Read
                         </Button>
                       </DialogTrigger>
-                      <DialogContent className="max-w-4xl max-h-[80vh]">
+                      <DialogContent className="max-w-4xl max-h-[80vh] mx-4">
                         <DialogHeader>
-                          <DialogTitle>{selectedBook?.title}</DialogTitle>
+                          <DialogTitle className="text-base sm:text-lg break-words">{selectedBook?.title}</DialogTitle>
                         </DialogHeader>
                         <ScrollArea className="h-[60vh] pr-4">
                           <div className="whitespace-pre-wrap text-sm leading-relaxed">
@@ -151,9 +136,11 @@ const BookLibrary = ({ books, onSelectBook, onUpdateBook }: BookLibraryProps) =>
                       variant="outline"
                       size="sm"
                       onClick={() => handleDownloadPDF(book)}
+                      className="flex-1 sm:flex-initial justify-center"
                     >
                       <Download className="w-3 h-3 mr-1" />
-                      Download
+                      <span className="hidden sm:inline">Download</span>
+                      <span className="sm:hidden">Save</span>
                     </Button>
                   </div>
                 </div>
