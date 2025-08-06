@@ -31,11 +31,87 @@ export interface BookSettings {
   avoidContent?: string;
   specialRequests?: string;
   selectedInspirations?: Inspiration[];
+  
+  // Format and cost settings
+  format?: FormatSettings;
+  qualityLevel?: QualityLevel;
+  targetWordCount?: number;
+  chapterCount?: number;
+  illustrationCount?: number;
 }
 
 export type ContentRating = 'G' | 'PG' | 'PG-13' | 'R' | 'X';
 
 export type NarrativePerspective = 'first-person' | 'third-person' | 'multiple-pov';
+
+export type BookFormat = 
+  | 'novel'           // Standard novels (current default)
+  | 'picture-book'    // Ages 0-8, illustration-heavy
+  | 'early-reader'    // Ages 5-9, simple chapter books  
+  | 'middle-grade'    // Ages 8-12, longer chapter books
+  | 'graphic-novel'   // Comic/graphic format
+  | 'poetry'          // Poetry collections
+  | 'short-stories'   // Short story collections
+  | 'technical'       // How-to, educational
+  | 'biography'       // Life stories
+  | 'cookbook';       // Recipe collections
+
+export type BookAudience = 'children' | 'young-adult' | 'adult' | 'all-ages';
+
+export type QualityLevel = 'basic' | 'premium' | 'professional';
+
+export interface FormatSettings {
+  format: BookFormat;
+  audience: BookAudience;
+  illustrationStyle?: 'cartoon' | 'realistic' | 'minimalist' | 'none';
+  interactiveElements?: boolean;
+  ageRange?: { min: number; max: number };
+  readingLevel?: 'beginner' | 'intermediate' | 'advanced';
+  fontSizePreference?: 'large' | 'medium' | 'small';
+}
+
+export interface CostBreakdown {
+  base: number;
+  plotting: number;
+  characters: number;
+  writing: number;
+  editing: number;
+  review: number;
+  polish: number;
+  enhancements: number;
+  illustrations: number;
+  total: number;
+}
+
+export interface CostEstimate {
+  estimated: number;
+  range: { min: number; max: number };
+  breakdown: CostBreakdown;
+  confidence: 'low' | 'medium' | 'high';
+}
+
+export interface CostFactors {
+  // Core factors
+  wordCount: number;
+  format: BookFormat;
+  qualityLevel: QualityLevel;
+  
+  // Enhancement factors
+  advancedPlotting: boolean;
+  characterDevelopment: boolean;
+  editingPasses: number;
+  illustrationCount: number;
+  
+  // Complexity multipliers
+  genreComplexity: number; // 1.0-1.5x
+  narrativePerspective: number; // 1.0-1.3x
+  specialRequests: number; // 1.0-2.0x
+  
+  // Book-specific options
+  bigTwist: boolean;
+  romanticSubplot: boolean;
+  happyEnding: boolean;
+}
 
 export interface Inspiration {
   type: InspirationCategory;
