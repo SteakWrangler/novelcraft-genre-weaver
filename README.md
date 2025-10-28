@@ -1,73 +1,116 @@
-# Welcome to your Lovable project
+# NovelCraft Genre Weaver
 
-## Project info
+A sophisticated web application for AI-powered novel generation with advanced genre blending and customization capabilities.
 
-**URL**: https://lovable.dev/projects/42a65034-018d-49c2-9a84-52ce287d3a89
+## Overview
 
-## How can I edit this code?
+NovelCraft Genre Weaver is a modern React-based application that enables users to create unique novels by combining multiple genres, selecting narrative elements, and customizing various aspects of story generation. The application features a clean, intuitive interface built with modern web technologies.
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+- **Genre Blending**: Combine multiple genres to create unique story mashups
+- **Inspiration System**: Choose from curated tropes, themes, and narrative elements
+- **Dual Creation Modes**: Simple quick-start option or advanced customization
+- **Book Library**: Manage and organize your generated content
+- **Cost Estimation**: Real-time cost calculation for generation parameters
+- **Format Options**: Support for multiple output formats and quality levels
+- **Responsive Design**: Fully responsive interface that works on all devices
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/42a65034-018d-49c2-9a84-52ce287d3a89) and start prompting.
+## Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend Framework**: React 18
+- **Build Tool**: Vite
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **UI Components**: Radix UI primitives with shadcn-ui
+- **State Management**: React Hooks with localStorage persistence
+- **Form Handling**: React Hook Form with Zod validation
+- **Routing**: React Router v6
+- **Charts**: Recharts
+- **Icons**: Lucide React
 
-**Use your preferred IDE**
+## Getting Started
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Prerequisites
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Node.js (v16 or higher)
+- npm or yarn package manager
 
-Follow these steps:
+### Installation
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/novelcraft-genre-weaver.git
+cd novelcraft-genre-weaver
+```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+2. Install dependencies:
+```bash
+npm install
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+3. Start the development server:
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The application will be available at `http://localhost:8080`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Build for Production
 
-**Use GitHub Codespaces**
+```bash
+npm run build
+```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+The optimized production build will be in the `dist` directory.
 
-## What technologies are used for this project?
+## Project Structure
 
-This project is built with:
+```
+src/
+├── components/     # React components
+├── hooks/          # Custom React hooks
+├── lib/            # Utility functions and helpers
+├── pages/          # Page components
+├── services/       # Service layer and API interfaces
+└── types/          # TypeScript type definitions
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Architecture
 
-## How can I deploy this project?
+The application uses a clean service-oriented architecture:
 
-Simply open [Lovable](https://lovable.dev/projects/42a65034-018d-49c2-9a84-52ce287d3a89) and click on Share -> Publish.
+- **Service Layer**: Abstracted service interfaces for data operations
+- **Factory Pattern**: Easy swapping between mock and production services
+- **Custom Hooks**: React hooks for component-service integration
+- **Type Safety**: Full TypeScript coverage for type safety
 
-## Can I connect a custom domain to my Lovable project?
+## Development
 
-Yes, you can!
+### Available Scripts
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run build:dev` - Build with development mode
+- `npm run lint` - Run ESLint
+- `npm run preview` - Preview production build locally
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+### Code Style
+
+This project uses ESLint with TypeScript support. Run `npm run lint` to check for code style issues.
+
+## Future Enhancements
+
+- Database integration for persistent storage
+- Real-time AI generation with progress streaming
+- User authentication and profile management
+- Advanced content management system
+- Export functionality for various formats
+
+## License
+
+This project is private and proprietary.
+
+## Contact
+
+For inquiries or support, please open an issue in the repository.
