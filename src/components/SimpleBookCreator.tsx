@@ -1,15 +1,18 @@
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Card, CardContent } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
 import { useToast } from "@/hooks/use-toast";
-import { SimpleBookCreatorProps, Book, BookSettings, BookFormat, QualityLevel } from "@/types";
+import { SimpleBookCreatorProps, Book, BookSettings, BookFormat, QualityLevel, ContentRating } from "@/types";
 import { validateSimpleBook, ValidationError } from "@/lib/validation";
-import { BookGenerationProgress } from "@/components/LoadingSkeletons";
+import { deriveContentConstraints, getDefaultRatingForFormat } from "@/lib/contentConstraints";
+import GenerationProgress from "@/components/GenerationProgress";
+import { useOrchestratorGeneration } from "@/hooks/useOrchestratorGeneration";
 import CostCalculator from "@/components/CostCalculator";
 import CostConfirmationModal from "@/components/CostConfirmationModal";
 import { calculateEstimatedCost } from "@/lib/costCalculator";
@@ -21,96 +24,156 @@ const SimpleBookCreator = ({ onCreateBook }: SimpleBookCreatorProps) => {
   const [description, setDescription] = useState("");
   const [format, setFormat] = useState<BookFormat>("novel");
   const [qualityLevel, setQualityLevel] = useState<QualityLevel>("premium");
-  const [isGenerating, setIsGenerating] = useState(false);
   const [errors, setErrors] = useState<ValidationError[]>([]);
   const [showCostConfirmation, setShowCostConfirmation] = useState(false);
   const { toast } = useToast();
-  
-  // Helper function to get error message for a field
+
+  const {
+    isGenerating,
+    progress,
+    result,
+    error: generationError,
+    startGeneration,
+    cancelGeneration,
+    resetState,
+  } = useOrchestratorGeneration();
+
+  // Default rating derived from format
+  const defaultRating = getDefaultRatingForFormat(format);
+
+  // When orchestrator returns a result, create the book
+  useEffect(() => {
+    if (result) {
+      const bookData: Omit<Book, "id" | "createdAt" | "updatedAt"> = {
+        title: result.title || title,
+        genres: [genre],
+        content: result.content,
+        settings: {
+          simple: true,
+          pages: parseInt(pages),
+          description,
+          rating: defaultRating,
+          format: {
+            format,
+            audience:
+              format === "early-reader"
+                ? ("children" as const)
+                : format === "middle-grade"
+                ? ("young-adult" as const)
+                : ("adult" as const),
+          },
+          qualityLevel,
+          targetWordCount:
+            parseInt(pages) *
+            (format === "early-reader"
+              ? 100
+              : format === "poetry"
+              ? 50
+              : 250),
+        } as BookSettings,
+        bookResult: result,
+      };
+
+      onCreateBook(bookData);
+      toast({
+        title: "Book Created!",
+        description: `Your ${format === "novel" ? genre.toLowerCase() + " novel" : format.replace("-", " ")} "${result.title || title}" has been generated.`,
+      });
+
+      // Reset form
+      setTitle("");
+      setGenre("");
+      setPages(format === "early-reader" ? "64" : "300");
+      setDescription("");
+      setFormat("novel");
+      setQualityLevel("premium");
+      setErrors([]);
+      resetState();
+    }
+  }, [result]);
+
   const getFieldError = (fieldName: string): string | undefined => {
-    return errors.find(error => error.field === fieldName)?.message;
+    return errors.find((error) => error.field === fieldName)?.message;
   };
 
   const genres = [
-    "Romance", "Fantasy", "Science Fiction", "Mystery", "Thriller", 
+    "Romance", "Fantasy", "Science Fiction", "Mystery", "Thriller",
     "Horror", "Historical Fiction", "Contemporary Fiction", "Young Adult",
     "Adventure", "Comedy", "Drama", "Western", "Crime", "Paranormal",
     "Dystopian", "Literary Fiction", "Magical Realism", "Biographical",
-    "Urban Fantasy", "Space Opera", "Cyberpunk", "Steampunk", 
-    "Post-Apocalyptic", "Cozy Mystery", "Psychological Thriller", 
-    "Gothic", "Satire", "Alternate History"
+    "Urban Fantasy", "Space Opera", "Cyberpunk", "Steampunk",
+    "Post-Apocalyptic", "Cozy Mystery", "Psychological Thriller",
+    "Gothic", "Satire", "Alternate History",
   ];
 
+  const handleFormatChange = (value: BookFormat) => {
+    setFormat(value);
+    // Reset pages to a sensible default for the new format
+    if (value === "early-reader") setPages("64");
+    else if (value === "middle-grade") setPages("150");
+    else if (value === "poetry") setPages("80");
+    else setPages("300");
+  };
+
   const handleGenerate = async () => {
-    // Clear previous errors
     setErrors([]);
-    
-    // Validate form data
-    const validation = validateSimpleBook({
-      title,
-      genre,
-      pages,
-      description
-    });
-    
+
+    const validation = validateSimpleBook({ title, genre, pages, description });
     if (!validation.success) {
       setErrors(validation.errors);
       toast({
         title: "Validation Error",
         description: "Please fix the errors below and try again.",
-        variant: "destructive"
+        variant: "destructive",
       });
       return;
     }
 
-    // Show cost confirmation modal
     setShowCostConfirmation(true);
   };
 
   const handleConfirmGeneration = async () => {
     setShowCostConfirmation(false);
-    setIsGenerating(true);
-    
-    // Simulate AI generation (replace with actual AI integration)
-    setTimeout(() => {
-      const bookData: Omit<Book, "id" | "createdAt" | "updatedAt"> = {
-        title,
-        genres: [genre],
-        content: `This is a ${pages}-page ${format === 'novel' ? genre.toLowerCase() + ' novel' : format.replace('-', ' ')} titled "${title}". ${description || "The story unfolds with engaging characters and compelling plot twists."}\n\nChapter 1\n\nThe beginning of an amazing story...`,
-        settings: {
-          simple: true,
-          pages: parseInt(pages),
-          description,
-          rating: "PG-13" as const,
-          format: {
-            format,
-            audience: format === 'picture-book' || format === 'early-reader' ? 'children' as const : 
-                     format === 'middle-grade' ? 'young-adult' as const : 'adult' as const
-          },
-          qualityLevel,
-          targetWordCount: parseInt(pages) * (format === 'picture-book' ? 15 : 
-                                            format === 'early-reader' ? 100 : 
-                                            format === 'poetry' ? 50 : 250)
-        } as BookSettings
-      };
-      
-      onCreateBook(bookData);
-      setIsGenerating(false);
-      
+
+    // Derive content constraints based on format and default rating
+    const constraints = deriveContentConstraints(format, defaultRating);
+
+    // Show toast if any format warnings exist
+    if (constraints.formatWarnings.length > 0) {
       toast({
-        title: "Book Created!",
-        description: `Your ${format === 'novel' ? genre.toLowerCase() + ' novel' : format.replace('-', ' ')} "${title}" has been generated.`
+        title: "Content Rating Adjusted",
+        description: constraints.formatWarnings.join(". "),
       });
-      
-      // Reset form and errors
-      setTitle("");
-      setGenre("");
-      setPages(format === 'picture-book' ? "32" : format === 'early-reader' ? "64" : "300");
-      setDescription("");
-      setFormat("novel");
-      setQualityLevel("premium");
-      setErrors([]);
-    }, 3000);
+    }
+
+    const wordCount =
+      parseInt(pages) *
+      (format === "early-reader"
+        ? 100
+        : format === "poetry"
+        ? 50
+        : 250);
+
+    startGeneration({
+      settings: {
+        simple: true,
+        pages: parseInt(pages),
+        description,
+        rating: constraints.defaultRating,
+        format: {
+          format,
+          audience:
+            format === "early-reader"
+              ? ("children" as const)
+              : format === "middle-grade"
+              ? ("young-adult" as const)
+              : ("adult" as const),
+        },
+        qualityLevel,
+        targetWordCount: wordCount,
+      },
+      contentConstraints: constraints,
+    });
   };
 
   return (
@@ -119,13 +182,18 @@ const SimpleBookCreator = ({ onCreateBook }: SimpleBookCreatorProps) => {
         {/* Format Selection */}
         <div className="space-y-2">
           <Label htmlFor="format" className="text-sm font-medium">Book Format</Label>
-          <Select value={format} onValueChange={(value: BookFormat) => setFormat(value)}>
+          <Select value={format} onValueChange={(value: BookFormat) => handleFormatChange(value)}>
             <SelectTrigger className="h-10">
               <SelectValue placeholder="Select book format" />
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="novel">Novel - Full-length fiction</SelectItem>
-              <SelectItem value="picture-book">Picture Book - Illustrated children's book</SelectItem>
+              <SelectItem value="picture-book" disabled>
+                <span className="flex items-center gap-2">
+                  Picture Book - Illustrated children's book
+                  <Badge variant="secondary" className="text-xs bg-amber-100 text-amber-700">Coming Soon</Badge>
+                </span>
+              </SelectItem>
               <SelectItem value="early-reader">Early Reader - Simple chapter book</SelectItem>
               <SelectItem value="middle-grade">Middle Grade - Chapter book for ages 8-12</SelectItem>
               <SelectItem value="short-stories">Short Stories - Collection of stories</SelectItem>
@@ -148,7 +216,7 @@ const SimpleBookCreator = ({ onCreateBook }: SimpleBookCreatorProps) => {
             <p className="text-sm text-red-600">{getFieldError('title')}</p>
           )}
         </div>
-        
+
         <div className="space-y-2">
           <Label htmlFor="genre" className="text-sm font-medium">Genre</Label>
           <Select value={genre} onValueChange={setGenre}>
@@ -165,7 +233,7 @@ const SimpleBookCreator = ({ onCreateBook }: SimpleBookCreatorProps) => {
             <p className="text-sm text-red-600">{getFieldError('genre')}</p>
           )}
         </div>
-        
+
         <div className="space-y-2">
           <Label htmlFor="quality" className="text-sm font-medium">Quality Level</Label>
           <Select value={qualityLevel} onValueChange={(value: QualityLevel) => setQualityLevel(value)}>
@@ -183,8 +251,7 @@ const SimpleBookCreator = ({ onCreateBook }: SimpleBookCreatorProps) => {
 
       <div className="space-y-2">
         <Label htmlFor="pages" className="text-sm font-medium">
-          {format === 'picture-book' ? 'Pages (typically 24-48)' : 
-           format === 'early-reader' ? 'Pages (typically 48-96)' :
+          {format === 'early-reader' ? 'Pages (typically 48-96)' :
            format === 'poetry' ? 'Pages (typically 60-120)' :
            'Approximate Pages'}
         </Label>
@@ -193,13 +260,7 @@ const SimpleBookCreator = ({ onCreateBook }: SimpleBookCreatorProps) => {
             <SelectValue />
           </SelectTrigger>
           <SelectContent>
-            {format === 'picture-book' ? (
-              <>
-                <SelectItem value="24">24 pages (Short Picture Book)</SelectItem>
-                <SelectItem value="32">32 pages (Standard Picture Book)</SelectItem>
-                <SelectItem value="48">48 pages (Extended Picture Book)</SelectItem>
-              </>
-            ) : format === 'early-reader' ? (
+            {format === 'early-reader' ? (
               <>
                 <SelectItem value="48">48 pages (Short Early Reader)</SelectItem>
                 <SelectItem value="64">64 pages (Standard Early Reader)</SelectItem>
@@ -251,21 +312,31 @@ const SimpleBookCreator = ({ onCreateBook }: SimpleBookCreatorProps) => {
       <Card className="bg-blue-50 border-blue-200 shadow-sm">
         <CardContent className="p-4">
           <p className="text-sm text-blue-700 mb-3">
-            📝 <strong>What happens next:</strong> The AI will create a complete {pages}-page {genre ? genre.toLowerCase() : ""} novel with chapters, character development, and a satisfying conclusion.
+            <strong>What happens next:</strong> The AI will create a complete {pages}-page {genre ? genre.toLowerCase() : ""} {format.replace('-', ' ')} with chapters, character development, and a satisfying conclusion.
           </p>
           <p className="text-xs text-blue-600">
-            ⏱️ Generation typically takes 2-5 minutes depending on length
+            Generation time varies by length and complexity
           </p>
         </CardContent>
       </Card>
 
+      {/* Orchestrator Generation Progress */}
       {isGenerating && (
-        <BookGenerationProgress 
-          progress={75} 
-          currentStep="Crafting your story..." 
+        <GenerationProgress
+          progress={progress}
+          onCancel={cancelGeneration}
+          showCancel
         />
       )}
-      
+
+      {generationError && !isGenerating && (
+        <Card className="border-red-200 bg-red-50">
+          <CardContent className="p-4">
+            <p className="text-sm text-red-700">{generationError}</p>
+          </CardContent>
+        </Card>
+      )}
+
       <Button
         onClick={handleGenerate}
         disabled={isGenerating || !title || !genre}
@@ -282,7 +353,7 @@ const SimpleBookCreator = ({ onCreateBook }: SimpleBookCreatorProps) => {
         )}
       </Button>
       </div>
-      
+
       {/* Cost Calculator Sidebar */}
       <div className="lg:col-span-1">
         <div className="sticky top-4">
@@ -297,7 +368,7 @@ const SimpleBookCreator = ({ onCreateBook }: SimpleBookCreatorProps) => {
           />
         </div>
       </div>
-      
+
       {/* Cost Confirmation Modal */}
       <CostConfirmationModal
         isOpen={showCostConfirmation}

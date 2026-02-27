@@ -8,6 +8,7 @@ export interface Book {
   settings: BookSettings;
   createdAt: Date;
   updatedAt: Date;
+  bookResult?: BookResult;
 }
 
 export interface BookSettings {
@@ -220,4 +221,125 @@ export interface AppState {
   selectedInspirations: Inspiration[];
   loading: boolean;
   error: AppError | null;
+}
+
+// ============================================
+// SERIES MODE TYPES
+// ============================================
+
+export interface SeriesFields {
+  seriesMode: boolean;
+  seriesPosition?: number;
+  seriesName?: string;
+  seriesBibleId?: string;
+  seriesArc?: string;
+}
+
+export interface SeriesBible {
+  id: string;
+  seriesName: string;
+  books: SeriesBookEntry[];
+  overallArc: string;
+  characters: SeriesCharacter[];
+  worldDetails: string;
+  timeline: string;
+  createdAt: Date;
+  updatedAt: Date;
+}
+
+export interface SeriesBookEntry {
+  position: number;
+  bookId: string;
+  title: string;
+  synopsis: string;
+}
+
+export interface SeriesCharacter {
+  name: string;
+  description: string;
+  appearsInBooks: number[];
+}
+
+// ============================================
+// CONTENT CONSTRAINTS TYPES
+// ============================================
+
+export interface ContentConstraints {
+  allowedRatings: ContentRating[];
+  defaultRating: ContentRating;
+  lockedRating?: ContentRating;
+  autoAvoidContent: string[];
+  formatWarnings: string[];
+}
+
+// ============================================
+// JOB PROGRESS TYPES (for orchestrator)
+// ============================================
+
+export type GenerationPhase = 'foundation' | 'structure' | 'drafting' | 'revision' | 'image' | 'output';
+export type JobStatus = 'queued' | 'running' | 'completed' | 'failed' | 'cancelled';
+
+export interface JobProgress {
+  jobId: string;
+  status: JobStatus;
+  currentPhase: GenerationPhase;
+  currentStep: string;
+  percentComplete: number;
+  estimatedTimeRemaining?: number;
+  completedPhases: GenerationPhase[];
+  errors?: string[];
+}
+
+// ============================================
+// BOOK RESULT TYPES
+// ============================================
+
+export interface BookResult {
+  bookId: string;
+  title: string;
+  content: string;
+  chapters: Chapter[];
+  coverImageUrl?: string;
+  seriesBibleId?: string;
+  generationMetadata: GenerationMetadata;
+}
+
+export interface Chapter {
+  number: number;
+  title: string;
+  content: string;
+  wordCount: number;
+}
+
+export interface GenerationMetadata {
+  totalTokensUsed: number;
+  actualCost: number;
+  generationDuration: number;
+  model: string;
+  phases: PhaseMetadata[];
+}
+
+export interface PhaseMetadata {
+  phase: GenerationPhase;
+  duration: number;
+  tokensUsed: number;
+}
+
+// ============================================
+// ORCHESTRATOR SERVICE INTERFACE
+// ============================================
+
+export interface OrchestratorAIService {
+  startBookGeneration(request: BookRequest): Promise<{ jobId: string }>;
+  getJobProgress(jobId: string): Promise<JobProgress>;
+  getJobResult(jobId: string): Promise<BookResult>;
+  cancelJob(jobId: string): Promise<void>;
+  listSeriesBibles(): Promise<SeriesBible[]>;
+  getSeriesBible(id: string): Promise<SeriesBible>;
+}
+
+export interface BookRequest {
+  settings: BookSettings;
+  seriesFields?: SeriesFields;
+  contentConstraints?: ContentConstraints;
 }

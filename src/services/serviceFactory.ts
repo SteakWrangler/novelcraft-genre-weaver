@@ -1,7 +1,8 @@
-import { BookService, InspirationService, AIGenerationService } from '@/types';
+import { BookService, InspirationService, AIGenerationService, OrchestratorAIService } from '@/types';
 import { MockBookService } from './mockBookService';
 import { MockInspirationService } from './mockInspirationService';
 import { MockAIGenerationService } from './mockAIService';
+import { OrchestratorService } from './orchestratorService';
 
 // Environment configuration
 const USE_MOCK_SERVICES = true; // This will be configurable via environment variables
@@ -11,6 +12,7 @@ class ServiceFactory {
   private static bookService: BookService | null = null;
   private static inspirationService: InspirationService | null = null;
   private static aiGenerationService: AIGenerationService | null = null;
+  private static orchestratorService: OrchestratorAIService | null = null;
 
   static getBookService(): BookService {
     if (!this.bookService) {
@@ -51,11 +53,19 @@ class ServiceFactory {
     return this.aiGenerationService;
   }
 
+  static getOrchestratorService(): OrchestratorAIService {
+    if (!this.orchestratorService) {
+      this.orchestratorService = new OrchestratorService();
+    }
+    return this.orchestratorService;
+  }
+
   // Method to reset services (useful for testing or switching environments)
   static resetServices(): void {
     this.bookService = null;
     this.inspirationService = null;
     this.aiGenerationService = null;
+    this.orchestratorService = null;
   }
 }
 
@@ -63,5 +73,6 @@ class ServiceFactory {
 export const bookService = ServiceFactory.getBookService();
 export const inspirationService = ServiceFactory.getInspirationService();
 export const aiGenerationService = ServiceFactory.getAIGenerationService();
+export const orchestratorService = ServiceFactory.getOrchestratorService();
 
 export default ServiceFactory;

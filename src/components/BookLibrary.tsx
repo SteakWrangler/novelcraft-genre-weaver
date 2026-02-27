@@ -9,6 +9,7 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 import { useToast } from "@/hooks/use-toast";
 import { BookOpen, Download, Search, Calendar } from "lucide-react";
 import { BookLibraryProps, Book } from "@/types";
+import ManuscriptViewer from "./ManuscriptViewer";
 
 const BookLibrary = ({ books, onSelectBook, onUpdateBook }: BookLibraryProps) => {
   const [searchTerm, setSearchTerm] = useState("");
@@ -20,8 +21,7 @@ const BookLibrary = ({ books, onSelectBook, onUpdateBook }: BookLibraryProps) =>
     book.genres.some(genre => genre.toLowerCase().includes(searchTerm.toLowerCase()))
   );
 
-  const handleDownloadPDF = (book: Book) => {
-    // Simple text file download (in a real app, you'd generate a proper PDF)
+  const handleDownload = (book: Book) => {
     const element = document.createElement("a");
     const file = new Blob([book.content], { type: 'text/plain' });
     element.href = URL.createObjectURL(file);
@@ -29,7 +29,7 @@ const BookLibrary = ({ books, onSelectBook, onUpdateBook }: BookLibraryProps) =>
     document.body.appendChild(element);
     element.click();
     document.body.removeChild(element);
-    
+
     toast({
       title: "Download Started",
       description: `"${book.title}" is being downloaded.`
@@ -98,6 +98,11 @@ const BookLibrary = ({ books, onSelectBook, onUpdateBook }: BookLibraryProps) =>
                       {genre}
                     </Badge>
                   ))}
+                  {book.bookResult && (
+                    <Badge variant="secondary" className="text-xs bg-green-100 text-green-800">
+                      {book.bookResult.chapters.length} chapters
+                    </Badge>
+                  )}
                 </div>
               </CardHeader>
               <CardContent className="pt-0">
@@ -106,13 +111,13 @@ const BookLibrary = ({ books, onSelectBook, onUpdateBook }: BookLibraryProps) =>
                     <p><strong>Words:</strong> {getWordCount(book.content)}</p>
                     <p><strong>Rating:</strong> {book.settings?.rating || "Not specified"}</p>
                   </div>
-                  
+
                   <div className="flex flex-col sm:flex-row gap-2">
                     <Dialog>
                       <DialogTrigger asChild>
-                        <Button 
-                          variant="outline" 
-                          size="sm" 
+                        <Button
+                          variant="outline"
+                          size="sm"
                           className="flex-1 justify-center"
                           onClick={() => setSelectedBook(book)}
                         >
@@ -120,22 +125,28 @@ const BookLibrary = ({ books, onSelectBook, onUpdateBook }: BookLibraryProps) =>
                           Read
                         </Button>
                       </DialogTrigger>
-                      <DialogContent className="max-w-4xl max-h-[80vh] mx-4">
+                      <DialogContent className="max-w-5xl max-h-[85vh] mx-4">
                         <DialogHeader>
-                          <DialogTitle className="text-base sm:text-lg break-words">{selectedBook?.title}</DialogTitle>
+                          <DialogTitle className="text-base sm:text-lg break-words">
+                            {selectedBook?.title}
+                          </DialogTitle>
                         </DialogHeader>
-                        <ScrollArea className="h-[60vh] pr-4">
-                          <div className="whitespace-pre-wrap text-sm leading-relaxed">
-                            {selectedBook?.content}
-                          </div>
-                        </ScrollArea>
+                        {selectedBook?.bookResult ? (
+                          <ManuscriptViewer result={selectedBook.bookResult} />
+                        ) : (
+                          <ScrollArea className="h-[60vh] pr-4">
+                            <div className="whitespace-pre-wrap text-sm leading-relaxed">
+                              {selectedBook?.content}
+                            </div>
+                          </ScrollArea>
+                        )}
                       </DialogContent>
                     </Dialog>
-                    
+
                     <Button
                       variant="outline"
                       size="sm"
-                      onClick={() => handleDownloadPDF(book)}
+                      onClick={() => handleDownload(book)}
                       className="flex-1 sm:flex-initial justify-center"
                     >
                       <Download className="w-3 h-3 mr-1" />

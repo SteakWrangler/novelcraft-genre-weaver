@@ -1,8 +1,9 @@
-import { Book, Inspiration } from '@/types';
+import { Book, Inspiration, SeriesBible } from '@/types';
 
 const STORAGE_KEYS = {
   BOOKS: 'novelcraft-books',
   SELECTED_INSPIRATIONS: 'novelcraft-selected-inspirations',
+  SERIES_BIBLES: 'novelcraft-series-bibles',
 } as const;
 
 // Generic localStorage utilities
@@ -19,6 +20,15 @@ function getFromStorage<T>(key: string, defaultValue: T): T {
         ...book,
         createdAt: new Date(book.createdAt),
         updatedAt: new Date(book.updatedAt),
+      })) as T;
+    }
+
+    // Convert date strings back to Date objects for SeriesBible objects
+    if (key === STORAGE_KEYS.SERIES_BIBLES && Array.isArray(parsed)) {
+      return parsed.map((bible: any) => ({
+        ...bible,
+        createdAt: new Date(bible.createdAt),
+        updatedAt: new Date(bible.updatedAt),
       })) as T;
     }
     
@@ -80,6 +90,34 @@ export function saveSelectedInspirationsToStorage(inspirations: Inspiration[]): 
 
 export function clearSelectedInspirationsFromStorage(): void {
   localStorage.removeItem(STORAGE_KEYS.SELECTED_INSPIRATIONS);
+}
+
+// Series Bible storage functions
+export function getSeriesBiblesFromStorage(): SeriesBible[] {
+  return getFromStorage(STORAGE_KEYS.SERIES_BIBLES, []);
+}
+
+export function saveSeriesBiblesToStorage(bibles: SeriesBible[]): void {
+  saveToStorage(STORAGE_KEYS.SERIES_BIBLES, bibles);
+}
+
+export function addSeriesBibleToStorage(bible: SeriesBible): SeriesBible[] {
+  const bibles = getSeriesBiblesFromStorage();
+  const updated = [...bibles, bible];
+  saveSeriesBiblesToStorage(updated);
+  return updated;
+}
+
+export function getSeriesBibleByIdFromStorage(id: string): SeriesBible | null {
+  const bibles = getSeriesBiblesFromStorage();
+  return bibles.find(b => b.id === id) || null;
+}
+
+export function updateSeriesBibleInStorage(updatedBible: SeriesBible): SeriesBible[] {
+  const bibles = getSeriesBiblesFromStorage();
+  const updated = bibles.map(b => b.id === updatedBible.id ? updatedBible : b);
+  saveSeriesBiblesToStorage(updated);
+  return updated;
 }
 
 // Clear all app data (useful for development/testing)

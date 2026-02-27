@@ -96,6 +96,27 @@ export function validateAdvancedBook(data: unknown): ValidationResult<z.infer<ty
   return validateData(advancedBookSchema, data);
 }
 
+// Series Fields Validation
+export const seriesFieldsSchema = z.object({
+  seriesMode: z.boolean(),
+  seriesPosition: z.number().int().min(1).max(20).optional(),
+  seriesName: z.string().max(200).optional(),
+  seriesBibleId: z.string().optional(),
+  seriesArc: z.string().max(2000).optional(),
+}).refine(
+  (data) => {
+    if (data.seriesMode) {
+      return data.seriesName && data.seriesName.length > 0 && data.seriesPosition !== undefined;
+    }
+    return true;
+  },
+  { message: 'Series name and position are required when series mode is enabled' }
+);
+
+export function validateSeriesFields(data: unknown): ValidationResult<z.infer<typeof seriesFieldsSchema>> {
+  return validateData(seriesFieldsSchema, data);
+}
+
 // Field-specific validation helpers
 export function validateTitle(title: string): string | null {
   if (!title.trim()) return 'Title is required';
