@@ -36,3 +36,7 @@ dist-ssr
 *.key
 secrets.json
 credentials.json
+
+# Server runtime data
+server/data/
+server/dist/

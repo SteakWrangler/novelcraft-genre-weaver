@@ -1,0 +1,339 @@
+## Chapter 5: The Cassandra Problem
+
+The thing about Cassandra is that everyone gets the myth wrong. They think the curse was that nobody believed her. But that's not quite it. The curse was that she was right, and she knew she was right, and she had to watch people walk into the fire anyway.
+
+I don't have that problem. My problem is worse. People are starting to believe me.
+
+---
+
+March comes in like something dying. The snow retreats in ugly patches, revealing all the trash and dog shit that winter hid, and Cedar Falls looks like what it is — a small city caught between the college and the cornfields, not sure which way to lean. I'm in Marcus's garage, sitting on an overturned bucket while he takes apart a radio he found at Goodwill, and I say it like I'm commenting on the weather.
+
+"GM's going to go bankrupt."
+
+Marcus doesn't look up. He's got a soldering iron in one hand and a look of concentration that makes him seem older than seventeen. "Man, everybody's saying that."
+
+"No. I mean actually bankrupt. Chapter 11. The whole thing. June, probably."
+
+Now he looks up. The soldering iron hovers, trailing a thin wisp of smoke. "June? That's specific."
+
+"I've been reading a lot." Which is true. I have been reading a lot. I just haven't been reading anything that told me this. "The burn rate on their cash reserves, the dealer network contraction, the bond debt coming due—" I'm pulling phrases from articles I remember reading in 2015, retrospectives on the financial crisis, and they sound convincing because they were convincing when actual analysts said them. After the fact.
+
+Marcus sets the iron down carefully. "Like how you called the election."
+
+"That was—"
+
+"Dead on. You said Obama by seven points. It was seven points."
+
+"Six point nine," I say, because I can't help myself.
+
+"Nate." He turns fully now, knees cracking on the concrete floor. "How are you doing this?"
+
+And here it is. The moment I've been manufacturing for months. I need Marcus to trust my predictions because eventually — not now, not soon, but eventually — I'm going to need people who believe me when I say something impossible. Something about a signal. Something about the sky.
+
+"I just pay attention," I say. "Like, really pay attention. Everyone's so busy reacting that they don't look at where things are going."
+
+Marcus stares at me for a long beat. Then he grins, gap-toothed and wide. "So what else? What about the Tigers? We going to State?"
+
+"Marcus. I'm not a magic eight ball."
+
+"Come on."
+
+"I genuinely do not remember who wins Iowa high school baseball this year," I say, and this is completely honest, and he takes it as a joke, and we move on. But something has shifted. There's a new weight behind his eyes when he looks at me. Like I'm someone to be listened to.
+
+Which is what I wanted. And it makes me sick.
+
+---
+
+April. Mr. Kowalski's AP Government class, last period, that dead zone of the afternoon when everyone's thinking about practice or dinner or nothing at all. He's talking about pandemic preparedness — specifically, how underfunded it is, how we learned nothing from SARS. It's a sidebar, barely connected to whatever we're actually supposed to be covering about executive power.
+
+I raise my hand. "There's going to be a pandemic soon."
+
+Kowalski adjusts his glasses. "That's... an interesting contribution, Nate."
+
+"Not like, tomorrow. But we're overdue. Influenza mutation rates, factory farming concentration, international air travel volume—" Again with the borrowed language, the armchair epidemiologist act. "Something like swine flu, maybe. In the next few months."
+
+A few people laugh. Derek, two rows back, doesn't laugh. He's watching me with that measuring look he has, like he's pricing something.
+
+"Well," Kowalski says. "Statistically, you're not wrong. We are overdue for a novel strain. But that's like saying we're overdue for an earthquake. It doesn't mean—"
+
+"Sure," I say. "Just thought it was relevant."
+
+I sit back. It's April 7th. The first WHO advisories about H1N1 will hit the news in about two weeks. By the end of the month, the cable channels will be running PANDEMIC FEARS? chyrons twenty-four hours a day.
+
+And I'll have called it.
+
+Anyway. The point is—
+
+---
+
+Three weeks later, Marcus texts me. It's a Tuesday evening and I'm at the kitchen table pretending to study for AP Calc while actually reading a library book about disaster communication theory. My silver Samsung buzzes against the wood.
+
+**dude. swine flu. u called it.**
+
+I stare at the screen for a while. Then I type back: **just paying attention man**
+
+**ur like a prophet or something lol**
+
+**lol** I type, and set the phone face-down, and look at the ceiling, and think about Cassandra again. She screamed and tore her hair and nobody listened. I murmur and shrug and everyone leans in. Which version of the curse is worse?
+
+From the living room, the TV is running coverage. CDC CONFIRMS NOVEL H1N1 STRAIN. I can hear Diane saying something to Frank about whether they should be worried. Frank's response is a grunt that means *probably not but I'll google it later.*
+
+"Nate?" Sophie appears in the kitchen doorway. She's holding a bowl of cereal — her standard evening snack, Lucky Charms with the marshmallows picked out first. The braces make her look younger than thirteen, which is already young. She's watching me with the bowl held in both hands like a chalice.
+
+"What's up, Soph?"
+
+"You told Mom two weeks ago to buy extra canned soup."
+
+I did say that. Casually. In passing. "I said it might be good to have some extra stuff around. Because of the economy. People are losing jobs—"
+
+"And now there's a flu pandemic."
+
+"It's not a pandemic yet. And the soup thing was about—"
+
+"You're not you anymore."
+
+She says it flat. No accusation, no drama. A thirteen-year-old stating what she observes, the way she might say *the kitchen smells like gas* or *there's a spider on your back.* Simple reporting of an obvious and vaguely dangerous fact.
+
+"Soph. People change. I'm just—"
+
+"People don't change." She takes a bite of cereal, chews, swallows. "They just get better at hiding."
+
+She walks back to the living room. I sit there with my disaster communication book and my buzzing phone and the weight of being seen by someone too young to dismiss and too smart to fool.
+
+She is thirteen and she is right. I'm not me anymore. The person she knew — the version of her brother who ignored her and drank cheap vodka in parking lots and couldn't be bothered to remember what books she liked — that person is gone. Dissolved, like everything else, in the gray light of a June afternoon seventeen years from now. What's left is something wearing his face. Something that knows too much and can't say why.
+
+I close the textbook. Open it again. The numbers don't mean anything. They never did.
+
+---
+
+The college essay writes itself. Not literally — I spend three days at the library and go through six drafts — but the ideas pour out with the conviction of someone who knows exactly what's coming.
+
+*Community resilience in the face of cascading systems failure.* That's my angle. UNI's emergency management program is small, underfunded, the kind of thing practical Iowans study when they're thinking about tornado response and flood logistics. My essay talks about interconnection — how a financial collapse weakens the social fabric that disaster response depends on, how isolation kills more people than the disaster itself, how the communities that survive are the ones that built trust before they needed it.
+
+It's genuine. Every word. I believe what I'm writing because I lived the alternative — the world where nobody prepared, where the bonds between people had been corroding for decades before the sky changed and the aliens came and turned everything they touched into gray sludge. I watched neighbors turn on each other in hours. I watched people die alone in apartments because nobody knew their names.
+
+So the essay is real. But it's also strategy. Emergency management gives me a framework. Access to communication infrastructure. A reason to be thinking about disaster scenarios without looking insane.
+
+I can't tell the difference anymore between the genuine part and the strategic part. Maybe there isn't one. Maybe that's what it means to be whoever I am now.
+
+Frank reads the essay one evening without being asked — I leave it on the counter, an invitation, and he picks it up while his coffee cools. He reads slow, lips not moving but eyes tracking with visible effort. When he finishes he sets it down and nods once.
+
+"Good," he says. "That's good, bud."
+
+Three months later I'll get the acceptance letter. But Frank's nod is the moment I know it worked.
+
+---
+
+May collapses into June. Senior year ends not with a bang but with a series of progressively meaningless obligations — final exams I could pass in my sleep, a senior prank involving plastic flamingos that I participate in because participation is a form of camouflage, and the slow gathering weight of graduation.
+
+GM files for bankruptcy on June 1st. Chapter 11. Largest industrial bankruptcy in American history. Marcus calls me that night and says nothing for about ten seconds.
+
+"Nate."
+
+"Yeah."
+
+"June. You said June."
+
+"I said probably June."
+
+"Nate, what the fuck."
+
+I laugh, and it sounds wrong even to me. "I read a lot of financial stuff, man. It's not magic. The signs were—"
+
+"The *election.* The *flu.* And now—"
+
+"Marcus. I'm just observant. Some people are good at patterns."
+
+He's quiet again. I can hear him breathing, the faint sound of his garage radio in the background. Then: "Okay. But if you ever, like... see something bad coming. For me, or for people. You'd say something, right?"
+
+My throat closes. "Yeah," I manage. "I'd say something."
+
+"Okay." A pause. "Okay, cool. See you tomorrow? Graduation rehearsal?"
+
+"Yeah. See you tomorrow."
+
+I hang up and sit on the edge of my bed and look at my hands. These seventeen-year-old hands that haven't built anything or broken anything yet. I think about Marcus at thirty-five, in the timeline I came from — I don't know what happened to him. After the invasion, I don't know what happened to anyone. The last time I saw a human face before waking up here was a woman I didn't know, running, and then not running anymore.
+
+I'd say something. Yeah. I'm going to say something. I'm going to build a network of people who trust me enough to listen when the time comes, and Marcus is going to be the first one, and maybe — maybe — he won't be running toward gray light in 2026.
+
+Maybe none of them will.
+
+---
+
+Graduation day. June 6th. The sun is out, which feels like a personal affront because I'm wearing a black polyester gown over khakis and I'm sweating through both layers before we even line up.
+
+The gym is packed. Folding chairs in rows, families crammed together, someone's baby crying in the back with that thin desperate sound that means they've been crying for a while. The Class of 2009 files in to "Pomp and Circumstance" played by a brass section that's missing its first-chair trumpet, and we sit in alphabetical order, which means I'm between Brianna Caldwell and Thomas Cho, neither of whom I will ever see again after today.
+
+Derek gives the commencement speech. Of course he does. Class president, 4.0 GPA, captain of debate team — the full resumé of a kid who figured out early that performance is power. He stands at the podium in his pressed gown with the gold honor cords and he talks about *seizing opportunity in uncertain times.* About how this class — our class — won't be defined by the recession, but by our response to it. His voice is smooth and warm and practiced and every word is precisely calibrated to sound inspiring without committing to anything.
+
+The parents love it. Standing ovation.
+
+I watch Derek return to his seat, watch him accept the handshakes and shoulder-pats, and I think about what he said to me in February, sitting outside the library with cigarette smoke curling around his jaw: *Money is the only thing that's real.* I think about his dad losing the house. His mom's two jobs. The way Derek looked at the world and decided the thing to do was win.
+
+He's not wrong. He's just solving the wrong problem.
+
+Marcus, seven rows back, catches my eye and makes a face — crossed eyes, tongue out — and I almost laugh out loud in the middle of Jessica Demarco's name being called. He has no gold cords, no special honors. His GPA is fine. His engineering dreams are big and real and he'll pursue them at Iowa State in the fall, two hours south, where he'll be the only Black kid in half his classes and he'll build bridges anyway. Because that's what Marcus does.
+
+They call my name. I walk across the stage. Principal Henderson shakes my hand and says something I don't hear. Camera flashes. Diane is definitely crying. I can't see her but I know. I know.
+
+After — the parking lot, the chaos of families finding each other, the caps thrown upward in that clichéd arc that nonetheless feels like something when you're in it — after all that, Frank finds me. He's wearing his good flannel, the one with no paint on it, and his work boots are cleaned. He extends his hand.
+
+A handshake. Not a hug. A handshake. Man to man. His calloused palm against mine, firm and dry, and he holds it for exactly the right amount of time, and he says, "Proud of you, bud," and that's it. That's the most physically demonstrative my father has ever been.
+
+Diane wraps me in both arms and sobs into my gown and says about fifteen things I can't make out. Sophie stands to the side eating a piece of sheet cake from the refreshment table. She watches. She doesn't congratulate me. But she doesn't say anything sharp either, and from Sophie, silence is a gift.
+
+And then Marcus, arm around my shoulders, cap in his free hand, grinning so wide I can count every tooth and the gap between them: "Everything starts now, right?"
+
+I smile. It's real and it's fake and it's both at once, like everything I do.
+
+"Yeah," I say. "Everything starts now."
+
+I mean something completely different.
+
+---
+
+## Chapter 6: The Bookshelf and the Debt
+
+The deck is rotting from the inside. You can't see it unless you know where to look — the surface boards are weathered but intact, the gray wood grain still pretty in a rustic way. But Frank peels back one of the planks and shows me the joists underneath, soft and dark with water damage, the grain separated like wet cardboard.
+
+"See that?" He pokes a screwdriver into the wood and it sinks an inch without resistance. "Been going for years. Whole thing needs to come out."
+
+It's the second week of June. Summer stretches ahead, featureless and hot. I'm eighteen years old and I have nowhere to be until August, when UNI orientation starts, and Frank has a plan for my time that involves manual labor and very few words.
+
+"I'll get the sawzall," I say.
+
+He nods. That's how it starts.
+
+---
+
+Demolition takes two days. We pry up deck boards and cut through nails with the reciprocating saw and stack the ruined lumber by the alley for bulk pickup. The joists come apart in chunks, punky and wet, and underneath is bare earth and gravel and the cinder block footings that Frank poured himself in 1997, which are fine. The foundation is fine. It's everything built on top that failed.
+
+I don't think about the metaphor. I refuse to think about the metaphor.
+
+Frank works without explaining. He assumes I can see what needs doing, and mostly I can — I'm thirty-five in a teenage body, I've held tools before, I understand leverage and sequence. But Frank doesn't know that. Frank thinks his son, who six months ago could barely make eye contact, is now hauling lumber and running a skill saw with quiet competence, and he doesn't ask why. He just adjusts. Hands me the next board. Holds the other end while I mark the cut line.
+
+By the end of the second day my shoulders are sunburned and my hands are torn up. I haven't done this kind of work in this body. These muscles are new to the task. At dinner I can barely lift my fork and Sophie says, "You look like you got hit by a truck," and Frank says, "He's fine," and that's approval.
+
+---
+
+The new deck goes up over three weeks. Pressure-treated lumber, 5/4 decking, stainless steel screws instead of nails. Frank ordered everything from the lumber yard on 18th Street — he knows the guy, got a contractor discount even though he's not a contractor, just a pipe fitter who can build anything if you give him enough weekends.
+
+We develop a rhythm. Mornings we start at seven, before the heat gets bad. Frank drinks his coffee on the porch — the front porch, the one that's not torn apart — and I eat whatever breakfast I can assemble, usually toast, sometimes cereal. By seven-fifteen we're in the backyard with the radio on, tuned to the classic rock station, and we work until noon when the sun gets directly overhead and the air goes thick and shimmering.
+
+Afternoons I'm at the library. But mornings belong to the deck.
+
+Frank doesn't talk much during the work. Instructions, mostly. "Hold that." "Other end." "Six inches from the edge." But sometimes, in the pauses — while we're drinking water or measuring a board for the third time because Frank measures everything three times — he talks.
+
+"Pop was a pipe fitter too," he says one morning. We're sitting on the frame, legs dangling, the bare joists below us. "Started me when I was sixteen. Summers, then after school."
+
+I know this. I knew this in the original timeline too, but it was background noise, family history I never asked about. Now I hold still and wait.
+
+"He wasn't bad." Frank turns his water bottle in his hands, looking at the yard. The Johnsons' elm tree throws a long shadow. "He just didn't know how to be good. There's a difference."
+
+I wait.
+
+"Came home and he was tired. And when he was tired he drank. And when he drank he was..." Frank shrugs one shoulder. "Loud. He was loud."
+
+This is more than Frank has ever told me. In either timeline. I understand that I'm receiving something precious and fragile, offered because the work has created a space where men can talk without facing each other, where the words can fall into the middle distance and not land anywhere too hard.
+
+"I decided a long time ago," Frank says. "Whatever he was. I'd be something else."
+
+He stands up, caps his water bottle, and picks up the drill. We go back to work. He doesn't say anything else about it, and I don't ask. But for the rest of the morning I'm thinking about the physics of inheritance — how a man can be shaped entirely by what he refused to repeat. How silence can be a choice, not an absence. How Frank's quiet is not the same as his father's loud. It's the precise opposite. It's the space left behind when you remove something dangerous and decide not to fill it with anything else.
+
+---
+
+I find the bookshelf on a Thursday.
+
+I'm in the garage looking for the box of deck screws — Frank keeps his hardware organized by size in coffee cans on a shelf, but we've run through the 3-inch screws faster than expected. The garage is dim and hot and smells like gasoline and old sawdust. I'm reaching behind a stack of boxes near the back wall when my hand hits something smooth and flat.
+
+I pull the boxes forward. Behind them, leaning against the wall at an angle, is a bookshelf. Pine. About four feet tall, three shelves, simple construction. The wood is hand-sanded — I can see the slight inconsistency of the grain, the places where the orbital sander missed and the hand had to go back. The joints are mortise and tenon. No nails. The whole thing was built with patience and a modest set of tools and it's slightly uneven — the left side is maybe a quarter inch taller than the right. You'd only notice if you put a level on it.
+
+Frank built this. For me. When I was twelve.
+
+I stand there in the garage with my hand on the top of it and I remember — the original version. Frank carried it up to my room one afternoon and I said something like "cool" or "thanks" and never put a single book on it. It ended up back in the garage within a year. Shoved behind boxes. Buried under the accumulation of family life. Frank never mentioned it again.
+
+It's been back here for six years, collecting dust. The hand-sanded pine gone gray in places. A water stain on one side from a leak in the garage roof that Frank fixed in 2007.
+
+I carry it out into the sunlight. It weighs nothing. It weighs everything.
+
+---
+
+I put it in my room. Between the window and the desk, where the light hits it in the afternoon. I wipe it down with a damp rag and put books on it — the disaster communication theory book from the library, my AP textbooks that I'm keeping for no good reason, the copy of *Ender's Game* that Marcus lent me sophomore year and I never returned, a beat-up paperback of Vonnegut's *Cat's Cradle* that I found at Goodwill last month. The shelf bows very slightly under the weight. The quarter-inch lean to the left is visible if you look for it.
+
+Frank walks past my door that evening on the way to the bathroom. I hear his footsteps slow. Stop. I'm at my desk with a library book open, pretending to read. He stands in the doorway for maybe three seconds.
+
+"Looks good in there," he says.
+
+Then his footsteps continue down the hall. The bathroom door closes.
+
+Three words. Five syllables. A man who built something for his son six years ago, saw it rejected without ceremony, said nothing about it, stored it without bitterness, and now — now sees it in use, holding weight, doing what it was made to do. And the only thing he says is *looks good in there.*
+
+I wait until I hear the bathroom faucet running. Then I put my face into my pillow and I cry like I'm drowning. Not sad crying. Not happy crying either. Some third thing that doesn't have a name. The crying you do when someone has been loving you for years and you finally have the eyes to see it.
+
+In the original timeline, that shelf rotted behind boxes until the garage itself was gone. Along with the house. Along with Frank. Along with everything.
+
+I keep my face in the pillow until I can breathe normally. Then I wash my face in my bedroom sink and go downstairs and ask Frank if he wants to watch the Cardinals game. He says yes. We sit on the couch and watch baseball and he falls asleep in the fourth inning and I cover him with the afghan from the back of the couch and turn the volume down.
+
+---
+
+The library becomes my second job. Three afternoons a week, sometimes four. I have a table I think of as mine — back corner of the second floor, near the periodicals nobody reads, with a view of the parking lot and the early-summer trees going full and green.
+
+I'm reading everything. SETI publications. Astrophysics journals. Signal detection theory. The Drake equation and its critics. Fermi's paradox and the zoo hypothesis and the dark forest theory. Papers with titles like "On the Statistical Properties of Narrowband Signals in Radio SETI" and "Bayesian Inference Applied to Anomalous Spectral Features."
+
+I'm building a script.
+
+Not a literal script — I'm not writing dialogue on index cards — but a framework. A way to walk into Dr. Judith Chen's office in a few months and say something that will make her listen. Something that isn't "I'm from the future and aliens are coming." Something that starts with a question and ends with her wanting to look at the coordinates I know by heart.
+
+Her papers are good. Really good. She writes with a clarity unusual in astrophysics — no jargon for jargon's sake, every sentence doing work. Her most cited paper is on statistical methods for differentiating signal from noise in radio telescope data, published 2006, and it's exactly what someone would need if they were trying to identify a non-natural transmission in a very specific part of the sky.
+
+I take notes in a spiral-bound notebook that I keep in my backpack at all times. The notes look like an overeager freshman trying to impress a professor. That's fine. That's the costume. Underneath the costume is a thirty-five-year-old man who watched the sky turn gray and who knows exactly which frequency, which coordinates, which date in 2011, the signal will arrive.
+
+Two years from now. Just over two years. I have to be ready. I have to have someone credible standing next to me when I point at the sky and say *there.*
+
+---
+
+Evening. Late June. The deck is almost finished — just the railing left, which we'll do next week. The backyard smells like cut grass and the citronella candle Diane lit to keep the mosquitoes back. She's on the old porch swing we moved to the side yard while the deck was torn up. I'm sitting on the steps with a glass of lemonade.
+
+"Come sit," she says.
+
+I sit. The swing creaks. She pushes with one foot, a gentle motion that makes the chains sigh.
+
+"I don't know what happened to you," she says.
+
+I go very still.
+
+"Sometime last fall. Maybe over summer. I don't know exactly when." She's not looking at me. She's looking at the yard, at the fireflies just starting to blink near the fence line. "But you're different."
+
+"Mom—"
+
+"Better," she says. "You're different and you're better. Kinder. Present." She pauses. "You used to be here but not here. Like you were waiting for something to start. And now you're... here."
+
+I think about the absolute insane irony of that statement. I was here but not here. Correct. I was here, in this time, in this body, with my family who was alive and my future that hadn't happened yet, and I was sleepwalking through it because I was seventeen and seventeen-year-olds don't know they're living in the good part.
+
+"I'm proud of you," Diane says. Simply. Like it's nothing.
+
+I almost tell her. Right then, on the porch swing, with the fireflies and the citronella and the new deck behind us smelling like clean lumber — I almost open my mouth and say *Mom, I came back. I was thirty-five and the world ended and something sent me back here and I don't know why but I'm trying to fix it.* I can feel the words in my chest like a physical pressure. The relief of being known. Of being seen for what I actually am instead of this performance I'm locked inside.
+
+I close my mouth. I look at the fireflies.
+
+"Thanks, Mom," I say.
+
+She reaches over and squeezes my hand once. Then she goes inside to finish the dishes. I sit on the swing and listen to the chains creak and watch the light drain out of the sky, and I think about all the people I can't tell and all the reasons I can't tell them and how the loneliness of this is not the worst thing. The worst thing would be telling them and having them look at me differently. The worst thing would be becoming something other than their son. Their brother. Their friend.
+
+So I keep the secret. I keep all of them. They're stacking up like debts.
+
+---
+
+Night. My room. The books on Frank's shelf throw long shadows in the streetlight coming through the window. I can see the lean — the quarter inch, the imperfection, the evidence of a man doing his best with a hand saw and a square and love he couldn't say out loud.
+
+I lie in bed and think: In the original version, I spent this summer getting drunk with Derek Holt. In that version, I never rebuilt the deck with Frank. Never heard him talk about his father. In that version, the shelf rotted in the garage and I rotted right along with it — slowly, invisibly, from the inside out, like the deck joists. The surface looked fine. The grain was pretty. But the weight-bearing parts were soft and dark and falling apart.
+
+I'm not that anymore. I don't know what I am — time traveler, con artist, Cassandra in reverse — but I'm not that.
+
+I turn off the light.
+
+Tomorrow I start building something else. The deck was practice. The foundation is set. Now comes the frame — the network, the credibility, the relationships that will hold weight when the weight comes. Dr. Chen in the fall. Marcus after that. Maybe others. Slowly. Carefully. One board at a time, measured twice, screwed down with stainless steel so the weather can't pull it apart.
+
+I have two years. It's not enough and it's everything.
+
+I close my eyes. The bookshelf holds.

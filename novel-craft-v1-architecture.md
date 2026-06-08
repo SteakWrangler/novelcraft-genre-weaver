@@ -95,6 +95,23 @@ This document outlines the complete architecture for an AI-powered book generati
 | **Dolphin 70B** | Uncensored content, humor, cliché detection, edgy/mature themes |
 | **Qwen3 32B** | Fast iteration tasks, scene outlining, quick evaluations |
 
+> **AMENDMENT (March 2026):** These were planning targets for local Ollama deployment. The backend was built using **Ollama Cloud** instead. Actual models in use:
+>
+> | Role | Cloud Model | Replaces |
+> |------|------------|----------|
+> | creative | `kimi-k2:1t-cloud` | Qwen3 72B |
+> | structural | `deepseek-v3.1:671b-cloud` | DeepSeek |
+> | uncensored | `qwen3.5:397b-cloud` | Dolphin 70B |
+> | fast | `gpt-oss:20b-cloud` | Qwen3 32B |
+> | evaluator | `gpt-oss:120b-cloud` | (new role) |
+>
+> Key discoveries during testing:
+> - `qwen3:235b-cloud` (original creative model) was removed from Ollama Cloud
+> - `qwen3.5:cloud` (default tag) returns 404 — must use `qwen3.5:397b-cloud`
+> - `character-architect` needs `maxTokens: 16384` to avoid truncating multi-character JSON
+>
+> See `server/src/config.ts` for the authoritative configuration.
+
 ---
 
 ## Input Processing

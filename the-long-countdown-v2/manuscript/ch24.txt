@@ -1,0 +1,353 @@
+## Chapter 24: June Fourteenth
+
+I wake at 4:11 AM on the morning of my thirty-fifth birthday and I know before I open my eyes.
+
+Not because of a sound. Not because of a text or an alarm or any of the monitoring systems that Chen spent three years calibrating. I know because the air is different. There's a pressure behind my sinuses that wasn't there when I fell asleep — subtle, the way barometric changes are subtle, the way the first tremor before an earthquake is subtle. Something that the body registers before the mind finds language for it.
+
+I'm lying in the dark with Elena beside me. Her breathing is slow and even. Her hand is on my chest, fingers curled loosely against the fabric of my t-shirt. The room smells like her shampoo and the lavender sachet she keeps in the top dresser drawer. Normal things. Small things. Things that exist in the last few hours before everything changes.
+
+I don't move. I stay there for sixty seconds — I count them — and I let myself have this. The weight of her hand. The sound of her breathing. Hazard's tags jingling faintly as he shifts at the foot of the bed, dreaming about something that makes his legs twitch. The absolute stillness of a house at four in the morning when no one else is awake and the world hasn't started yet.
+
+Then I reach for my phone.
+
+Three messages from Chen. The first at 3:47 AM: *Particulate density spike. Twelve sigma above baseline. Not a drill.* The second at 3:52: *Calling NEORAN alert cascade in 30 minutes. Confirm receipt.* The third at 4:03: *Nate. It's today.*
+
+I sit up. Elena stirs.
+
+"Nate?"
+
+"It's time," I say.
+
+She's quiet for three seconds. Then she sits up too. No questions. No panic. Just the rustle of sheets, the click of the bedside lamp. She's already reaching for the go-bag under the bed — the one we packed together six months ago, the one she checks every two weeks without being asked.
+
+"I'll get Hazard's crate," she says. "You call Frank."
+
+I nod. She's moving — quiet, purposeful, no wasted motion. I watch her for two seconds in the lamplight. Brown hair tangled from sleep. Paint still under her fingernails from last night. A woman who decided to believe me and then decided to stay and then decided to be ready, and who is now proving all three of those decisions correct in the space of thirty seconds.
+
+I call Frank.
+
+It rings four times. Five. My father has never been a fast riser and his phone lives on the dresser across the room because he read somewhere that the radiation is bad for you. This is a man who worked with welding torches for thirty years without safety glasses until 2015 but draws the line at cell phone radiation. The sixth ring.
+
+"Yeah." His voice. Graveled with sleep but alert underneath. Frank Callahan doesn't do groggy. He does asleep and he does awake and the transition between them takes about one and a half seconds.
+
+"Dad. It's Nate."
+
+"I know who it is. It's four in the goddamn morning."
+
+"Dad. It's today."
+
+Silence. Two seconds. Three.
+
+"Today today."
+
+"Yes, sir."
+
+I hear him breathe. One long breath in, one long breath out. I hear the bedsprings creak as he sits up. I hear, distantly, Diane's voice — a murmur, a question.
+
+"We'll be there," Frank says. "Give us forty minutes."
+
+"The gymnasium. Not the mill — the gymnasium at Jefferson Elementary. That's where I'll be."
+
+"Forty minutes." He hangs up.
+
+I stare at the phone. My hand is steady. I notice this the way you notice that the sky is still dark outside the window — as a fact, without commentary. Eighteen years of preparation. Eighteen years of knowing this morning would come. And now that it's here, my hand is steady, and I don't know what that means about me.
+
+---
+
+The drive to the gymnasium takes eleven minutes. Elena is in the passenger seat. Hazard is in the back, nose pressed to the window, sensing something in the air that he can't name but doesn't like. His whining is low and continuous, a sound I've never heard him make before. The streets are empty. It's 4:38 AM and Cedar Falls is still asleep, the houses dark, the stoplights cycling through their colors for no one.
+
+The sky is wrong. Not gray yet — not the flat, featureless gray I remember from the first timeline. But the stars are gone. The predawn sky should be clear tonight — I checked the forecast yesterday out of habit, the way I've checked it every day for eighteen years — and instead there's a haze. High up. Barely visible unless you know what you're looking for. A faint particulate shimmer that eats the starlight.
+
+I know what's up there. I've known for eighteen years. But knowing a thing and seeing it begin are different in a way that lives in the body, not the mind. My stomach is tight. My jaw aches. I realize I'm clenching my teeth and I force myself to stop.
+
+"The stars are gone," Elena says. She's looking out her window, face tilted up.
+
+"Yeah."
+
+"How long until it's visible? The gray?"
+
+"Last time, the sky was fully gray by sunrise. Maybe a little after."
+
+"So people will wake up and it'll be — done. Already changed."
+
+"Yes."
+
+She reaches across the console and puts her hand on my leg. Doesn't say anything. Just the weight of her hand. I cover it with mine and we drive the rest of the way in silence.
+
+---
+
+The gymnasium at Jefferson Elementary is a building I've spent four years preparing. From the outside, it still looks like a school gym — yellow brick, high windows with wire mesh, the kind of building that every small city in the Midwest has forty of. But the basement has been reinforced. The water recycling system went live in March. The hydroponic grow rooms in the converted locker rooms have been producing greens for twelve weeks. The air filtration can run forty-eight hours on the backup generators, longer on the solar array we installed on the roof last summer.
+
+It looks like a school gym. It's a lifeboat.
+
+Marcus is already there when I pull in. His truck is parked at the loading dock, tailgate down, and he's carrying plastic bins of medical supplies through the service entrance. He sees my headlights and straightens up — six-three, broad-shouldered, his face unreadable in the dark.
+
+"Chen's cascade went out at 4:15," he says as I get out. "I was here by 4:20. Sophie's on her way — she's picking up the comms equipment from the storage unit."
+
+"Good. How's the building?"
+
+"Structure's solid. I did the walk-through last week. Roof's holding, foundation's dry, no cracks in the reinforcement. We're good." He hesitates. "Nate."
+
+"Yeah."
+
+"Today."
+
+"Today."
+
+He nods. Once. The same nod he's given me for fifteen years — since we were twenty, since I told him the truth in his dorm room and he decided to believe me, since we rebuilt a friendship on the foundation of an impossible story that kept proving itself right. The nod that says: *I'm here. We're doing this. What's next.*
+
+"Let's get the lights on," I say.
+
+---
+
+By 5:30 AM, the gymnasium is operational. The overhead fluorescents cast their flat institutional light over a space that has been transformed: sleeping areas along the east wall, marked with blue tape on the hardwood floor. Medical triage near the locker room entrance — three folding tables, supply bins, a partition screen Elena found at a thrift store. Communications station at the scorer's table — Sophie's domain, three laptops and a satellite uplink and a marine radio that can reach the other NEORAN nodes within two hundred miles. Food prep in the old concession area. Water station by the south doors.
+
+We've drilled this. Four times in the last year, full-scale exercises with volunteers. Each time it took thirty minutes to get the space configured. Tonight it takes nineteen. Nobody is pretending anymore.
+
+Elena is at medical, laying out supplies with the focused precision of someone who took a wilderness EMT course fourteen months ago specifically for this morning. She didn't have to do that. She chose to. The way she chose all of it — chose to read my files, chose to believe, chose to stay, chose to learn tourniquet application and IV placement and wound debridement because the woman she fell in love with was a man who knew the world was ending and she decided that if the world was ending then she was going to be useful when it did.
+
+Sophie arrives at 5:42. She comes through the main doors carrying two duffel bags of communications gear, her hair pulled back in a ponytail, her face set in the expression I've come to recognize as her version of Frank's flat competence — the look that says *there will be time for feelings later; right now there is work.*
+
+"Satellite link is up in the truck," she says, dropping the bags at the scorer's table. "I'll have the base station running in ten minutes. Chen's already on the network — she pinged me from the university lab."
+
+"Good. What about the other nodes?"
+
+"Des Moines confirmed active. Omaha confirmed. Minneapolis is coming online now. Kansas City hasn't responded yet but their activation window isn't until 5:45 Central, so give them a minute."
+
+She's already unpacking equipment, hands moving with the specific efficiency of someone who has done this exact sequence of actions in practice and is now doing it for real and finding, with some satisfaction, that the practice holds. My sister. Four years ago she was a social worker who'd never touched a satellite radio. Now she's running communications for a regional survival network because her brother asked her to learn and she said yes.
+
+I think about the version of Sophie who wouldn't look at me at Dad's funeral. The version who said *Nate, I'm scared of you* over the phone when I was twenty-six and drunk. The distance between that version and this one — the woman unpacking radios at 5:42 AM with steady hands — is the distance I traveled. Not alone. Never alone. But I'm the one who had to walk it first, before anyone else would follow.
+
+---
+
+6:14 AM. Sunrise.
+
+Except there is no sunrise. The sky goes gray.
+
+Not gradually. Not the slow fade I've been watching since 4 AM. At 6:14 — the exact minute, the precise timestamp that has lived in my memory for eighteen years — the haze that has been building in the upper atmosphere reaches a density that blocks direct sunlight. The quality of light coming through the gymnasium's high windows shifts. One moment it's the thin blue of predawn. The next it's flat. Even. Gray. The same gray I saw from my apartment window in the first timeline, the morning I woke up hungover and thirty-five and already dead in every way that mattered.
+
+I'm standing in the middle of the gymnasium floor. Around me, six volunteers are setting up the last of the sleeping cots. Sophie is at her station, headphones on. Marcus is in the basement checking the water system. Elena is organizing medication into labeled bins.
+
+Nobody screams. Nobody panics. The people in this room — the eight of us, the early crew, the ones who knew what was coming — we just look up. We look at the windows. We see the gray. And we keep working.
+
+It's the people who arrive later who will be afraid. The ones who wake up to a changed sky and no explanation. The ones whose phones will stop working when the cell towers overload. The ones who will remember this morning for the rest of their lives as the morning the world broke.
+
+But in this gymnasium, at 6:14 AM on June 14, 2026 — my thirty-fifth birthday, the anniversary of my first death — the lights are on and the water system is pressurized and the satellite link is broadcasting and we keep working. Because that is the only sane response to the end of the world. You keep working.
+
+---
+
+By 8 AM, people are arriving.
+
+Not the coordinated arrivals of NEORAN members who got the cascade alert. Those people — forty-three of them in the Cedar Falls node — arrived between 5:30 and 7:00, calm, carrying go-bags, knowing what to do. These are the others. The neighbors. The scared ones. The ones who woke up to gray sky and dead lawns and phones that don't connect and drove to the one place in town they remembered hearing about — the community emergency shelter at Jefferson Elementary, the one that nice nonprofit organized, the one that sent flyers last spring.
+
+They come in waves. A family of four with a toddler in a car seat, the father's face white, the mother carrying a diaper bag and a gallon of water. An elderly couple — the Hendersons, I know them from the hardware store — with a cat in a carrier and a plastic bin of canned goods. Three college-age kids from UNI, still in pajama pants, clutching their phones like talismans even though the screens show no signal.
+
+I'm at the door. I don't have to be — we have a check-in process, volunteers assigned to intake. But I'm at the door because this is the thing I built and these are the people I built it for and I need to see their faces when they come in. I need to see the fear shift to something else when they walk through the doors and see the lights on and the cots set up and Sophie's calm voice on the PA saying *welcome, please check in at the desk to your left, water is available at the south wall.*
+
+The fear doesn't go away. But something else layers on top of it. Relief. Recognition. The particular expression of a person who realizes that someone thought about this before they did. That someone prepared. That the ground under their feet, in this one building, in this one small city in Iowa, is solid.
+
+By 9 AM, we have a hundred and twelve people in the gymnasium.
+
+By 10, a hundred and sixty.
+
+By 10:30, Marcus has done his first structural assessment of the day and confirmed the building is holding fine, and Chen is on satellite link with four other NEORAN nodes reporting similar numbers, and Elena has treated two panic attacks and one sprained ankle from someone tripping on the curb in the parking lot, and Sophie has established communication with the county emergency management office which is, predictably, overwhelmed and grateful to hear that we exist.
+
+And the grass outside is dying.
+
+I can see it through the propped-open doors when new people arrive. The lawn in front of the school — the one the janitor mowed last Thursday, the one with the dandelions growing along the chain-link fence — is browning. Not uniformly. In patches, spreading, the green draining out of the blades the way color drains from a face. The oak tree in the parking strip has leaves that are curling inward. It's June. The leaves should be full and dark green and making shade for the kids who would have been playing here in two weeks when school let out. Instead they're pulling tight, going the color of old paper, drifting down one by one.
+
+I watch this for thirty seconds through the open door. Then I close the door. Not because I'm afraid to see it. Because there are a hundred and sixty people in this building who don't need to watch the world die in real time. Not yet. They'll see it soon enough.
+
+---
+
+Noon. The sky has not changed. The gray is constant — no variation, no movement, no clouds distinguishable within it. Just flat gray from horizon to horizon, the same dead light falling everywhere, casting no shadows because there's no directionality to it. Like being inside a lightbox. Like the sun has been replaced with a fluorescent panel the size of the sky.
+
+I'm in the old coach's office that we've converted to a command center — a desk, a laptop connected to Chen's monitoring network, a whiteboard with the day's status written in Sophie's neat print. Marcus is here. Elena. Sophie, taking a break from comms to eat a protein bar.
+
+Chen's face is on the laptop screen, pixelated slightly by the satellite connection. Behind her, the university lab is lit by the same flat gray coming through the windows. Boltzmann is asleep on a stack of papers beside her keyboard. She looks tired. She looks focused. She looks like a woman who has been right about something terrible for three years and is now watching her data become reality.
+
+"Twelve nodes reporting nominal across the network," she says. "Omaha has four hundred people. Des Moines is approaching capacity — they're opening the secondary site. Minneapolis is online but having generator issues. Kansas City finally responded. They're operational."
+
+"How many people total?" I ask. "Across all nodes."
+
+"Approximately four thousand, as of last count. Growing."
+
+Four thousand. Out of three hundred and thirty million. I don't do the math because the math is devastating. But four thousand people are in buildings with filtered air and clean water and hydroponic food production and communication networks and medical supplies, because eighteen years ago a man woke up in his childhood bedroom with knowledge of the future and decided to do something with it other than drink himself to death.
+
+Four thousand. It's not enough. It was never going to be enough. Elena told me that, years ago, in her apartment with paint on her hands and my files spread across the kitchen table. *Three hundred and thirty million in this country. Then scale it.* We scaled it. We scaled it as far as money and time and volunteers and permits and physics allowed. And it's still not enough, and it was never going to be, and the only choice was between not enough and nothing.
+
+"The vessels are visible now," Chen says. "Naked eye. Southern horizon."
+
+I go outside.
+
+---
+
+The parking lot is half-full — people's cars, abandoned wherever they stopped. The air is different than it was at 4 AM. Not the pressure I felt then — something else now. A flatness. The smell of nothing. The same subtraction of scent I remember from the first timeline, when the air in my apartment complex seemed to have been cleaned of everything that made it air and replaced with something that was breathable but empty.
+
+I look south.
+
+They're there. Four — no. I count. Seven. Seven shapes on the southern horizon, above the tree line, above the buildings. They're vast. The word that comes to mind is *platform* — flat, broad, featureless shapes that hang in the gray sky with no visible means of support. No lights. No sound. No movement that I can detect. They are simply there, the way a mesa is there, the way a mountain is there — geological in their indifference. As if they have always been part of the sky and we are only now noticing.
+
+They're not warships. I know this because I saw what they did in the first timeline. They don't attack. They don't threaten. They harvest. The way a combine harvester doesn't threaten wheat. The wheat is irrelevant to the machine except as material. The machine isn't hostile. The machine isn't friendly. The machine is a machine.
+
+The Kessari — the name Chen gave them three years ago, from a Sanskrit word meaning "that which extracts" — are not here for us. We are not the point. The planet is the point. The biomass is the point. We are incidental to the harvest the way mice are incidental to a wheat field being cut.
+
+I stand in the parking lot and I look at them and I feel — less than I expected to feel. In the first timeline, I never saw them clearly. I was dead before they arrived in force. Now I'm seeing them for the first time with sober eyes and a clear mind and I feel not terror but a deep, quiet sadness. The sadness of confirmation. The sadness of having been right for eighteen years and wishing, more than anything, that I had been wrong.
+
+I go back inside. There are a hundred and eighty people in the gymnasium now. They need me in here more than the sky needs me to look at it.
+
+---
+
+1:47 PM. A commotion at the main entrance. I'm across the floor helping Marcus anchor a partition wall and I hear the voices — one of them raised, aggressive, frightened. I cross the gymnasium in long strides.
+
+Derek Holt is at the door. Two of our intake volunteers are between him and the main floor. He's not trying to push past them — he's standing there, coat on, bag over one shoulder, looking around the gymnasium with an expression I can't immediately read. Not panic. Not relief.
+
+Recognition.
+
+He sees me. I see him. The volunteers look between us.
+
+"Let him in," I say.
+
+Derek walks toward me. He's older than the last time I saw him — when was that? Six years ago? Seven? A chance encounter at a gas station on the interstate. He'd been driving somewhere. I'd been driving somewhere. We'd nodded at each other across the pumps the way men do when they used to be friends and aren't anymore but aren't enemies either. The neutral nod of elapsed time.
+
+He's thinner now. His hair is going gray at the temples. He's wearing a canvas jacket and work boots and he looks like a man who drove here from somewhere else because he remembered something he'd heard years ago and didn't believe it then but believes it now because the sky is gray and the grass is dead and the things on the horizon are not going away.
+
+"Nate." He stops in front of me. Close enough that I can see the broken capillaries along his nose, the lines around his eyes. "Nate Callahan."
+
+"Derek."
+
+"You knew." Not a question. A statement. Flat. His eyes move across the gymnasium — the cots, the medical station, the communications array, the organized efficiency of a place that was prepared for this exact morning. "You knew. For eighteen years."
+
+"Yes."
+
+"And you spent that time — what? Making amends? Playing house?"
+
+I look at him. Derek Holt, who I drank with in college. Who I ghosted when I got sober. Who heard rumors about my weird survivalist nonprofit and made jokes about it at parties, probably. Who is standing in my shelter now because the world is ending and my shelter is the only building in Cedar Falls with lights on and water running and someone at the door saying *welcome.*
+
+"Yes," I say.
+
+"You could have been a king." His voice is quiet now. Not angry. Something else — bewildered, maybe. The bewilderment of a man looking at a choice he doesn't understand. "If you knew all this was coming — you could have owned everything. You could have been on top when it all fell apart."
+
+"I was," I say. "In the first version. It wasn't worth it."
+
+He stares at me. Five seconds. Ten. I don't know what he sees in my face. I don't know what the answer looks like from the outside — whether it looks like wisdom or insanity or the specific calm of a man who has been doing the math on this trade for two decades and is certain of the result.
+
+"Find a cot," I say. "East wall. There's water at the south station. We'll have food at six."
+
+He nods. Slowly. Then he walks toward the east wall. Sets his bag on a cot. Sits down. Looks at his hands.
+
+I watch him for a moment. Then I turn back to the floor. There are things to do.
+
+---
+
+3:15 PM. Frank's truck.
+
+I hear it before I see it — the rumble of the F-150's engine, the one that's needed a new muffler since 2019, the one Frank keeps saying he'll fix next weekend and never does. I'm at the south doors checking the water station when the sound registers, and something in my chest goes tight in a way that has nothing to do with the Kessari.
+
+I go to the main entrance. Frank's truck is pulling into the lot — slow, careful, the way he drives when the roads are icy even though the roads aren't icy, because Frank Callahan drives the same way in every condition: steady, unhurried, hands at ten and two. The truck bed is full. I can see blankets. Cases of canned goods — beans, soup, vegetables. A cooler. A five-gallon jug of water. Two folding chairs.
+
+He parks. Diane gets out of the passenger side first — my mother, sixty-three, her face pale but composed, wearing the puffy vest she bought at Costco three years ago and carrying a canvas tote bag. Frank gets out the driver's side. Flannel shirt. Work boots. Sixty-six years old, a stent in his left anterior descending artery that was placed eighteen months ago, and he's lifting a case of Campbell's soup from the truck bed like it weighs nothing.
+
+Nobody told him to bring supplies. Nobody sent him a list. He just — brought them. Because there's a crisis and his son is running a shelter and Frank Callahan shows up to crises with what he has, and what he has is a truck full of blankets and canned goods and forty years of showing up.
+
+I walk to the truck.
+
+"Dad."
+
+He sets the soup on the tailgate. Looks at me. His face does the thing it always does — the minimal assessment, the quick scan for damage. He's been doing this since I was seventeen and came downstairs a different person and he couldn't tell why but he knew something had changed. He's been doing it for eighteen years and it still takes him less than two seconds.
+
+"You look like hell," he says.
+
+"Yeah. Busy morning."
+
+"Looks like." He pulls another case from the bed — green beans, store brand. "Where do you want this stuff?"
+
+"Inside. Food prep is in the old concession area."
+
+"Diane's got blankets in the back seat. Twenty — the good ones, the wool ones she keeps in the hall closet."
+
+I help him unload. We don't talk about the sky. We don't talk about the things on the horizon. We carry soup and blankets and a five-gallon jug of water through the main doors of a gymnasium that is holding two hundred people now, and the act of carrying is its own language. Frank's language. The language I spent eighteen years learning to speak.
+
+Inside, Diane has already found the families with small children. She's distributing blankets, talking in the low, firm voice she uses when things are serious — the voice from the hospital when Frank had his stent placed, the voice from the phone calls after Dad's first heart attack. Not soothing, exactly. Competent. The voice of a woman who raised two children and worked thirty years as a dental hygienist and knows that what people need in a crisis isn't comfort. It's someone who appears to know what they're doing.
+
+Frank carries the last case in, sets it in the concession area, and then — without being asked, without looking for direction — starts walking the floor. Blankets over his arm. Handing them out. Nodding at people. Not talking much. Just present. Visible. A sixty-six-year-old man in a flannel shirt distributing blankets in a gymnasium because that's what there is to do and he's here and it needs doing.
+
+I stand by the door and I watch him for a minute. I watch my father move through a room full of frightened people and make each one of them a little less frightened, not through words or reassurance but through the sheer fact of his presence. Through the unshakeable ordinariness of a man handing out blankets. Through the message that this act transmits without language: *someone is here. Someone knows what to do. You are not alone in this.*
+
+I think about the version of this day where I never came back. The version where I stayed dead in my apartment at thirty-five, unmade by the white light with nothing to show for my life except empty bottles and an eviction notice. The version where Frank died of his heart attack at sixty-three with a drunk son who couldn't iron a shirt for the funeral. The version where this gymnasium is just a gymnasium, dark and locked, and the people outside have nowhere to go.
+
+I think about this for exactly five seconds. Then I stop, because there is no room in this day for the luxury of reflection. There are two hundred and fourteen people in this building and the number is growing and the sky is gray and will stay gray and there is work to do.
+
+---
+
+The afternoon passes in blocks of activity that blur at the edges. I move through the building — command center to main floor to medical to comms to the basement and back. I answer questions. I make decisions. I solve problems that are small and immediate and human: a family needs a private space for a nursing mother. The backup generator kicked off and needs a manual restart. A man is having a panic attack by the east wall and Elena needs me to talk to him because he won't respond to strangers.
+
+The man's name is Gerald. He's forty-two, an accountant, lives alone. He drove here from Waterloo because someone at his office mentioned the NEORAN shelter in Cedar Falls and he didn't know where else to go. He's sitting on the floor with his back against the wall and his arms wrapped around his knees and his breathing is all wrong — fast, shallow, the whistling inhale of someone whose chest won't open.
+
+I sit down next to him. Not touching. Just present.
+
+"Hey. Gerald. I'm Nate. You're okay."
+
+"I'm not okay." His voice is thin. Compressed. "The sky — did you see — the things out there—"
+
+"I saw them. I know. You're safe in here."
+
+"They're going to — we're all going to—"
+
+"Maybe. But not today. Not in this building. Today you're here and the water works and the lights are on and you're going to be okay."
+
+He looks at me. His eyes are wet and wide. "How do you know?"
+
+I don't have an answer to that question that wouldn't sound insane. So I just say what's true: "Because I spent eighteen years making sure of it."
+
+He stares at me for a long time. Then his breathing slows. Not all the way. But enough. He nods. I put a hand on his shoulder — briefly, just the weight of it — and then I stand up and I go back to the floor because there are two hundred and thirty people now and the afternoon isn't over and the world is still ending outside and inside the lights are still on.
+
+---
+
+Evening. The gray deepens but doesn't darken — there's no sunset because there's no sun visible, just the even dimming of ambient light as the day ends. The high windows of the gymnasium show nothing but gray, the same gray they've shown all day, flat and featureless and pressing against the glass like something that wants in.
+
+We close the doors at 7 PM. Not because we're turning people away — not yet, we're not at capacity — but because the temperature outside is dropping and the filtration system works better with the building sealed. Marcus has done his third structural assessment of the day. Everything holds. The walls are solid. The roof is solid. The reinforced basement, if we need it, is ready.
+
+Two hundred and forty-seven people. In a gymnasium in Cedar Falls, Iowa. Children are sleeping on cots along the east wall, curled under Diane's wool blankets. Three families have claimed corners with the partitions we put up. The elderly couple from the hardware store — the Hendersons — are sitting on folding chairs that Frank set up for them, their cat asleep in its carrier between them.
+
+The gymnasium smells like canned soup and body heat and industrial cleaning solution and fear. But also something else. Something I don't have a word for. The smell of a room full of people who are alive and together and not dying. The smell of a thing that's working.
+
+Sophie is at her station. The satellite link shows green. Eight NEORAN nodes active across the Midwest. Four more coming online in other regions. Twelve thousand people in shelters tonight. Not enough. Never enough. But not nothing. Not nothing.
+
+Chen checks in at 8:30. Her face on the laptop screen looks the same — tired, focused, alive. Behind her, Boltzmann has moved from the papers to her lap.
+
+"The particulate density has stabilized," she says. "It's not increasing anymore. The vessels appear to have established a fixed position. Harvesting activity is concentrated on agricultural zones — fields, forests, grasslands. Urban areas are experiencing secondary die-off from the atmospheric changes, but the primary extraction is focused on high-biomass regions."
+
+"So they're farming."
+
+"In the crudest possible sense, yes. They're extracting organic material. The atmosphere is a byproduct of the extraction process — or possibly a preparation for it. The particulates may be breaking down cellular structures in the biomass before collection."
+
+"How long?"
+
+"I don't know. Your first timeline didn't have this data. We're in new territory."
+
+New territory. Eighteen years of preparation for this day, and now we're in new territory. The irony doesn't escape me. It just doesn't matter.
+
+"Keep monitoring," I say. "Report anything that changes."
+
+"Obviously." A pause. The ghost of a smile. "Happy birthday, Nate."
+
+"Thanks, Chen."
+
+The screen goes dark. I sit in the coach's office alone for thirty seconds. The gray light from the window is the only illumination. From the main floor I can hear voices — quiet, murmuring, the sound of two hundred and forty-seven people settling in for a night they never imagined.
+
+Happy birthday. Thirty-five years old. The same age I was when I died the first time. The same day. The same event.
+
+But not the same man. Not the same outcome.
+
+I stand up. I go back to the floor. There's work to do.
+
+---
+
+Night falls. The sky is gray and will not clear. Outside, the grass is dead. The trees are dropping leaves in June. The air smells like nothing. Seven vast platforms hang on the horizon, indifferent, harvesting a world that doesn't know how to stop them.
+
+But in the gymnasium, the lights are on. Two hundred and forty-seven people are alive. Some are sleeping. Some are talking in low voices. Some are crying. Hazard is lying on a cot next to a girl who can't be more than six, and she's got her arm around his neck and her face buried in his fur and he's letting her hold him because that's what he does. Frank is in a folding chair by the east wall, a cup of coffee in his hand, watching the room the way he watches everything — quiet, steady, present.
+
+Not everyone is safe tonight. Not everywhere. I know this. I carry the weight of everyone who didn't have a shelter, who didn't hear about NEORAN, who woke up this morning to a gray sky and had nowhere to go. I carry it the way I've carried everything for eighteen years — in the bones, in the jaw, in the tight place behind the sternum that never fully unclenches.
+
+But here. In Cedar Falls. The lights are on.

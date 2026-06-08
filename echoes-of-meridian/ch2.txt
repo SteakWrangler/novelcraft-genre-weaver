@@ -1,0 +1,213 @@
+The object appeared on Adrienne Park's screen at 03:47 Zulu, and for eleven seconds she believed it was a software artifact.
+
+She had been watching a routine satellite conjunction — two defunct weather platforms drifting toward a near-miss in low Earth orbit — when the new track materialized at the edge of her display. It carried no transponder code. Its radar cross-section suggested something larger than the International Space Station, and it was decelerating.
+
+Nothing in space decelerated without thrust.
+
+Park clicked through three verification layers, her fingers moving with the automatic precision of someone who had spent nine years inside Cheyenne Mountain trusting procedure over instinct. She checked the track against the catalog. No match. She checked for sensor ghosting, for atmospheric refraction errors, for the particular breed of software glitch that had once convinced a night-shift operator he was looking at a Chinese ASAT test. Nothing. The object was real, it was inbound from a vector roughly consistent with the constellation Lyra, and it was slowing down.
+
+She picked up the red phone.
+
+"Colonel, this is Park in Space Track. I have an uncorrelated target on approach, bearing—" She read the coordinates. "Negative on catalog match, negative on known debris. Cross-section is anomalous. It's showing controlled deceleration."
+
+Silence on the line. Then: "Say again on deceleration."
+
+"Controlled deceleration, sir. Consistent reduction in velocity over the last four minutes. Whatever it is, it's braking."
+
+She heard the colonel exhale. In nine years she had never heard him do that on an open line.
+
+"Wake up the chain," he said. "All of it."
+
+---
+
+Lena's flight from Mérida landed at George Bush Intercontinental at six in the morning, and by six-forty she was in the back of a government car she hadn't requested, watching Houston's sprawl slide past tinted windows. The driver hadn't spoken beyond confirming her name. Her phone had been collected at the gate by a woman in a navy blazer who'd handed her a single sheet of paper — a nondisclosure agreement with UNOOSA letterhead and a signature line that was still warm from the printer.
+
+She'd signed it. There hadn't been a realistic alternative.
+
+The car delivered her to the Johnson Space Center's administrative complex, a building she'd visited twice for conferences and remembered as aggressively beige. Inside, a security officer checked her credentials against a list, handed her a badge marked TEMPORARY — ESCORT REQUIRED, and led her through corridors that smelled of recycled air and fresh coffee.
+
+She was tired in a way that had nothing to do with sleep. In the forty-one hours since the deep scan, the structure beneath Chicxulub had become simultaneously the most important discovery of her career and something she was no longer permitted to discuss. Her laptop had been imaged at the Mérida airport by two men who spoke politely and carried military identification. Her research files were, she assumed, already on servers she would never see.
+
+And now something was coming from Lyra, and someone thought she needed to be in this building.
+
+The escort brought her to a conference room on the third floor. It was large, windowless, designed for the kind of meeting that never appeared on public calendars. A long table with built-in power strips. Projection screens on two walls. Coffee station in the corner with the particular institutional grimness of a facility that had given up on aesthetics decades ago.
+
+About twenty people were already seated or standing in small clusters. Lena recognized none of them by face but could read the taxonomy by dress — military uniforms in three national flavors, civilian suits that telegraphed various agencies, a handful of people in less formal clothes who carried the particular exhaustion of having been pulled from active research. Her people.
+
+She poured herself coffee. It was burnt. She drank it anyway and found a seat near the middle of the table, close enough to the screens to read fine print but far enough from the head to avoid suggesting she thought she belonged there.
+
+A man in a JAXA flight jacket was leaning against the wall to her right, arms crossed, watching the room fill. He was compact, broad-shouldered, with black hair buzzed close and a face that had spent time outdoors — crow's feet pressed into the skin around his eyes in a way that suggested years of squinting into bright sky. His sleeves were pushed to his elbows, and Lena noticed a thin white scar running along his right forearm, old enough to have gone smooth.
+
+He was the calmest person in the room. Not performing calm — not the rigid stillness of someone managing anxiety — but genuinely settled, the way a pilot might be in the minutes before a flight he'd rehearsed until it bored him. He was reading the room the same way she was, she realized. Cataloging. And when his gaze reached her, it paused for exactly one beat longer than it had on anyone else, a brief calibration, before moving on.
+
+She looked away. Opened her notebook. Wrote nothing in it.
+
+The door at the head of the room opened, and Director James Hadley walked in.
+
+She had seen him on screens — UNOOSA press conferences, a TED talk she'd watched half of on a flight. In person he was taller than expected, heavy-boned, with an expensive haircut and wire-rimmed glasses that sat on his face like a prop. He moved with the specific authority of someone who had spent decades in rooms where authority was the primary currency.
+
+"Let me be clear about why you're here," he said, without preamble, without introducing himself, because the assumption that everyone knew who he was functioned as its own kind of introduction. "Fourteen hours ago, NORAD Space Track identified an uncharted object on approach from outside the solar system. It is large — current estimates place it at approximately eight hundred meters in length. It is decelerating. It will reach Earth orbit within the next six to nine hours."
+
+The room did not erupt. Lena had expected eruption — gasps, crosstalk, the immediate fracture of composure. Instead there was a settling, a collective inward breath, as though twenty people had simultaneously decided to become very precise.
+
+"This is not an asteroid," Hadley continued. "Its deceleration profile is inconsistent with any natural phenomenon. We are treating this as a first-contact scenario until evidence suggests otherwise. You have been selected for this committee based on your respective expertise, and I want to be direct: nothing discussed in this room leaves it. Not to colleagues, not to family, not to your agencies' press offices. The information-control protocols are in your briefing packets."
+
+Packets were being distributed. Lena opened hers and found a thin folder — radar cross-section data, a trajectory plot, a spectral analysis that someone had stamped PRELIMINARY in red ink. She scanned the spectrograph and felt the hairs on her arms lift. The alloy signature was wrong. Not wrong as in erroneous — wrong as in impossible, as in not matching any known element combination, as in exactly the kind of wrong she'd been staring at for three weeks in her Austin lab.
+
+She looked up and found the man in the JAXA jacket watching her again. He'd seen her reaction.
+
+Hadley was introducing the committee leads. Military liaison from NORTHCOM. A State Department representative who looked like she hadn't slept. ESA's director of space situational awareness, attending by encrypted video from Darmstadt. And Kai Ōmura, JAXA, pilot and aerospace liaison.
+
+So that was his name.
+
+Ōmura straightened off the wall when introduced, gave a short nod, and said nothing. Professional, economical. The nod of someone who understood that the room didn't need his personality right now — it needed his credentials.
+
+"Dr. Sarić," Hadley said, and Lena felt the room's attention rotate toward her. "Scientific advisor. Dr. Sarić's recent fieldwork is directly relevant to what we're seeing, and I'll ask her to brief the committee once we've established the operational framework."
+
+It was a leash dressed as an invitation. She recognized the construction — *you'll speak when I let you* — and filed it away without expression.
+
+The next two hours were procedural. Communication protocols. Chain-of-command diagrams. The particular bureaucratic choreography that large organizations perform when confronted with something they have no protocol for, which is to build a protocol in real time and pretend it was always there. Lena listened, took notes, and felt the structure beneath Chicxulub pulling at her attention like a weight on a fishing line.
+
+At 09:15, Hadley called a break. People stood, stretched, checked phones that had been silenced but not surrendered. Lena was reaching for the coffee station when a paper cup appeared in her line of sight, already filled. She looked up.
+
+Ōmura. He'd poured it without her asking.
+
+"Milk's off," he said. "I'd go black."
+
+"I take it black."
+
+"Then you're sorted."
+
+He poured his own — black as well — and leaned against the counter beside her, not close enough to crowd, not far enough to suggest avoidance. The flight jacket had a mission patch on the shoulder she didn't recognize.
+
+"You read the spectral data fast," he said.
+
+"It's what I do."
+
+"And the face you made when you read it."
+
+She looked at him directly. His eyes were dark, patient, unbothered by silence in a way that most people weren't. He wasn't fishing. He was offering an observation and leaving space for her to do what she wanted with it.
+
+"I've seen that alloy signature before," she said. She shouldn't have. The NDA covered everything. But the spectral data in the briefing packet was already being shared with the room, and she hadn't specified where she'd seen it. A truthful deflection. She was getting better at those.
+
+He nodded as if this confirmed something he'd already suspected. "Thought so."
+
+Before she could decide whether to say more, a comms officer stepped into the room with a face that made everyone stop talking.
+
+"Director Hadley. It's in orbit. And it's broadcasting."
+
+---
+
+They crowded back to the table. The comms officer patched the feed through the room's speakers, and for a moment there was only static — the hiss and crackle of a signal passing through processing filters — and then a voice filled the room.
+
+It was not human. It was close enough to human that the difference registered as wrongness rather than alienness, the way a slightly mistuned instrument is more jarring than a completely foreign sound. The cadence was measured, the pronunciation precise, and it spoke in English:
+
+*"People of Earth. We received your call. We are sorry it took so long."*
+
+The message repeated. Then the language shifted — the same words in Mandarin, delivered with the same careful precision. Then Spanish. Then English again.
+
+Lena's hand was flat on the table. She pressed her fingers against the surface and felt the laminate, cool and solid, and used that sensation to anchor herself against the vertigo of what she was hearing. *We received your call.* Not *we detected your signal*. Not *we intercepted your transmission*. Your call. As though someone had placed it. As though someone, sixty-six million years ago, had picked up a phone and dialed.
+
+Hadley raised a hand and the audio was muted. The room was very quiet.
+
+"Analysis," he said.
+
+The comms officer swallowed. "The broadcast is omnidirectional, sir. Every frequency. Every language we've checked so far — it's cycling through at least forty. But there's something embedded in the carrier wave." He tapped his tablet. "A modulated subfrequency. We've isolated it and it appears to be a — a code, sir. A repeating numerical sequence."
+
+"What kind of code?"
+
+"We don't know yet. We're running it against—"
+
+"I know what it is," Lena said.
+
+The room turned to her again. Hadley's expression was controlled but she could see the tension in his jaw, the displeasure of a man whose script had just been deviated from.
+
+"Dr. Sarić."
+
+She stood. She didn't need to, but the information deserved the posture. "Three weeks ago, my team completed a deep-scan survey of the Chicxulub crater in the Yucatán. We identified a manufactured structure at four-point-two-kilometer depth. The structure has been continuously emitting a low-frequency signal since we first detected it — a repeating numerical sequence embedded in what appears to be a distress code."
+
+She paused. The room was so quiet she could hear the ventilation system cycling.
+
+"The embedded code in this broadcast matches the signal from the structure. Not approximately. Exactly. Same sequence, same modulation pattern, same mathematical structure. Whatever is in orbit is responding to whatever is under the Yucatán. The call they received was sixty-six million years old."
+
+Silence held for three seconds. Then the room broke open — not into chaos, but into the rapid, overlapping speech of professionals who had just had their operational framework shattered and were building a new one in real time. The military liaisons were talking to each other. The State Department woman was on her phone. The ESA director was asking questions from Darmstadt that no one was answering.
+
+Hadley let it run for exactly thirty seconds, then raised his hand again. "This changes the operational scope. I'm classifying the Chicxulub data as MERIDIAN — access restricted to this committee and designated support staff. Dr. Sarić, I'll need your complete research files, field data, and the names of everyone on your survey team."
+
+"You already have my files," Lena said. "They were imaged at the airport."
+
+The faintest tightening around his mouth. "Then we'll need your cooperation in ensuring nothing was omitted."
+
+"Nothing was omitted."
+
+He held her gaze for a moment, then moved on. He was restructuring the committee in real time — new working groups, new reporting lines, new restrictions. Lena watched him work and recognized the particular genius of it. He wasn't suppressing the discovery. He was absorbing it. Pulling it inside the bureaucratic structure where it could be managed, shaped, released on his schedule and in his language.
+
+She sat down. Her coffee was cold. She drank it anyway.
+
+Ōmura caught her eye from across the table. He didn't speak, didn't nod, didn't offer reassurance. He just looked at her steadily, and in that look she read something simple and unexpected: *I see what just happened to you.*
+
+She looked away.
+
+---
+
+The next four hours were the longest of Lena's professional life.
+
+The object — someone began calling it the Aethon, after the mythological horse that pulled the sun's chariot, and the name propagated through the room with the viral efficiency of a useful shorthand — had settled into a stable orbit at 400 kilometers. It was not approaching. It was not retreating. It was waiting.
+
+Telescopic imagery arrived from three separate observatories, each more detailed than the last. The Aethon was elongated, roughly cylindrical, with a surface that appeared to shift between matte and reflective depending on the angle of observation. Eight hundred meters. Larger than any structure humanity had put in space. It hung above the planet with the patience of something that had crossed interstellar distances and could afford to be still.
+
+The broadcast continued on loop. *We received your call. We are sorry it took so long.*
+
+Working groups formed, argued, dissolved, reformed. Lena briefed the geological subcommittee on the Chicxulub structure — twice, because the first time they didn't believe her, and the second time they did, which was worse. She described the keth-alloy, the hexagonal crystalline lattice, the deep-scan profile of a 4.2-kilometer object that showed internal chambers and what might be corridors. She kept her voice level. She presented data. She did not speculate, because speculation was no longer her job — the room was full of people who would speculate for her, and she needed to remain the one they came back to for facts.
+
+Ōmura was in the aerospace working group, but she noticed he was listening to her briefing from two seats away, his pen still, his attention undivided. When the group broke, he walked past her and paused just long enough to say, "You held that well."
+
+Three words. She shouldn't have needed them.
+
+At 14:00, Hadley's aide found her in the hallway outside the restroom, which was the only place she'd been alone in eight hours.
+
+"Dr. Sarić. The Director would like a word."
+
+She followed the aide to a smaller room — a glass-walled office someone had hastily cleared of personal effects. Hadley was standing by the window, looking out at the Johnson Space Center campus with the expression of a man surveying territory.
+
+"Close the door," he said.
+
+She did.
+
+He turned to face her. Without the audience, his posture was different — less performative, more direct. The glasses caught the overhead light.
+
+"Your work is extraordinary, Dr. Sarić. I want you to know that."
+
+She waited. Compliments from men like Hadley were not gifts. They were the padding placed around something hard.
+
+"But you understand the position we're in. The Chicxulub data is now the single most sensitive piece of scientific information on the planet. It connects a sixty-six-million-year-old structure to an active first-contact scenario. If this leaks — not when, if — the geopolitical consequences are beyond anything either of us can model."
+
+"I understand classification protocols."
+
+"This goes beyond classification. Your original research — the drill cores, the alloy analysis, the deep scan — all of it is now under MERIDIAN restriction. Your paper is dead. Your university will be informed that your fieldwork has been absorbed into a joint UN-national security project, and they'll comply, because the alternative is losing their federal funding. Your survey team in Mérida will be briefed individually and bound by the same restrictions."
+
+Lena felt the floor shift beneath her. Not literally — literally the floor was cheap government carpet and perfectly stable — but the sensation of something being rearranged under her feet, the architecture of her professional life being quietly demolished and rebuilt to someone else's specifications.
+
+"You're burying it," she said.
+
+"I'm protecting it. There's a difference."
+
+"From where I'm standing, the difference is cosmetic."
+
+Hadley took off his glasses, cleaned them with a cloth from his pocket — an affectation, she was certain, a practiced gesture meant to create a pause he controlled. "You wanted someone to take your work seriously, Dr. Sarić. Congratulations." He put the glasses back on. "Now it's too serious for you to control."
+
+She held his gaze. She had spent her career in rooms where men with authority told her what her work meant, and she had learned that the most dangerous response was the one you gave immediately.
+
+"Is that all?" she said.
+
+"For now. We reconvene at sixteen hundred."
+
+She left the office, walked down the hallway, turned a corner, and stopped. She put her hand on the wall. The paint was cool under her palm, slightly textured. She breathed, and counted, and let the anger move through her without acting on it.
+
+When she returned to the conference room, Ōmura was at the coffee station. He'd poured two cups. One was already sitting on the counter where she'd been standing before.
+
+He didn't say anything. He didn't need to.
+
+She picked up the coffee. It was hot. She wrapped both hands around it and sat down to wait for whatever came next.
+
+Outside, four hundred kilometers above the curve of the Earth, the Aethon orbited in silence, its broadcast cycling through languages that humanity had invented and a patience that humanity had not. *We received your call. We are sorry it took so long.* And beneath the Yucatán, in the dark, the structure that had been calling for sixty-six million years continued to call, unaware that someone had finally answered.

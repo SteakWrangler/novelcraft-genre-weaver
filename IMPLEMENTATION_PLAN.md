@@ -21,6 +21,20 @@ This document separates the work needed for the **Frontend (this project)** from
 
 **Models used:** Qwen3 72B, DeepSeek, Dolphin 70B, Qwen3 32B (local Ollama)
 
+> **AMENDMENT (March 2026):** The backend was built using **Ollama Cloud** instead of local Ollama models (no local GPU available). The original model names above were planning targets for local deployment. The actual Ollama Cloud models in use are:
+>
+> | Role | Original Plan | Actual Cloud Model | Notes |
+> |------|--------------|-------------------|-------|
+> | creative | Qwen3 72B | `kimi-k2:1t-cloud` | Rank 1 on Lechmazur Creative Writing Benchmark. Original `qwen3:235b-cloud` was removed from Ollama Cloud. |
+> | structural | DeepSeek | `deepseek-v3.1:671b-cloud` | Closest match to original plan. |
+> | uncensored | Dolphin 70B | `qwen3.5:397b-cloud` | `qwen3.5:cloud` (default tag) doesn't work on the API — must use explicit `397b-cloud` tag. Only used by cliche-hunter. |
+> | fast | Qwen3 32B | `gpt-oss:20b-cloud` | Lightweight cloud model for quick tasks. |
+> | evaluator | (none planned) | `gpt-oss:120b-cloud` | Added for beta-reader-simulator. |
+>
+> Additionally, `character-architect` required a `maxTokens` override of 16384 (default 4096) because multi-character JSON arrays consistently exceeded the default limit.
+>
+> See `server/src/config.ts` for the authoritative model configuration.
+
 ---
 
 ## What's Already Built (Frontend)

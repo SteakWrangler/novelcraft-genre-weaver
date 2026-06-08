@@ -1,0 +1,523 @@
+## Chapter 9: The Thing About Trust
+
+The thing about having your entire worldview validated is that it doesn't feel the way you'd expect. I'd spent fifteen months waiting for Chen's call. Fifteen months of FEMA coursework and flood mitigation seminars and pretending to be a normal twenty-year-old who just happened to be really, really into emergency preparedness. Fifteen months of watching the calendar and thinking: *she'll find it. She has to find it.*
+
+And then she did. June 14, 2011. "I found it. It's exactly where you said it would be."
+
+I was in my dorm room — the one I shared with Dave, who was already asleep across the room — and felt nothing. Or not nothing. I felt the particular numbness of a man who has just been proven right about something he desperately wished he were wrong about.
+
+Because here's what nobody tells you about Cassandra: she didn't *want* to be right about Troy.
+
+"Nate? Are you there?"
+
+"Yeah." My voice came out flat. "Yeah, I'm here. That's — congratulations, Dr. Chen."
+
+A pause. Then, careful: "We need to talk. My office. Eight a.m."
+
+"I'll be there."
+
+She hung up. I sat on the edge of my bed — a mattress on a metal frame, no box spring, because I am twenty years old and live like it — and stared at the wall for a long time. The wall was beige. There was a water stain in the upper corner shaped like nothing, because water stains aren't shaped like things, that's just a thing people say to make the world feel more significant than it is.
+
+The signal was real. The anomaly I'd described from memories of a future that hadn't happened yet — or had happened, or would happen, depending on how you think about time, which I try not to — was sitting in Chen's data, verified and undeniable. A blip in the water-hole band, exactly where I'd said, exactly when I'd said.
+
+Which meant the rest of it was real too. All of it. Every terrible thing I remembered was coming.
+
+I went to the bathroom and threw up.
+
+---
+
+Chen's office hadn't changed. Still the topographic maps, still the Ramones poster, still Boltzmann the orange tabby asleep on a stack of journals. But Chen herself had changed. When I walked in at 7:55 the next morning, she was sitting behind her desk with her hands folded, and the look on her face wasn't curiosity anymore. It was something harder. Something that had edges.
+
+"Sit down," she said.
+
+I sat. The same chair as before — green vinyl, cracked armrest. Boltzmann opened one eye, decided I was irrelevant, closed it again.
+
+"I've run three independent analyses," Chen said. "Different methods, different baselines. The signal is real. It is not noise, it is not an artifact, it is not terrestrial interference." She picked up a pen, turned it between her fingers. "I submitted a preliminary report to SETI's post-detection protocol working group."
+
+"And?"
+
+"They think I'm chasing ghosts. The signal-to-noise ratio is borderline. Any single one of my analyses would be dismissed. Together they're suggestive but not conclusive." She set the pen down. "I know what I found, Nate. And I know that you told me where to find it."
+
+Here it was. The moment I'd been constructing and reconstructing in my head for over a year. The explanation I needed to give that was true enough to maintain trust and vague enough to not get me committed.
+
+"You asked me once who I am," I said.
+
+"I remember."
+
+"I'm going to give you a partial answer. And it's going to be unsatisfying. And I need you to accept it anyway."
+
+Chen leaned back. Her blazer today was gray corduroy, worn at the elbows. Her expression said: *try me.*
+
+"I have foreknowledge of events I cannot explain the source of," I said. The words felt rehearsed, which they were. Hundreds of times, in the shower, on walks, lying awake at three a.m. "I need you to trust the data, not the mechanism."
+
+The silence that followed was the kind that has texture. Boltzmann's purring. The hum of Chen's ancient desktop computer. Somewhere in the building, a door closing.
+
+"That," Chen said finally, "is the opposite of science."
+
+"I know."
+
+"You're asking me to accept an unfalsifiable premise."
+
+"I'm asking you to look at the evidence. I told you where to point the telescope. The signal was there. I didn't plant it. I don't have the technology to fake an extraterrestrial radio signature. So either I'm the most elaborate con artist in the history of academic fraud, or I knew something I shouldn't have been able to know."
+
+She studied me. I let her. There was nothing else I could do — no card left to play except sitting in this cracked vinyl chair and being looked at by a woman smart enough to know I wasn't lying and disciplined enough to hate that she couldn't explain why.
+
+"Foreknowledge," she said, like she was testing the word for structural integrity. "Of events."
+
+"Yes."
+
+"Plural."
+
+"Yes."
+
+"The signal isn't the only thing."
+
+"No."
+
+Another silence. Chen reached down and scratched Boltzmann behind the ears. The cat stretched, resettled.
+
+"I need to think about this," she said.
+
+"Take your time."
+
+"Come back Friday."
+
+---
+
+So began our weekly meetings. Every Friday, nine a.m., Chen's office. Boltzmann as witness. Sometimes she asked questions I could answer. Sometimes she asked questions I wouldn't answer. She kept meticulous notes in a leather-bound journal she never let me see.
+
+I'll say this for Chen: she was angry, and she stayed anyway. That's not a small thing. Most people, when you hand them something that doesn't fit their framework, will either reject it outright or swallow it whole. Chen did neither. She held it at arm's length and examined it from every angle, prodding for weaknesses, and when she couldn't find any, she got pissed off about it and came back the next week to try again.
+
+"I don't believe in psychic phenomena," she said one Friday in August.
+
+"Neither do I."
+
+"I don't believe in divine revelation."
+
+"Same."
+
+"Then what am I supposed to do with you?"
+
+I shrugged. "Keep testing the data. That's all I'm asking. When I tell you something is going to happen, write it down. When it happens, compare. Build a sample size."
+
+"That's not—" She stopped. Took off her glasses, cleaned them on her shirt. Put them back on. "That's actually reasonable."
+
+"Stopped clock," I said.
+
+She almost smiled. Almost.
+
+---
+
+The broader astronomy community, as predicted, dismissed Chen's signal. A polite form letter from the working group. A less polite email from a colleague at Berkeley who called her analysis "creative but premature." She didn't tell me about that one — I saw it on her screen one Friday when she'd forgotten to minimize her email.
+
+I didn't bring it up. Some dignities you let people keep.
+
+But she didn't stop working on it. That was the thing about Chen. She had the kind of stubbornness that looks like patience from the outside — the slow, grinding, geological certainty that she was right and the world would eventually catch up. I recognized it because I had a version of it too, though mine was less principled and more born of desperation.
+
+By October, she'd written a paper she couldn't publish. By November, she'd developed a monitoring protocol for the signal's frequency band that she ran on university equipment during off-hours, technically unauthorized but not technically illegal. By December, she'd started asking me about timelines.
+
+"If this foreknowledge of yours includes a schedule," she said, "I need to know how long I have."
+
+"For what?"
+
+"To get people to listen."
+
+I looked at her. This slight woman in her cluttered office, with her orange cat and her unpublishable paper, asking me to hand her a countdown she couldn't possibly prepare for.
+
+"You have time," I said. Which was true and also a lie, because time is the one thing none of us have enough of, and the amount Chen had was less than she deserved.
+
+---
+
+The fishing trip happened in September, when the air was still warm but the light had shifted to that particular amber that means summer is done pretending it's going to last.
+
+Frank called on a Tuesday. "Hey, bud. Saturday look good? Thought maybe the Cedar."
+
+"Yeah. Yeah, that sounds good."
+
+"Early. Five-thirty."
+
+"I'll be there."
+
+So Saturday at five-fifteen I was standing in my parents' driveway in the dark, because Frank Callahan means five-thirty when he says five-thirty and if you're not ready when the truck starts, you're getting left behind. Some things haven't changed across timelines.
+
+The truck smelled the same as it always did — coffee, Armor All, the ghost of pipe dope from Frank's work clothes. He handed me a thermos without a word. I poured myself a cup. We drove east toward the river.
+
+The thing about Frank and me is that we don't need conversation. Not anymore. The deck project in 2009 fixed something between us that I'd spent a decade breaking in my first life, and now we existed in a space that was mostly silence and proximity. Which sounds lonely but isn't. It's the opposite of lonely. It's the thing you get when you've stopped performing for someone and they've stopped expecting you to.
+
+The Cedar River at dawn in September is nothing like a postcard. It's muddy and flat and the banks are lined with scrubby cottonwoods that drop their leaves early, so there's always a film of decomposing vegetation on the surface near the shore. It smells like earth and tannins and, faintly, the livestock operations upstream. It's not beautiful. It's just a river.
+
+We found a spot Frank liked — a shallow gravel bar where you could wade out in hip boots and cast into the deeper channel. He'd been fishing the Cedar for thirty years. He didn't catch much and didn't care. That wasn't the point.
+
+We waded out. Cast. The line made that particular sound — the whisper of monofilament through air, the small *plop* at the end. Frank did it with the economy of long practice. I did it with the approximation of someone who'd been taught twice, once at twelve and once at eighteen, and still wasn't very good.
+
+Forty minutes of silence. The sun came up slowly, the way it does in Iowa — no drama, no explosion of color, just a gradual lightening from gray to gold. A heron stood downstream, motionless and judgmental.
+
+"Your grandfather," Frank said, apropos of nothing.
+
+I waited.
+
+"Your mom's dad, you know. Good man. Generous." He reeled in, cast again. "My old man wasn't like that."
+
+This was new territory. Frank didn't talk about his father. In my first life, I'd gathered fragments — drinker, factory worker, dead at fifty-eight from a heart that gave out. But Frank had never narrated it. Never laid it down in sequence.
+
+"He wasn't bad," Frank said. "That's what people never get. He wasn't a bad man. He just—" A long pause. The line drifted in the current. "He didn't know how to be good. Didn't have the equipment for it."
+
+I stood very still. The water moved around my boots, cold through the rubber.
+
+"Came home from work and sat in his chair and drank and that was it. That was the whole relationship. Thirty years of sitting in a chair." Frank adjusted his cap. "And I told myself I'd be different. I'd be present." A dry sound that might have been a laugh. "Turns out present doesn't mean the same thing as good at it."
+
+"Dad—"
+
+"No, it's—" He waved a hand. "I'm not looking for anything. I'm just saying. You turn out the way you turn out, and some of it's choice and some of it's just the shape you grew into." He looked at me. Frank's eyes are blue, same as mine. In the early light they looked almost gray. "You changed your shape, bud. Couple years ago. I don't know what happened and I'm not asking. But I see it."
+
+My throat was tight. I looked at the river because I couldn't look at him.
+
+"This is nice," Frank said. "Isn't it?"
+
+"Yeah," I managed.
+
+"Good." He nodded. Cast again. "That's good, bud."
+
+We fished for another two hours. Caught three smallmouth between us, all under size, all released. Frank told me a story about a pipe job that went wrong in Des Moines — a pressurized line that blew and covered the foreman in twenty-year-old rust water. He laughed telling it. I laughed hearing it. The heron caught a fish, swallowed it whole in that grotesque unhinging way herons do, and flew downstream.
+
+On the drive home Frank played the radio — classic country, Merle Haggard and George Jones — and I leaned my head against the window and thought about all the versions of this morning that never happened. The version where I was twenty and hungover and wouldn't have answered the phone. The version where Frank stopped trying to call. The version where we ran out of time without ever standing in a river together and saying the things that aren't *I love you* but mean the same thing.
+
+He dropped me off at my apartment. "Next month?" he said.
+
+"Yeah. Definitely."
+
+He nodded. Drove away. I stood on the sidewalk holding my rod and tackle box, and I was crying, just a little, in the way where you don't wipe your face because acknowledging it makes it real.
+
+Anyway. The point is—
+
+---
+
+October. November. December. The semesters blurred together in a way they hadn't before. I was taking a full course load — emergency management core requirements, plus electives in public administration and nonprofit law — and simultaneously running a study group, volunteering with the county emergency management office, and meeting Chen every Friday.
+
+I slept five hours a night. Not because I was manic or driven by some heroic purpose. Because I was afraid. The clock was always ticking, and every hour I spent sleeping was an hour I wasn't building the thing that might save people.
+
+That's not healthy. I knew it wasn't healthy. But healthy is a luxury for people who don't know what's coming.
+
+In January 2012, I sat down with a legal pad and wrote the words: NORTHEAST REGIONAL AWARENESS NETWORK.
+
+It was, deliberately, the most boring name I could think of. Not "Survive the Future." Not "Last Warning Coalition." Not anything that sounded like a prepper militia or a conspiracy theory or a guy who'd read too much science fiction. Just: a network. For awareness. In the northeast region. Of what? Of whatever. Natural disasters. Infrastructure vulnerabilities. Supply chain disruptions. The kind of thing that got funded by state emergency management grants and didn't set off anyone's weirdo alarm.
+
+NEORAN. Even the acronym was boring. I loved it.
+
+The 501(c)(3) paperwork took three months. I know that sounds simple — fill out forms, mail them in, wait — but nonprofit formation is an exercise in bureaucratic endurance. Articles of incorporation. Bylaws. Conflict of interest policies. A board of directors that had to include at least three unrelated individuals who weren't getting paid.
+
+I listed myself as executive director. Marcus agreed to be on the board without really understanding what he was agreeing to ("Dude, yes, obviously, put my name on your apocalypse thing, this rules"). I found two other people — a retired county supervisor I'd worked with during flood response, and a local business owner who'd lost his shop in the 2008 floods and understood, viscerally, that preparedness wasn't paranoia.
+
+And I listed Chen as scientific advisor.
+
+"What does that entail?" she asked, when I showed her the paperwork.
+
+"Right now? Nothing. Your name on a letterhead. Later..." I hesitated. "Later it might mean access to resources. Institutional legitimacy. A framework for the work you're doing that isn't just 'rogue professor with unauthorized telescope time.'"
+
+She looked at the forms for a long time. Boltzmann was kneading her lap, claws catching the corduroy.
+
+"You're building something," she said. Not a question.
+
+"Yes."
+
+"And you know exactly what shape it needs to be."
+
+"Yes."
+
+"Because of the foreknowledge."
+
+"Yes."
+
+She signed the advisory board form. Dated it. Handed it back.
+
+"I still don't trust your explanation," she said.
+
+"I know."
+
+"But the data holds up. Every time. And that—" She shook her head. "That's enough for now."
+
+---
+
+The paperwork went out in March. I got the determination letter in June — approved, retroactive to the filing date. I was now the executive director of a 501(c)(3) disaster preparedness nonprofit with zero funding, zero staff, and a three-person board of directors that included my college roommate.
+
+I filed the letter in a manila folder, put the folder in my desk drawer, and sat there for a while looking at the wall.
+
+Every relationship I have is built on a lie I'm telling for the right reasons.
+
+That's what I wrote in my journal that night. Not a physical journal — I'm not an idiot, I don't leave evidence lying around — but a text file on an encrypted USB drive that I kept in a hollowed-out copy of *The Brothers Karamazov* on my bookshelf. Melodramatic? Yes. Effective? Also yes.
+
+*Every relationship I have is built on a lie I'm telling for the right reasons. Marcus thinks I'm passionate about emergency preparedness. Chen thinks I'm a fascinating anomaly to be studied. Frank thinks I've just grown up.*
+
+*None of them know the truth. None of them can. The truth is too big and too absurd and too terrifying, and the moment I tell it, I become the crazy person in the room instead of the prepared one.*
+
+*Is lying for the right reasons better or worse than lying for selfish ones? I used to lie because I wanted things — approval, sex, money, another drink, another hit. Now I lie because I want people to survive. The mechanism is the same. The muscle memory is the same. Open your mouth, shape a story, watch the other person's face to see if they're buying it.*
+
+*I'm good at this. I was always good at this. And that's the part that scares me.*
+
+*The lies I tell now are kinder. They're architecturally sound — load-bearing deceptions that hold up a structure meant to protect people. But they're still lies. And every lie is a wall between me and the person I'm lying to.*
+
+*Chen comes closest to the truth. She has data. She has the signal. She has fifteen months of Friday meetings and a growing file of predictions that keep coming true. But even she doesn't know the real shape of it. Even she doesn't know that I'm not psychic or prophetic or brilliant — I'm just a fuckup from the future who got a second chance he doesn't deserve.*
+
+*Frank said I changed my shape. He's right. But the old shape is still in there, underneath. The liar. The addict. The kid who took everything and gave nothing back.*
+
+*I'm building something good on a foundation of bullshit. I have to believe that the good part matters more than the bullshit part. Because if it doesn't, then I'm just the same person I was before, running the same cons with higher stakes.*
+
+*Anyway. The point is—*
+
+I closed the file. Encrypted the drive. Put it back in Dostoevsky.
+
+---
+
+Summer 2012. NEORAN existed on paper, in a file drawer, and exactly nowhere else. I had a mission statement that I'd revised nineteen times. I had a website I'd built myself — crude, functional, unmistakably the work of a twenty-one-year-old with access to a WordPress template. I had business cards.
+
+What I didn't have was credibility, funding, or any reason anyone should listen to me.
+
+That was about to change. Not because of anything I did — or not entirely. But because in September 2012, I'd put up flyers for a campus disaster-preparedness volunteer event, and a woman I'd never met in my first life would tear one off a bulletin board in the veterinary sciences building and think: *Huh. Thursday works.*
+
+But I didn't know that yet. In the story I was living, as opposed to the story I remembered, the future was still uncertain in all the ways that mattered.
+
+I filed the nonprofit paperwork. The name was boring. Institutional. Exactly the kind of thing the world needs and will never notice until it's far too late.
+
+---
+
+## Chapter 10: The Woman Who Didn't Care About Charm
+
+The flyer was nothing special. I'd designed it in twenty minutes on a library computer, using a template that looked like every other campus event announcement — bold sans-serif header, bullet points, a clip-art icon of a first-aid kit that I immediately regretted but couldn't figure out how to replace.
+
+**DISASTER PREPAREDNESS VOLUNTEER ORIENTATION**
+*Learn practical skills. Help your community.*
+*Thursday, September 13, 7:00 PM*
+*Maucker Union, Elm Room*
+*Free pizza. Seriously.*
+
+The "free pizza" was what got most of them. I'd learned that about college students — not just in this life, but in the first one too. You can promise world-changing experience, resume-building opportunities, the satisfaction of civic engagement, and you'll get six people. Promise free pizza and you'll get forty.
+
+I got forty-three. They filed into the Elm Room with the particular energy of undergrads who have been promised food and are slightly suspicious that there's a catch. There was a catch, of course — the catch was me, standing at the front of the room with a PowerPoint I'd built myself and the nervous conviction that I was about to waste everyone's evening.
+
+"Hey. Thanks for coming. I'm Nate Callahan, I run a nonprofit called NEORAN — Northeast Regional Awareness Network — and tonight we're going to talk about what happens when systems fail."
+
+I'd rehearsed this. I'd rehearsed everything. The tone — casual, not preachy. The content — practical, not theoretical. The pizza — ordered from Pizza Pit, arriving at 7:15, timed to hit right when attention started flagging.
+
+The first twenty minutes went fine. I talked about the 2008 Cedar River flood — most of them had been in middle school, but they remembered. I talked about supply chains, infrastructure dependencies, the invisible web of systems that keep a community alive: water treatment, electrical grid, food distribution, medical supply logistics. I kept it concrete. I kept it moving.
+
+And then I asked for questions, and a woman in the third row raised her hand.
+
+She was sitting slightly apart from the others, in a folding chair she'd pulled to the end of the row, as if she'd arrived after everyone else had settled and refused to climb over people to fill a gap. Dark hair pulled back in a ponytail — practical, not styled. A flannel shirt over a tank top, jeans, boots that had actually been used for their intended purpose. A nose that had clearly been broken at some point and set slightly off-center, giving her face an asymmetry that made her harder to look away from, not easier.
+
+"Yeah," she said. "You're talking about what happens when systems fail. But you haven't said anything about what you actually do when they do."
+
+Forty-two people turned to look at her. She didn't seem to notice or care.
+
+"That's—" I recalibrated. "That's a fair point. The next section covers response protocols—"
+
+"No, I mean *you*. You, specifically. What have *you* done? When a system failed, what did you do about it?"
+
+This is the moment where charm is supposed to work. I know charm. I've been doing charm since I was fifteen — the self-deprecating smile, the quick pivot, the joke that makes the question disappear. In my first life, charm was my primary survival mechanism. In this one, it's a tool I reach for when I don't want to be honest.
+
+I reached for it. "Well, I personally arm-wrestled a tornado once, but that's a story for after the pizza arrives—"
+
+Nobody laughed. She certainly didn't. She just looked at me with an expression that said: *That's what I thought.*
+
+"Sandbagging," I said, dropping the bit. "2008 and 2010 floods. I've done CERT training, FEMA ICS certification, CPR and advanced first aid. Last spring I helped coordinate volunteer logistics for the county EMA during the derecho warning." I paused. "It's not glamorous."
+
+"I didn't ask if it was glamorous," she said. "I asked if it was real."
+
+"It's real."
+
+She nodded. Sat back. That was apparently sufficient.
+
+I finished the presentation with a low-grade awareness that I'd just been tested and had nearly failed. The pizza arrived. People ate. I circulated, answered questions, handed out signup sheets. Sixty percent of the room put their names down, which was better than I'd expected and approximately the going rate for "free pizza converted to mild obligation."
+
+The woman from row three was at the whiteboard.
+
+I noticed this because no one else was at the whiteboard. The whiteboard was at the back of the room, ostensibly for brainstorming exercises I'd planned for the second half of the orientation but hadn't gotten to because I'd run long on the infrastructure section. It was blank. Or it had been blank.
+
+Now it had a diagram on it. A supply chain diagram. Lines and nodes and labels in small, precise handwriting — the kind of handwriting that belongs to someone who has written a lot of things that needed to be legible under bad conditions.
+
+I walked over. She was still drawing, adding connections with a blue marker, muttering to herself.
+
+"What's this?" I said.
+
+"Your food distribution problem." She didn't look up. "You said the grocery stores in Cedar Falls have three days of inventory on a rolling basis. And the regional distribution center is in Waterloo, which floods. So." She tapped a node. "If the distribution center goes offline, you've got seventy-two hours before shelves are bare, assuming no panic buying. With panic buying, call it thirty-six."
+
+"Right."
+
+"So you need a pre-staged cache system." She drew another node. "But you can't just stockpile — you need rotation, or everything expires. So you tie it to the food bank. Regular donations cycle through the cache, keeping it fresh, and in an emergency, you redirect distribution." She drew an arrow. "Church basements. They have the space, they have the volunteer infrastructure, and nobody's going to loot a church basement."
+
+I stared at the whiteboard. She'd solved in nine minutes a logistics problem I'd been working on for three months.
+
+"And here—" She drew a second cluster. "Veterinary supply chain. People forget about animals. You've got livestock operations north of here, plus companion animals. In a flood evacuation, half your volunteer capacity gets eaten by people refusing to leave without their dogs. So you pre-plan animal sheltering." She added a label. "Fairgrounds. They have stalls, they have fencing, they have loading infrastructure."
+
+"Who are you?" I said.
+
+She looked at me for the first time since I'd walked over. Brown eyes, steady, slightly narrowed — not unfriendly exactly, but not interested in making me comfortable.
+
+"Elena Vasquez," she said. "Pre-vet. Junior."
+
+"Nate Callahan."
+
+"I know. You said that. At the beginning." She turned back to the whiteboard, added another node. "Your electrical grid section was wrong, by the way. You said Cedar Falls has one primary substation. It has two. The second one's on West First Street, serves the industrial district."
+
+"I—" I blinked. "How do you know that?"
+
+"My uncle is an electrician. I spent two summers running conduit for him." She capped the marker. Looked at her diagram with the critical eye of someone who builds things and is never fully satisfied with them. "This needs more work. But the bones are right."
+
+I was staring. I knew I was staring. I made myself stop.
+
+"Do you want to grab coffee?" I said. "After this? To talk about—" I gestured vaguely at the whiteboard.
+
+She looked at me with an expression I would later learn was her default: evaluative, unhurried, completely undazzled. "I have an eight a.m. lab."
+
+"Right. Of course."
+
+"But Thursday works." She pulled a torn strip of paper from her back pocket — the bottom of my flyer, I realized, the part with the date and time — and wrote a phone number on it. Handed it to me. "Text me the details."
+
+Then she took a piece of pizza and left.
+
+---
+
+I stood in the Elm Room for a while after everyone else had gone. The whiteboard was still up — her diagram, her handwriting, her nine-minute demolition of my three-month logistics problem. I took a picture of it with my phone. Then I took another one, in case the first one was blurry.
+
+Here's what I need to explain, and I'm going to do it badly because language wasn't built for this:
+
+In my first life, I pursued women the way I pursued everything else — strategically, selfishly, with an angle. I was good at it. Not because I was attractive or charming in any genuine sense, but because I was observant and adaptable. I could figure out what someone wanted to hear and say it. I could identify the gap between who they were and who they wanted to be, and position myself in that gap. It worked. It worked consistently. And it left behind a trail of women who eventually realized they'd been in a relationship with a performance, not a person.
+
+Elena had no angle. She wasn't performing, wasn't positioning, wasn't trying to be anything other than exactly what she was: a twenty-year-old pre-vet student who thought in systems and had no patience for rhetoric. She'd asked me a direct question, received a bullshit answer, called it bullshit without raising her voice, and then gotten the information she actually wanted. She'd seen a problem, walked to a whiteboard, and solved it. She'd handed me her number not because I'd charmed her but because the work was interesting and Thursday was open.
+
+Every woman I pursued in my first life, I pursued because I saw an angle. Elena has no angle. She's just there, being competent and slightly annoyed, and I can't breathe.
+
+That's what I wrote in my journal that night. Melodramatic. True anyway.
+
+---
+
+Thursday. I texted her the details — same room, seven p.m., smaller group this time, focused on logistics planning. She replied: "Ok." No period, no emoji, no additional words. One syllable. I stared at it for an unreasonable amount of time.
+
+The Thursday group was eight people, all drawn from the original forty-three. The ones who'd actually signed up for the working committee, not just the pizza. Elena arrived at 6:58, took the same position — end of the row, slightly apart — and listened without speaking for the first thirty minutes.
+
+I was trying not to perform. This is harder than it sounds. When you've spent a decade — two decades, if you count both lives — being the guy who talks, who fills silences, who directs attention, turning that off is like trying to stop breathing. You can do it for a few seconds but then your body takes over.
+
+So I was performing. Less than usual, but still. The self-aware version of performance, which is just performance with an extra layer of exhaustion.
+
+Elena raised her hand at the thirty-minute mark. "Can I use the whiteboard?"
+
+"Yeah. Go ahead."
+
+She walked to the front of the room and spent twelve minutes laying out a volunteer coordination system that made my existing plan look like a child's crayon drawing. Tiers of response. Communication trees. Skills-based deployment — not just "show up and we'll tell you what to do" but pre-assigned roles based on training level. She'd clearly been thinking about this since Tuesday.
+
+"Questions?" she said when she was done.
+
+A guy named Trevor, engineering major, raised his hand. "Where did you study this?"
+
+"I didn't study it. I grew up on a ranch. You learn systems or things die."
+
+She sat back down. I realized I hadn't taken a single note because I'd been too busy watching her think.
+
+---
+
+After the meeting, eight people became six — two left for other obligations — and the six of us ended up at the coffeehouse on College Hill. Not my idea. Trevor suggested it, and Elena said "Sure," which I'd already learned was her version of enthusiasm.
+
+I ended up next to her at the long table, not by engineering but by the simple geometry of who sat where. She ordered black coffee. I ordered the same, though I usually took cream, because — I don't know. Because I'm an idiot.
+
+The group talked about logistics for a while. Then the conversation fragmented the way conversations do — side discussions, tangents, people checking their phones. I found myself in a pocket of relative quiet with Elena, who was tearing her napkin into precise strips and stacking them.
+
+"Pre-vet," I said. "What kind?"
+
+"Large animal. Equine, mostly."
+
+"You grew up with horses?"
+
+She glanced at me. The evaluative look again — what are you really asking. "Yeah. Quarter horses. My family ran a breeding operation outside of Clarinda."
+
+"Ran?"
+
+A pause. One strip of napkin, torn. Added to the stack. "Runs. My mom runs it now."
+
+I didn't push. You learn — if you have any sense at all, if you've done any growing — that some silences have doors behind them and the door opens from the inside only.
+
+"The nose," I said instead. Because I'd noticed, and because asking about a visible injury is somehow less intrusive than asking about an invisible one. "Horse?"
+
+She touched it absently. "Three-year-old colt. Threw his head up while I was checking his feet. Broke it in two places." She almost smiled. "My own fault. I was standing wrong."
+
+"How old were you?"
+
+"Fifteen."
+
+"Jesus."
+
+"It's not that dramatic. Horses weigh a thousand pounds and they're basically toddlers. If you work around them long enough, you get hurt. The trick is not getting hurt stupid." She sipped her coffee. "I got hurt smart. Wrong place, right technique. The colt was green and I knew he was green and I positioned myself where his head could reach me. That's on me."
+
+I liked her. I liked her with a clarity and directness that was different from anything I'd felt before — not the acquisitive wanting of my first life, not the calculated pursuit of someone who might fill a role I needed filled. Just: *I like this person. I like how she thinks. I like that she takes responsibility for getting hit in the face by a horse.*
+
+"What about you?" she said. "How does a twenty-one-year-old end up running a disaster nonprofit?"
+
+"Short version or long version?"
+
+"Short. I have an eight a.m. lab, remember?"
+
+"I watched systems fail. Up close. And I thought: somebody should be ready for next time. And then I thought: why not me."
+
+She looked at me for a long moment. Not evaluating this time — or not only. Something else. Like she was checking my answer against some internal standard and finding it acceptable.
+
+"That's honest," she said.
+
+"Mostly."
+
+"What's the part that isn't?"
+
+I laughed. Couldn't help it. "That's — you don't let anything slide, do you?"
+
+"No." Not apologetic. Not confrontational. Just a fact.
+
+"The part that isn't honest," I said, slowly, "is the implication that it was a noble decision. It wasn't. It was—" I searched for a word that was true. "Compulsive. I couldn't not do it. So it's less 'I chose to help people' and more 'I am physically unable to stop trying to prevent things I know are coming.'"
+
+"Things you know are coming," she repeated.
+
+"Climate events. Infrastructure failures. The stuff I was talking about Tuesday."
+
+"You said 'know,' not 'think.'"
+
+Sharp. Uncomfortably sharp. I reached for my coffee, which was getting cold and which I didn't actually like black.
+
+"Everyone knows. Most people just don't look."
+
+She accepted this, or appeared to. Went back to her napkin strips. "My dad used to say that. Not about disasters. About — other things." She looked at the stack of paper. "He'd say: 'Everyone can see it, *mija*. They just don't want to.'"
+
+"He sounds smart."
+
+"He is." Present tense, I noticed. Wherever he was, he was still a living man to her.
+
+She didn't elaborate. I didn't ask. The door stayed closed, and I kept my hands off the handle.
+
+---
+
+We walked out together. The rest of the group had filtered away during the conversation — I hadn't noticed when. The coffeehouse was emptying, chairs being stacked. October night air hit us outside, that specific Iowa autumn cold that isn't bitter yet but carries a warning.
+
+Elena pulled her flannel tighter. "You need better data on the residential side," she said. "You're treating all of Cedar Falls as one unit, but the flood plain and the higher ground are completely different populations with different needs. And you're not accounting for undocumented residents at all."
+
+"I know."
+
+"Do you?" She stopped walking. We were in the parking lot now, under a light that buzzed with that high-frequency fluorescent sound. Her face was half-shadowed. "Because your plan assumes everyone will interface with official systems. They won't. Some people have reasons not to call 911. Your volunteer network needs to reach those people specifically, or you're just running a preparedness club for people who were already going to be fine."
+
+I stared at her. She said it matter-of-factly, like it was obvious, like anyone would have seen it. But no one had seen it. Not me, not Marcus, not the county EMA coordinator I'd been volunteering with for two years. Only Elena, who understood — from the inside — what it meant to be part of a community that official systems didn't protect.
+
+"You're right," I said. "That's a massive gap."
+
+"I know." She started walking again. Then stopped. Turned back. "Same time Thursday?"
+
+"Yeah." I nodded. Tried not to look like a man who'd just been taken apart and reassembled by a conversation about flood logistics. Probably failed. "Yeah. Absolutely."
+
+"Okay." She hitched her bag higher on her shoulder. "Good."
+
+She walked to her car — a beige pickup, old, probably her family's, with a ranch supply sticker on the bumper — and drove away. She didn't look back.
+
+I stood in the parking lot for a full minute. The fluorescent light buzzed overhead. The October air moved around me. Somewhere on campus, music was playing — a party, a dorm room, the normal sounds of twenty-year-olds being twenty-year-olds.
+
+I was grinning. Standing in a parking lot at ten-thirty on a Thursday night, grinning like an absolute idiot, with no strategic explanation for it. No angle. No plan. No calculation of what this could become or how I could use it or what role she might fill in the architecture I was building.
+
+Just: *Thursday. She'll be there Thursday.*
+
+There was no version of my first life where this happened. There was no woman in that life who would have walked to a whiteboard and solved my problems and then asked what I'd actually *done*. In that life, I would have seen Elena Vasquez and thought: *No angle. Not useful. Move on.* And I would have missed — entirely, completely, catastrophically — the only person who was ever going to make me better at this not because she believed in my mission but because she understood, on a structural level, what building something real required.
+
+I walked home. The grin wouldn't go away. I didn't try to make it.
+
+Thursday. She said Thursday.

@@ -1,0 +1,153 @@
+The mass spectrometer had been running for eleven hours, and it was lying to her again.
+
+Lena pulled the latest readout from the printer tray — she still preferred hard copy for isotopic work, the way her father had preferred paper charts to GPS — and held it under the desk lamp. The nickel-iron ratios were wrong. Not wrong in the way that suggested contamination or instrument drift, but wrong in the way that had ended her career the first time.
+
+She set the printout next to the others, five sheets arranged in a row across the bench like evidence in a prosecution. Sample UT-4419 sat in its cradle under the electron microscope, a sliver of metallic inclusion no larger than a fingernail, extracted from a Chicxulub drill core at 847 meters depth. It should have been kamacite. It should have shown the Widmanstätten patterns characteristic of iron-nickel meteorites that cooled over millions of years in the vacuum between Mars and Jupiter. Every other metallic fragment from the KT boundary layer did.
+
+This one didn't.
+
+"The problem is—" she said to the empty lab, and stopped.
+
+Carl the cactus offered no opinion from his terracotta pot beside the monitor. He'd survived three office moves, a broken window during the February ice storm, and Lena's tendency to talk to him during late-night analysis sessions. He was, she'd told Amos once, the most reliable colleague she'd ever had.
+
+She pulled up the crystallography data again. The lattice structure was hexagonal close-packed, which was expected for high-pressure nickel alloys, but the unit cell dimensions were off by 0.3 angstroms. A small number. An insignificant number, unless you understood what it meant: the atoms were too evenly spaced. Natural metallic crystals, even those forged in the heat of a bolide impact, carried dislocations — tiny imperfections where atoms slipped out of alignment. UT-4419 had none. Zero dislocations in a sample that had supposedly been subjected to the thermal shock of an asteroid striking limestone at forty kilometers per second.
+
+That wasn't difficult to explain. It was impossible to explain.
+
+She'd explained it once, in a paper published in *Geochimica et Cosmochimica Acta* three years ago. The anonymous reviewers had called her methodology "creative." One had suggested she check her equipment calibration. The other — and this was the one she replayed when she couldn't sleep — had written that "Dr. Sarić appears to confuse anomaly with artifact, a common error among researchers who approach geochemistry from adjacent disciplines." The editor's rejection had been polite. The aftermath had not. Colin Marsh at Imperial had called it "imaginative fiction" at the Goldschmidt Conference, standing at a podium while Lena sat in the fourth row and kept her face still. Jennifer Okoro at MIT had tweeted something similar, though she'd had the decency to delete it within a week.
+
+The tenure-track position at UT had quietly evaporated. Her department head, a man who collected antique barometers and avoided confrontation the way some people avoided gluten, had explained that the committee felt her "research trajectory" had become "difficult to contextualize." She'd been offered a research associate position instead. Soft money. Grant-dependent. The academic equivalent of a month-to-month lease.
+
+Lena took off her glasses and pressed her thumb and forefinger against the bridge of her nose. The lab smelled like instrument coolant and the remains of the pad thai she'd eaten at nine. Outside, Speedway Street was empty. Austin at 2 AM in July was still eighty-six degrees, and the air conditioning in the Geosciences building made a sound like a dog whimpering in its sleep.
+
+She put her glasses back on and looked at the data again.
+
+Six samples now. The first — the one from her retracted paper — had come from a UNAM drill core. These five were from a different borehole, drilled by a Mexican petroleum survey in 2019 and acquired by UT's geology collection through the kind of interdepartmental trade agreement that involved someone owing someone else a favor. Different borehole, different location within the crater's peak ring, same result. Metallic inclusions with no crystal dislocations, isotopic ratios that didn't match any known meteorite classification, and trace elements — rhenium, osmium, iridium — in proportions that suggested not just high temperature formation but sustained, controlled high temperature formation.
+
+Processed alloy. Not meteorite.
+
+The thought sat in her chest like something swallowed wrong. She'd spent three years not saying it. Three years accepting the soft-money position, writing safe papers on microfossil taphonomy, rebuilding her reputation atom by atom while the UT-4419 data sat in a locked drawer in her desk. Three years of not being the woman who thought there was something artificial buried under the Yucatan.
+
+Her phone buzzed against the bench. She glanced at the screen and felt the specific kind of alertness that Amos Achebe's name always triggered — the same feeling she got when an instrument suddenly started producing clean data after hours of noise.
+
+"It's two in the morning here, Amos."
+
+"It's eight in the morning here, which means I've been awake for two hours, which means I've been thinking for two hours, which is — I suspect you'd agree — plenty of time to make an excellent or a catastrophic decision." His voice was the same as always: warm, unhurried, with the particular clarity of a man who had spent five decades learning how to say exactly what he meant. "I've made one of each. The excellent decision is that I've arranged funding for a deep-scan sonar survey of the subsurface anomaly in quadrant seven of the Chicxulub peak ring."
+
+Lena sat down. She didn't remember deciding to sit down, but the stool was under her and her hand was flat on the bench. Quadrant seven. The exact zone where her anomalous samples originated.
+
+"The catastrophic decision," he continued, "is that I've put your name on the survey application."
+
+"Amos—"
+
+"Now, then. Before you tell me all the reasons this is unwise, I'd like you to consider that I already know all of them and have chosen to proceed anyway. I've spoken with Elena Vasquez at UNAM. She has a marine geology team with access to a deep-tow sonar rig. She's agreed to a two-week survey window beginning August fifteenth." A pause. "Also, I believe you've been running isotopic analysis on those petroleum survey cores, and I believe the results are consistent with what you found three years ago, because I found the same thing."
+
+The air conditioning whimpered. Carl maintained his silence.
+
+"How long?" Lena asked.
+
+"Eighteen months. I acquired samples through a colleague in Calgary — different borehole again, northern rim of the structure. Nickel-iron inclusions with zero crystal dislocations and non-meteoritic isotopic signatures. Three samples. I didn't publish because I didn't have enough data to survive the inevitable response, and because—" He stopped, and she heard him exhale. "Because I watched what happened to you, and I wasn't brave enough. I apologize for that, and for quoting Auden at you, but: 'In the deserts of the heart / Let the healing fountain start.' There's something under that crater, Lena. We owe it a proper look."
+
+She was quiet for a long time. Through the lab window, the streetlights along Speedway cast orange cones against the pavement. A possum moved along the far sidewalk with the unhurried confidence of something that had survived sixty-six million years of evolution without needing to change.
+
+"I'll be in Mérida on the fourteenth," she said.
+
+---
+
+The flight from Austin to Mérida was two hours and forty minutes, and Lena spent most of it reading Alejandro Reyes's publications on her tablet. He'd written extensively — fourteen papers, two monographs, and a book that had done well enough in Mexico to earn a second printing — on pre-Columbian creation mythologies of the Yucatan Peninsula. His central thesis was that the Maya and their predecessors had preserved, through oral tradition and carved glyphs, a remarkably consistent account of a celestial impact event. He called these stories the *Ts'ono'ot cycle*, after the Yucatec Maya word for the cenotes that pocked the region — natural sinkholes that traced, though the Maya hadn't known it, the buried rim of the Chicxulub crater itself.
+
+The consistency interested her. Across a dozen distinct mythological traditions spanning two thousand years, the same elements recurred: a star that fell. A sound that broke the sky. Stones that were warm to the touch and could not be cut. A change in the animals and plants that came after.
+
+*Stones that were warm to the touch and could not be cut.*
+
+She'd flagged that passage and read it three times before the plane began its descent over the flat green sprawl of the Yucatan.
+
+Reyes met her at the UNAM field station in Mérida, a low concrete building behind the university campus that smelled like limestone dust and strong coffee. He was shorter than she'd expected — photographs added height, apparently, or she'd assumed that someone with his publication record would be physically larger, which was the kind of irrational association she usually caught in herself. He had deep-set eyes, silver hair cropped close, and the calloused hands of someone who still spent time in trenches.
+
+"Dr. Sarić. Amos speaks very highly of you, which from Amos means he's been speaking about you for years." He shook her hand with a grip that was firm without performing firmness. "Welcome to Mérida. I hope you like heat."
+
+"I moved to Austin from Zagreb. I've made my peace with heat."
+
+"Zagreb has beautiful winters, I understand."
+
+"It does." She left it there. Zagreb also had Mirko, and the apartment where her mother had died while Lena was at a conference in Reykjavik examining Hadean-era microfossils, and those were things she didn't discuss with strangers. Or with anyone.
+
+The field station's main room had been converted into a shared workspace. Elena Vasquez's marine geology team occupied three desks near the window, surrounded by bathymetric charts and sonar calibration equipment. Amos had arrived the day before and was sitting in a folding chair with his bad leg extended, reading a journal article and eating a mango with a pocket knife. He looked the same as always — small, wiry, tweed jacket despite the heat, smile lines deep enough to cast shadows.
+
+"Lena." He stood, a process that involved the chair, the pocket knife, and a certain amount of determination. "You look like you haven't slept. Excellent. Neither have I. Alejandro, show her the crystals."
+
+Reyes opened a metal case on the table. Inside, nested in foam cutouts, were three hexagonal crystals, each roughly the size of a domino. They were dark — not black, but a deep blue-gray that seemed to shift when she tilted the case, like the surface of deep water. The edges were sharp. Not weathered-sharp, not fractured-sharp. Machined-sharp.
+
+"*Piedras del cielo*," Reyes said. "Sky stones. Three local families near Chicxulub Puerto have had these for generations. Passed down through families, kept in home altars, believed to be sacred. When I began my fieldwork on the *Ts'ono'ot cycle*, they showed them to me. I've had them analyzed at UNAM — the crystallography department couldn't classify the lattice structure. They sent me to the materials science department, who also couldn't classify it, and who suggested I was being pranked."
+
+Lena picked up the nearest crystal. It was warm. Not sun-warm, not body-heat-warm, but warm from inside — a faint, steady thermal output that she could feel against the pads of her fingers. She stood very still and held it and didn't say anything for what she later estimated was about thirty seconds.
+
+"The isotopic signatures," she said.
+
+"Match your samples exactly. I sent a fragment to a colleague at ETH Zurich last year. Osmium-187 to osmium-188 ratio of 0.107."
+
+That was not a terrestrial number. It was not a meteoritic number. It was a number that implied nucleosynthesis in a stellar environment with a neutron flux density that didn't occur in the type of star that had produced the solar system's heavy elements.
+
+It was a number that implied the material had been made somewhere else.
+
+"Jebem ti," she said softly.
+
+Amos raised an eyebrow. "I don't speak Croatian, but I believe I've captured the sentiment."
+
+---
+
+The deep-scan survey ran for nine days. Elena Vasquez's team towed the sonar array in overlapping passes across a ten-kilometer grid centered on the peak ring's quadrant seven, and Lena spent those nine days in the field station watching the data resolve on the monitors like a photograph developing in a darkroom.
+
+The first three days showed expected geology: the fractured basement rock of the peak ring, the backwash breccia layer, the thick cap of Cenozoic limestone that had buried the crater under sixty-six million years of sediment. Normal. Interpretable. The kind of data that would make a clean paper in any geology journal.
+
+On day four, at a depth of 1,200 meters, the sonar returns changed.
+
+The reflections from that depth were too uniform. Geological structures — fault planes, lithological boundaries, intrusive bodies — produced irregular reflection patterns because rock was irregular. These reflections were flat. Planar. They extended laterally for hundreds of meters with a consistency that Lena had never seen in a geological dataset and that Elena Vasquez, who had twenty years of marine geophysics experience, had also never seen.
+
+By day seven, they had enough coverage to build a three-dimensional model. Lena watched the software render it on the main screen and felt the hair on her forearms rise, a physiological response to pattern recognition that she catalogued with the detached part of her mind even as the rest of it went very quiet.
+
+The anomaly was 4.2 kilometers long. Elongated, roughly cylindrical, tapered at both ends. It was compressed — deformed by the impact forces and the weight of the overburden — but the internal structure was unmistakable. There were voids. Chambers. Spaces inside the mass where the sonar signal vanished and returned with the signature of empty volume bounded by hard surfaces. And the surfaces met at right angles.
+
+Geology did not produce right angles.
+
+"That's a hull," Amos said. He said it quietly, standing behind her chair, his hand on the back of it. The room had gone silent. Elena's team had stopped working. Reyes was standing by the window with one of the hexagonal crystals in his hand, turning it slowly.
+
+"The problem is—" Lena started, and then stopped, because there was no problem. There was only the data, and the data was clear. "Central spine," she said instead, pointing. "These lateral structures could be decks. Or compartments. The taper at the forward end is consistent with — " She caught herself reaching for an analogy and refused it. The thing on the screen didn't need to be compared to anything. It was what it was.
+
+"It's a ship," Reyes said from the window. "The stories were right. *La estrella que cayó y rompió el mundo.* The star that fell and broke the world."
+
+Lena picked up the hexagonal crystal from the bench where she'd set it nine days ago. It was still warm. She thought about dislocation-free crystal lattices and osmium ratios from foreign stars and the sixty-six million years this material had spent beneath the limestone, not corroding, not degrading, maintaining its crystalline structure and its faint warmth like a heartbeat that had never stopped. Self-healing. The alloy was self-healing. That was the only explanation for the zero dislocations — the crystal was repairing itself, atom by atom, and had been doing so since before the first primate picked up a stick.
+
+She held it and felt its warmth against her palm and did not allow herself to think about what this meant for her career, her reputation, the paper that had been called fiction. She thought instead about the material. About what kind of engineering could produce a metal that healed itself for sixty-six million years. About what kind of civilization would need it.
+
+"We need to name it," Amos said. "The alloy. For the literature."
+
+"Keth," Reyes said. They both looked at him. "The Maya glyph on the oldest cenote carvings — the ones that reference the sky stones. *K'eth.* It translates roughly as 'star-bone.' The material the gods used to build the world before this one."
+
+"Keth-alloy," Lena said. The name settled into the room like a stone into water.
+
+She was still holding the crystal four hours later, sitting alone in the field station after the others had gone to eat, when Amos called her from the doorway. His face had changed. The smile lines were still there, but they were doing different work — not warmth, not wry amusement. Something she hadn't seen on him before. It took her a moment to identify it.
+
+He was frightened.
+
+"I've just had a call from Adaeze Okonkwo at UNOOSA," he said. UNOOSA — the United Nations Office for Outer Space Affairs. Lena had met Okonkwo once, at a planetary defense conference. A serious woman. Not someone who called people without reason.
+
+"What is it?"
+
+Amos stepped into the room and closed the door behind him. He sat down across from her, slowly, the way he did everything when his leg was hurting, and folded his hands on the table.
+
+"Now, then," he said, and his voice had dropped into the register she'd only heard once before, when he'd told her about his wife's diagnosis. "Six hours ago, the Vera Rubin Observatory flagged an object on an inbound trajectory from the direction of Sagittarius. Initially classified as a long-period comet, but the orbit was revised after additional observations from Catalina and Pan-STARRS. The object's velocity profile is inconsistent with a gravitational trajectory."
+
+Lena set the crystal down. "Inconsistent how?"
+
+"It's decelerating. At a rate that rules out outgassing, radiation pressure, and the Yarkovsky effect. The current estimate is a reduction of 1.4 kilometers per second over the past seventy-two hours." He paused. "That's not a comet, Lena. Comets don't slow down."
+
+The air conditioning cycled. The crystal sat on the table between them, warm, ancient, patient. Outside, the Yucatan night was thick with insects and the smell of rain on limestone, and beneath the limestone, four kilometers of ship slept in the dark.
+
+"UNOOSA has issued a priority summons. They want us in Vienna in forty-eight hours." He met her eyes. "Whatever crashed here sixty-six million years ago — I believe something has come looking for it."
+
+Lena looked at the crystal. She thought about the *Ts'ono'ot* stories, the star that fell and broke the world. She thought about a dislocation-free lattice repairing itself across geological time, because the thing it was part of wasn't finished yet.
+
+She picked up the crystal again. It was warm, the way a sleeping thing is warm.
+
+"Then we'd better understand what they're coming back to," she said.

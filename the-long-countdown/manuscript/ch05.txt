@@ -1,0 +1,291 @@
+Chapter Five: The Cassandra Problem
+
+The thing about Cassandra is that everyone gets the myth wrong. They think the tragedy is that nobody believed her. But that's not it. The tragedy is that she couldn't stop telling the truth. The gods didn't just curse her with disbelief — they cursed her with compulsion. She had to keep talking. Had to keep watching people's faces close like doors.
+
+Anyway.
+
+March in Iowa is winter pretending to interview for spring. The snow pulls back from the lawns in ugly patches, revealing all the things people lost in November — a tennis ball, a plastic bag, someone's mitten stiffened into a claw. The sky is the color of old dishwater. Everything smells like wet earth and patience.
+
+I am seventeen years old and I know that General Motors will file for bankruptcy in seventy-two days.
+
+This is not the kind of thing you can tell people. I'm learning this. Slowly, painfully, the way you learn anything real — by getting it wrong first.
+
+---
+
+Marcus drives a 1997 Honda Civic with a tape deck and one working speaker on the passenger side, which means every song sounds like it's being whispered directly into my right ear by a ghost with questionable taste in music. He keeps a St. Christopher medal on the rearview mirror that his grandmother gave him, and when he takes turns too fast it taps against the windshield like a tiny metallic heartbeat.
+
+We're heading north on University Avenue because Marcus wants to look at the new pedestrian bridge they're building over Dry Run Creek. He wants to build bridges. I've said this before. He really does. He pulls over on the shoulder and leans across me to stare through the passenger window at the half-finished span, rebar jutting from concrete like bones from a compound fracture, and his whole face changes. Goes soft and serious simultaneously. Most people look like that at sunsets or babies. Marcus looks like that at load-bearing structures.
+
+"They're using post-tensioned concrete," he says, like he's announcing the birth of his firstborn.
+
+"Looks expensive."
+
+"Everything good is expensive. That's literally what good means."
+
+He pulls back onto the road. The St. Christopher medal swings. I watch the unfinished bridge shrink in the side mirror — a thing in the middle of becoming itself.
+
+"Hey," I say. "GM is going to go bankrupt."
+
+I don't plan to say it. That's the thing. The compulsion. Cassandra opening her mouth at exactly the wrong moment because the gods won't let her keep it shut.
+
+Marcus doesn't even look over. "GM as in General Motors."
+
+"Yeah."
+
+"The car company."
+
+"The very one."
+
+"Nate, GM is not going to go bankrupt. They're General Motors. They made the Corvette. They're like — they're America."
+
+"They're going to file Chapter 11 before summer."
+
+He does look at me now. Quick, then back to the road. His silver Casio catches a band of sunlight through the windshield. "Why do you think that?"
+
+And here's where I've gotten better at this. Smarter. More practiced in the machinery of deception. "Look at the burn rate on their cash reserves," I say. "The credit markets are frozen. They've been losing market share for twenty years. The bailout money Congress gave them isn't enough to restructure. The math doesn't work."
+
+All of which is true. All of which I could have read in any newspaper if I were the kind of seventeen-year-old who read the financial section of newspapers, which I have carefully, over these past months, established myself to be. The lie works because it's made of true things. The best ones always are.
+
+Marcus is quiet for two blocks. Then: "You said Virginia would go blue."
+
+"I did."
+
+"And Indiana."
+
+"Right."
+
+"And they did."
+
+"They did."
+
+Another block. He drums his thumbs on the steering wheel. "If you're right about this, that's three for three. You know that."
+
+"It's not — it's just paying attention, Marcus."
+
+"Yeah," he says. He doesn't sound convinced. He doesn't sound unconvinced either. He sounds like someone filing something away for later. "Sure."
+
+The St. Christopher medal swings.
+
+I stare at the road and think about the first time I watched GM collapse. I was thirty-one. Mara and I were in our apartment in Des Moines, and she was grading papers at the kitchen table, and the news came on the little TV we kept on the counter, and I said something like *about time*, and she said *people are going to lose their jobs, Nate*, and she was right. She was usually right about the human cost of things. That was one of her gifts. Looking at a headline and seeing the people underneath it.
+
+I don't know where Mara is right now. Eighth grade, maybe. Painting her nails with her friends and being thirteen and not knowing that in seven years she'll sit next to a strange boy in an Introduction to Crisis Communication class and say, "You look like you've seen a ghost," and he'll say, "You have no idea."
+
+The point is: I told Marcus about GM because I couldn't not tell him. The same way I couldn't not tell Mr. Danaher about Virginia. The same way I'll keep leaking the future in small, careful doses, telling myself each time that this is the last one, that I'll stop, that the next prediction will stay locked in the box where I keep the things I'm not allowed to say.
+
+The box is getting full. The lid doesn't close right anymore.
+
+---
+
+Mr. Paulsen teaches AP Government in Room 214, which always smells like dry-erase markers and the particular staleness of a room whose windows haven't been opened since the Clinton administration. He's forty-something, receding hairline, wears the same rotation of four polo shirts in colors that suggest he bought them as a pack. He's not a bad teacher. He's just a man who found a groove in 1998 and has been riding it since.
+
+We're talking about pandemic preparedness because it's on the syllabus, sandwiched between FEMA org charts and something about the Stafford Act. Paulsen puts a slide up about the 1918 flu and reads the bullet points verbatim, which is a teaching strategy in the same way that microwaving a steak is cooking.
+
+"The point is," he says — and yes, I notice that he says it too, everyone says it, it's the universal human signal for *I'm about to skip the complicated part* — "we haven't seen anything like that in modern times. Modern medicine, modern sanitation, modern communication networks. A pandemic on that scale is largely a historical concern."
+
+And I should let it go. I should nod and write something in my notebook and let the moment pass like a cloud.
+
+"A major pandemic is overdue," I say.
+
+Paulsen looks up from his slides. "Overdue how?"
+
+"Statistically. Epidemiologically. We've had SARS, we've had avian flu scares, we've had small outbreaks that got contained by luck as much as by infrastructure. The conditions are all there — global travel networks, factory farming, gaps in surveillance. It's not if, it's when."
+
+The room is quiet. Twenty-two juniors and seniors who were hoping to coast through the last period of the day are suddenly looking at me.
+
+"That's a fairly alarmist position," Paulsen says, but he says it carefully, the way teachers do when a student has said something they can't immediately dismiss.
+
+"It's the WHO's position. It's in their annual risk assessments."
+
+"Well." He adjusts his polo shirt collar. "Let's hope they're wrong."
+
+Three weeks later, the first reports of H1N1 come out of Mexico. Within a month, it's in the United States. Within two months, the WHO declares a pandemic.
+
+Paulsen sends me an email through the school's system. I open it in the library, sitting at one of the particleboard desks near the reference section, Gail reshelving returns behind me with her careful, deliberate rhythm.
+
+*Nate — How did you know? — Mr. Paulsen*
+
+I type back: *Lucky guess.*
+
+I close the browser. I sit there for a while. Gail pushes her cart past and says, "You look like you swallowed something sideways, hon," and I say, "Just tired," and she says, "Sleep more, read less," and then adds, "Actually, don't. Keep reading."
+
+The lie tastes worse each time. Not worse like something going stale — worse like something getting sharper. The first lies were smooth, easy to swallow, little white capsules of self-preservation. Now they have edges. They catch in my throat. Lucky guess. Paying attention. I just read a lot. Each one is a tiny betrayal of the people who are starting to trust me, starting to look at me with something other than casual indifference, starting to think that maybe Nate Callahan is someone worth listening to.
+
+They're right. I am worth listening to. That's the whole problem.
+
+---
+
+Sophie finds me on the back porch in April. I'm sitting on the steps watching the neighbor's dog — a barrel-chested Lab named Dutch — dig a hole in their yard with a commitment that borders on religious conviction. The air is finally warm enough to sit outside without a coat, barely, if you're wearing a flannel and willing to argue about it.
+
+She sits down next to me. Not close. She leaves exactly enough space between us to establish that this is not a casual thing, that she has come here with purpose. She's wearing a hoodie with the sleeves pushed up and the strings pulled to different lengths, and her ponytail is slightly off-center in a way that would bother most people but doesn't bother Sophie because Sophie has never in her life cared about symmetry.
+
+She doesn't say anything for a while. Dutch digs. Dirt flies. A robin lands on the fence and leaves.
+
+"You're not you anymore," she says.
+
+I look at her. She's watching Dutch, not me. Her braces catch the light when she presses her lips together.
+
+"What do you mean?"
+
+"I mean what I said. You're not you. You used to be — I don't know. Louder? More annoying? You used to fight with Dad about curfew and leave your dishes in the sink and play that same Eminem song forty times until Mom threatened to hide your speakers. Now you're — " She waves a hand vaguely at all of me. "This."
+
+"People grow up, Soph."
+
+"Not like that. Not overnight."
+
+"It wasn't overnight. It was —"
+
+"It was since September. Since school started. You came back from summer and you were different. Everyone says so."
+
+"Everyone?"
+
+"Me and Mom. Dad won't say it but he looks at you sometimes like he's trying to figure out where you put the real Nate."
+
+Dutch has stopped digging. He's lying in his hole now, panting, satisfied with his work. Sophie pulls at a thread on her sleeve.
+
+"People change," I say. "It's normal."
+
+"People don't change," she says. "They just get better at hiding."
+
+She says it plainly. Not mean, not kind. Just factual, the way she says everything, because Sophie at fourteen has already figured out that observation is a form of power and she wields it without apology.
+
+I don't say anything. What do you say to that? She's right. She's so exactly right that the truth of it sits between us like a physical object, heavy and undeniable, a stone on the step.
+
+"I'm still me," I say, and even I can hear how thin it sounds.
+
+She finally looks at me. Straight on, no flinching. She has Frank's eyes — that particular shade of gray-blue that looks like Lake Michigan in October — and right now they're doing something Frank's never do. They're asking.
+
+"Okay," she says.
+
+She doesn't believe me. She gets up and goes inside and the screen door claps shut behind her and I sit there on the porch while Dutch climbs out of his hole and shakes himself off and trots away like the whole exercise meant nothing, like destruction and departure are the same gesture.
+
+People don't change. They just get better at hiding.
+
+I'm going to hear that for a long time.
+
+---
+
+The college essay writes itself. That's the problem with it.
+
+I sit at the desk in my room — the same desk where seventeen-year-old Nate carved his initials into the underside of the drawer in eighth grade, I checked, they're still there, NGP, the P for Patrick which is my middle name and which I have hated since birth — and I write about community resilience.
+
+I write about Cedar Falls during the 2008 flood. How the river rose and the sandbags went up and people who'd never spoken to each other stood shoulder to shoulder in the mud passing fifty-pound bags down a human chain. How the National Guard came and the Red Cross came but it was the neighbors who came first. How resilience isn't a policy or a plan but a practice, something communities do with their hands before they do it with their budgets.
+
+It's good. It's really good. I know it's good because I've written grant proposals and program evaluations and a thesis chapter about exactly this, in a life that hasn't happened yet, and all that experience flows into this essay like water into a channel that was already cut.
+
+I write about wanting to study emergency management because I believe preparation is a form of compassion. Because the next disaster is always coming, and the question isn't whether we'll face it but whether we'll face it together.
+
+And here's the thing. It's genuine. Every word of it is something I actually believe, actually feel, actually care about with the full weight of everything I know and everything I've seen. It is the most honest document I have ever produced.
+
+It is also strategic. Every paragraph is calibrated. The hook, the personal narrative, the pivot to professional aspiration, the landing. I know what admissions committees want because I've sat on the other side of that table. I know how to make sincerity look like sincerity, which is different from sincerity being sincerity, except when it's both, except I can't tell anymore.
+
+The point is: I get in. Early acceptance. Full ride.
+
+Frank doesn't say anything when I tell him. He's in his Adirondack chair with a can of Busch Light, the last Saturday in May, late afternoon light coming in at that low angle that makes everything look like a memory even while it's happening. He nods once. Takes a drink. Looks at the yard.
+
+"Good," he says.
+
+And then, so quietly I almost miss it: "That's real good, bud."
+
+---
+
+June. Graduation.
+
+The gym smells like floor wax and the collective anxiety of four hundred parents trying to record video on devices they don't fully understand. The bleachers are packed. Someone has strung blue and white streamers from the basketball hoops, and they twist in the draft from the open doors like the whole room is breathing.
+
+We're in alphabetical order, which puts me between Emily Caldwell, who is crying already, and Pete Carpenter, who is asleep. The gowns are cheap and shiny and make everyone look like they're wrapped in blue garbage bags. I am wearing a cap that doesn't fit and a tassel that keeps swinging into my left eye and a pair of dress shoes that Frank lent me because we're the same size now, which is a fact that seems to have startled both of us.
+
+Derek Holt gives the commencement speech because of course he does. He stands at the podium in his too-big gown with his grandfather's Rolex peeking from his sleeve and he talks about ambition, about reaching for things, about the future being a blank page waiting for their story. It's polished. It's practiced. He hits every beat — the humor, the sincerity, the call to action. The parents love it. The teachers love it. Derek's mother, in the third row, holds her phone up with both hands and her face is doing something complicated and fierce.
+
+He doesn't mention his father losing the house. He doesn't mention his mother's two jobs. He talks about blank pages and reaching for things and he means it, he really does, and the distance between what he says and what he knows is something only he and I can see.
+
+Money is the only thing that's real, he told me. Standing there in his blue gown, talking about dreams, he looks like someone who has learned to perform belief. I recognize the skill. I practice it daily.
+
+Marcus is three rows behind me. I can hear him because Marcus is not a person who experiences things quietly. He whoops when they call his name. He walks across the stage like the stage was built for him, all six feet three inches, his gap-toothed grin visible from the back row, his Nike high-tops just barely showing under the gown's hem. His grandmother is in the bleachers with a camera that probably cost more than the Civic and she is taking photos with the focused intensity of a war correspondent.
+
+They call my name. Nathan Patrick Callahan. I walk across the stage and shake the principal's hand and take the diploma and I think: I've done this before. Not metaphorically. Not spiritually. I have literally done this before, in 2009, the first time, when I was actually seventeen, when the future was actually unknown, when the diploma meant something because I didn't already know that the world it promised was going to end.
+
+I look out at the bleachers. Diane is crying. Not delicately — fully, with Kleenex, her wire glasses pushed up on top of her head where they always are, her green cardigan buttoned wrong. She cries the way she does everything: completely, without apology.
+
+Frank is sitting next to her. He's not crying. Frank doesn't cry. Frank is sitting very straight with his hands on his knees and his jaw set and he looks like a man who is containing something large and unnameable, a man whose son just walked across a stage, and the look on his face is so private and so raw that I have to look away.
+
+Sophie is eating cake. She found it somewhere — the reception isn't supposed to start for another forty minutes — and she's sitting at the end of the bleachers with a paper plate on her knees and a plastic fork and she's eating cake and watching. Just watching. Taking it all in with those gray-blue eyes that don't miss anything, filing it away in whatever vast and meticulous archive she keeps inside her head.
+
+She catches me looking. She raises her fork. It's not a wave. It's an acknowledgment. *I see you. I don't understand you. But I see you.*
+
+I nod back.
+
+---
+
+After the ceremony, outside, the parking lot is chaos. Caps in the air, photos, hugs, someone's car alarm going off, a dad trying to fit a giant teddy bear into the back of a Corolla. The sun is low and warm and the light has that golden late-afternoon quality that makes you think the universe is sentimental, which it isn't, but it's nice to pretend.
+
+Frank finds me near the gym doors. He's in his good shirt — the blue Oxford he wears to weddings and funerals and apparently graduations — and he's standing with his hands at his sides and he looks like he's about to say something important and has no idea how to start.
+
+He puts his hand out.
+
+I look at it. I look at him.
+
+I take it.
+
+His grip is firm and dry and calloused in exactly the places you'd expect from thirty years of fitting pipes, and he shakes once, twice, and then he lets go and puts his hand in his pocket and nods, and that's it. That's the whole thing. A handshake. Man to man. The most my father has ever said with his body.
+
+I think I might die from it.
+
+"Proud of you, bud," he says, and then Diane swoops in and the moment is over, dissolved into her hug and her crying and her cardigan and the smell of the Jean Naté body splash she has worn for as long as I've been alive either time.
+
+---
+
+Marcus finds me later, when the crowd is thinning and the custodians are starting to look meaningfully at the trash cans. He's still in his gown, unzipped, cap pushed back on his head at an angle that shouldn't work but does.
+
+"Callahan," he says.
+
+"Washington."
+
+"We did it."
+
+"We did."
+
+He looks around the parking lot. At the stragglers, the families, the last few graduates posing for photos against the school sign. His Casio catches the light — still three minutes fast, still always three minutes fast, as if Marcus exists slightly ahead of the rest of us.
+
+"GM filed yesterday," he says.
+
+I know. Of course I know. June 1, 2009. Chapter 11. The largest industrial bankruptcy in American history. Thirty-one billion dollars in assets, forty thousand jobs, an entire city's identity hollowed out like a jack-o'-lantern.
+
+"I saw," I say.
+
+He's quiet for a moment. Then he turns to me and his face is doing something I haven't seen before — not suspicion exactly, not fear, but a kind of careful, weighted attention. The way you look at something you're not sure is safe.
+
+"That's three for three," he says.
+
+"Marcus —"
+
+"Virginia. Indiana. GM. Three for three."
+
+"I just —"
+
+"Pay attention. Yeah. You said." He studies me. The gap in his teeth shows when he presses his lips together. "You pay a lot of attention, Nate."
+
+"Is that a bad thing?"
+
+"I don't know yet."
+
+And then, because Marcus is Marcus and because the weight of a moment is something he carries lightly, like everything else, he grins. He pulls his cap off his head and looks at it — cheap blue polyester, gold tassel, Cedar Falls High School Class of 2009.
+
+"Everything starts now, right?" he says, and he throws the cap into the air.
+
+It spins against the sky, blue on blue, catching the last of the light, and for a second it's just a shape suspended in nothing — not rising, not falling, just hanging there in the space between what was and what will be.
+
+"Yeah," I say. "Everything starts now."
+
+He means the future. College, careers, the whole bright sprawling promise of adulthood that every commencement speech tries to name and none of them do. He means beginnings. He means possibility. He means the blank page that Derek talked about, waiting to be written.
+
+I mean: in fifteen months, Lehman Brothers will be a memory. In four years, Edward Snowden will walk into a hotel room in Hong Kong. In eleven years, the world will shut its doors. In seventeen years, the Kessari will come, and the sky will look like something out of a painting no one would ever want to paint, and Cedar Falls will burn, and Marcus — Marcus who wants to build bridges, Marcus who is standing here with his face turned up to the sun and his whole life ahead of him, Marcus who brought me water and a blanket when I was drunk and pathetic on his couch — Marcus will be somewhere I can't follow, doing something I can't prevent, becoming a person I won't get to meet.
+
+Everything starts now.
+
+The cap comes down. Marcus catches it one-handed and laughs and puts it back on crooked and says, "Come on, my grandma wants pictures," and I follow him across the parking lot into the golden wreckage of the afternoon.
+
+Behind us, a custodian picks up a stray program from the ground. The gym doors close. Someone's car starts. The ordinary machinery of ending does its work.
+
+Everything starts now.
+
+I mean something completely different.

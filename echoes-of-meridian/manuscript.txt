@@ -1,0 +1,1191 @@
+ECHOES OF THE MERIDIAN
+
+A Novella
+
+---
+
+Chapter One: The Wrong Metal
+
+The mass spectrometer had been running for eleven hours, and it was lying to her again.
+
+Lena pulled the latest readout from the printer tray — she still preferred hard copy for isotopic work, the way her father had preferred paper charts to GPS — and held it under the desk lamp. The nickel-iron ratios were wrong. Not wrong in the way that suggested contamination or instrument drift, but wrong in the way that had ended her career the first time.
+
+She set the printout next to the others, five sheets arranged in a row across the bench like evidence in a prosecution. Sample UT-4419 sat in its cradle under the electron microscope, a sliver of metallic inclusion no larger than a fingernail, extracted from a Chicxulub drill core at 847 meters depth. It should have been kamacite. It should have shown the Widmanstätten patterns characteristic of iron-nickel meteorites that cooled over millions of years in the vacuum between Mars and Jupiter. Every other metallic fragment from the KT boundary layer did.
+
+This one didn't.
+
+"The problem is—" she said to the empty lab, and stopped.
+
+Carl the cactus offered no opinion from his terracotta pot beside the monitor. He'd survived three office moves, a broken window during the February ice storm, and Lena's tendency to talk to him during late-night analysis sessions. He was, she'd told Amos once, the most reliable colleague she'd ever had.
+
+She pulled up the crystallography data again. The lattice structure was hexagonal close-packed, which was expected for high-pressure nickel alloys, but the unit cell dimensions were off by 0.3 angstroms. A small number. An insignificant number, unless you understood what it meant: the atoms were too evenly spaced. Natural metallic crystals, even those forged in the heat of a bolide impact, carried dislocations — tiny imperfections where atoms slipped out of alignment. UT-4419 had none. Zero dislocations in a sample that had supposedly been subjected to the thermal shock of an asteroid striking limestone at forty kilometers per second.
+
+That wasn't difficult to explain. It was impossible to explain.
+
+She'd explained it once, in a paper published in *Geochimica et Cosmochimica Acta* three years ago. The anonymous reviewers had called her methodology "creative." One had suggested she check her equipment calibration. The other — and this was the one she replayed when she couldn't sleep — had written that "Dr. Sarić appears to confuse anomaly with artifact, a common error among researchers who approach geochemistry from adjacent disciplines." The editor's rejection had been polite. The aftermath had not. Colin Marsh at Imperial had called it "imaginative fiction" at the Goldschmidt Conference, standing at a podium while Lena sat in the fourth row and kept her face still. Jennifer Okoro at MIT had tweeted something similar, though she'd had the decency to delete it within a week.
+
+The tenure-track position at UT had quietly evaporated. Her department head, a man who collected antique barometers and avoided confrontation the way some people avoided gluten, had explained that the committee felt her "research trajectory" had become "difficult to contextualize." She'd been offered a research associate position instead. Soft money. Grant-dependent. The academic equivalent of a month-to-month lease.
+
+Lena took off her glasses and pressed her thumb and forefinger against the bridge of her nose. The lab smelled like instrument coolant and the remains of the pad thai she'd eaten at nine. Outside, Speedway Street was empty. Austin at 2 AM in July was still eighty-six degrees, and the air conditioning in the Geosciences building made a sound like a dog whimpering in its sleep.
+
+She put her glasses back on and looked at the data again.
+
+Six samples now. The first — the one from her retracted paper — had come from a UNAM drill core. These five were from a different borehole, drilled by a Mexican petroleum survey in 2019 and acquired by UT's geology collection through the kind of interdepartmental trade agreement that involved someone owing someone else a favor. Different borehole, different location within the crater's peak ring, same result. Metallic inclusions with no crystal dislocations, isotopic ratios that didn't match any known meteorite classification, and trace elements — rhenium, osmium, iridium — in proportions that suggested not just high temperature formation but sustained, controlled high temperature formation.
+
+Processed alloy. Not meteorite.
+
+The thought sat in her chest like something swallowed wrong. She'd spent three years not saying it. Three years accepting the soft-money position, writing safe papers on microfossil taphonomy, rebuilding her reputation atom by atom while the UT-4419 data sat in a locked drawer in her desk. Three years of not being the woman who thought there was something artificial buried under the Yucatan.
+
+Her phone buzzed against the bench. She glanced at the screen and felt the specific kind of alertness that Amos Achebe's name always triggered — the same feeling she got when an instrument suddenly started producing clean data after hours of noise.
+
+"It's two in the morning here, Amos."
+
+"It's eight in the morning here, which means I've been awake for two hours, which means I've been thinking for two hours, which is — I suspect you'd agree — plenty of time to make an excellent or a catastrophic decision." His voice was the same as always: warm, unhurried, with the particular clarity of a man who had spent five decades learning how to say exactly what he meant. "I've made one of each. The excellent decision is that I've arranged funding for a deep-scan sonar survey of the subsurface anomaly in quadrant seven of the Chicxulub peak ring."
+
+Lena sat down. She didn't remember deciding to sit down, but the stool was under her and her hand was flat on the bench. Quadrant seven. The exact zone where her anomalous samples originated.
+
+"The catastrophic decision," he continued, "is that I've put your name on the survey application."
+
+"Amos—"
+
+"Now, then. Before you tell me all the reasons this is unwise, I'd like you to consider that I already know all of them and have chosen to proceed anyway. I've spoken with Elena Vasquez at UNAM. She has a marine geology team with access to a deep-tow sonar rig. She's agreed to a two-week survey window beginning August fifteenth." A pause. "Also, I believe you've been running isotopic analysis on those petroleum survey cores, and I believe the results are consistent with what you found three years ago, because I found the same thing."
+
+The air conditioning whimpered. Carl maintained his silence.
+
+"How long?" Lena asked.
+
+"Eighteen months. I acquired samples through a colleague in Calgary — different borehole again, northern rim of the structure. Nickel-iron inclusions with zero crystal dislocations and non-meteoritic isotopic signatures. Three samples. I didn't publish because I didn't have enough data to survive the inevitable response, and because—" He stopped, and she heard him exhale. "Because I watched what happened to you, and I wasn't brave enough. I apologize for that, and for quoting Auden at you, but: 'In the deserts of the heart / Let the healing fountain start.' There's something under that crater, Lena. We owe it a proper look."
+
+She was quiet for a long time. Through the lab window, the streetlights along Speedway cast orange cones against the pavement. A possum moved along the far sidewalk with the unhurried confidence of something that had survived sixty-six million years of evolution without needing to change.
+
+"I'll be in Mérida on the fourteenth," she said.
+
+---
+
+The flight from Austin to Mérida was two hours and forty minutes, and Lena spent most of it reading Alejandro Reyes's publications on her tablet. He'd written extensively — fourteen papers, two monographs, and a book that had done well enough in Mexico to earn a second printing — on pre-Columbian creation mythologies of the Yucatan Peninsula. His central thesis was that the Maya and their predecessors had preserved, through oral tradition and carved glyphs, a remarkably consistent account of a celestial impact event. He called these stories the *Ts'ono'ot cycle*, after the Yucatec Maya word for the cenotes that pocked the region — natural sinkholes that traced, though the Maya hadn't known it, the buried rim of the Chicxulub crater itself.
+
+The consistency interested her. Across a dozen distinct mythological traditions spanning two thousand years, the same elements recurred: a star that fell. A sound that broke the sky. Stones that were warm to the touch and could not be cut. A change in the animals and plants that came after.
+
+*Stones that were warm to the touch and could not be cut.*
+
+She'd flagged that passage and read it three times before the plane began its descent over the flat green sprawl of the Yucatan.
+
+Reyes met her at the UNAM field station in Mérida, a low concrete building behind the university campus that smelled like limestone dust and strong coffee. He was shorter than she'd expected — photographs added height, apparently, or she'd assumed that someone with his publication record would be physically larger, which was the kind of irrational association she usually caught in herself. He had deep-set eyes, silver hair cropped close, and the calloused hands of someone who still spent time in trenches.
+
+"Dr. Sarić. Amos speaks very highly of you, which from Amos means he's been speaking about you for years." He shook her hand with a grip that was firm without performing firmness. "Welcome to Mérida. I hope you like heat."
+
+"I moved to Austin from Zagreb. I've made my peace with heat."
+
+"Zagreb has beautiful winters, I understand."
+
+"It does." She left it there. Zagreb also had Mirko, and the apartment where her mother had died while Lena was at a conference in Reykjavik examining Hadean-era microfossils, and those were things she didn't discuss with strangers. Or with anyone.
+
+The field station's main room had been converted into a shared workspace. Elena Vasquez's marine geology team occupied three desks near the window, surrounded by bathymetric charts and sonar calibration equipment. Amos had arrived the day before and was sitting in a folding chair with his bad leg extended, reading a journal article and eating a mango with a pocket knife. He looked the same as always — small, wiry, tweed jacket despite the heat, smile lines deep enough to cast shadows.
+
+"Lena." He stood, a process that involved the chair, the pocket knife, and a certain amount of determination. "You look like you haven't slept. Excellent. Neither have I. Alejandro, show her the crystals."
+
+Reyes opened a metal case on the table. Inside, nested in foam cutouts, were three hexagonal crystals, each roughly the size of a domino. They were dark — not black, but a deep blue-gray that seemed to shift when she tilted the case, like the surface of deep water. The edges were sharp. Not weathered-sharp, not fractured-sharp. Machined-sharp.
+
+"*Piedras del cielo*," Reyes said. "Sky stones. Three local families near Chicxulub Puerto have had these for generations. Passed down through families, kept in home altars, believed to be sacred. When I began my fieldwork on the *Ts'ono'ot cycle*, they showed them to me. I've had them analyzed at UNAM — the crystallography department couldn't classify the lattice structure. They sent me to the materials science department, who also couldn't classify it, and who suggested I was being pranked."
+
+Lena picked up the nearest crystal. It was warm. Not sun-warm, not body-heat-warm, but warm from inside — a faint, steady thermal output that she could feel against the pads of her fingers. She stood very still and held it and didn't say anything for what she later estimated was about thirty seconds.
+
+"The isotopic signatures," she said.
+
+"Match your samples exactly. I sent a fragment to a colleague at ETH Zurich last year. Osmium-187 to osmium-188 ratio of 0.107."
+
+That was not a terrestrial number. It was not a meteoritic number. It was a number that implied nucleosynthesis in a stellar environment with a neutron flux density that didn't occur in the type of star that had produced the solar system's heavy elements.
+
+It was a number that implied the material had been made somewhere else.
+
+"Jebem ti," she said softly.
+
+Amos raised an eyebrow. "I don't speak Croatian, but I believe I've captured the sentiment."
+
+---
+
+The deep-scan survey ran for nine days. Elena Vasquez's team towed the sonar array in overlapping passes across a ten-kilometer grid centered on the peak ring's quadrant seven, and Lena spent those nine days in the field station watching the data resolve on the monitors like a photograph developing in a darkroom.
+
+The first three days showed expected geology: the fractured basement rock of the peak ring, the backwash breccia layer, the thick cap of Cenozoic limestone that had buried the crater under sixty-six million years of sediment. Normal. Interpretable. The kind of data that would make a clean paper in any geology journal.
+
+On day four, at a depth of 1,200 meters, the sonar returns changed.
+
+The reflections from that depth were too uniform. Geological structures — fault planes, lithological boundaries, intrusive bodies — produced irregular reflection patterns because rock was irregular. These reflections were flat. Planar. They extended laterally for hundreds of meters with a consistency that Lena had never seen in a geological dataset and that Elena Vasquez, who had twenty years of marine geophysics experience, had also never seen.
+
+By day seven, they had enough coverage to build a three-dimensional model. Lena watched the software render it on the main screen and felt the hair on her forearms rise, a physiological response to pattern recognition that she catalogued with the detached part of her mind even as the rest of it went very quiet.
+
+The anomaly was 4.2 kilometers long. Elongated, roughly cylindrical, tapered at both ends. It was compressed — deformed by the impact forces and the weight of the overburden — but the internal structure was unmistakable. There were voids. Chambers. Spaces inside the mass where the sonar signal vanished and returned with the signature of empty volume bounded by hard surfaces. And the surfaces met at right angles.
+
+Geology did not produce right angles.
+
+"That's a hull," Amos said. He said it quietly, standing behind her chair, his hand on the back of it. The room had gone silent. Elena's team had stopped working. Reyes was standing by the window with one of the hexagonal crystals in his hand, turning it slowly.
+
+"The problem is—" Lena started, and then stopped, because there was no problem. There was only the data, and the data was clear. "Central spine," she said instead, pointing. "These lateral structures could be decks. Or compartments. The taper at the forward end is consistent with — " She caught herself reaching for an analogy and refused it. The thing on the screen didn't need to be compared to anything. It was what it was.
+
+"It's a ship," Reyes said from the window. "The stories were right. *La estrella que cayó y rompió el mundo.* The star that fell and broke the world."
+
+Lena picked up the hexagonal crystal from the bench where she'd set it nine days ago. It was still warm. She thought about dislocation-free crystal lattices and osmium ratios from foreign stars and the sixty-six million years this material had spent beneath the limestone, not corroding, not degrading, maintaining its crystalline structure and its faint warmth like a heartbeat that had never stopped. Self-healing. The alloy was self-healing. That was the only explanation for the zero dislocations — the crystal was repairing itself, atom by atom, and had been doing so since before the first primate picked up a stick.
+
+She held it and felt its warmth against her palm and did not allow herself to think about what this meant for her career, her reputation, the paper that had been called fiction. She thought instead about the material. About what kind of engineering could produce a metal that healed itself for sixty-six million years. About what kind of civilization would need it.
+
+"We need to name it," Amos said. "The alloy. For the literature."
+
+"Keth," Reyes said. They both looked at him. "The Maya glyph on the oldest cenote carvings — the ones that reference the sky stones. *K'eth.* It translates roughly as 'star-bone.' The material the gods used to build the world before this one."
+
+"Keth-alloy," Lena said. The name settled into the room like a stone into water.
+
+She was still holding the crystal four hours later, sitting alone in the field station after the others had gone to eat, when Amos called her from the doorway. His face had changed. The smile lines were still there, but they were doing different work — not warmth, not wry amusement. Something she hadn't seen on him before. It took her a moment to identify it.
+
+He was frightened.
+
+"I've just had a call from Adaeze Okonkwo at UNOOSA," he said. UNOOSA — the United Nations Office for Outer Space Affairs. Lena had met Okonkwo once, at a planetary defense conference. A serious woman. Not someone who called people without reason.
+
+"What is it?"
+
+Amos stepped into the room and closed the door behind him. He sat down across from her, slowly, the way he did everything when his leg was hurting, and folded his hands on the table.
+
+"Now, then," he said, and his voice had dropped into the register she'd only heard once before, when he'd told her about his wife's diagnosis. "Six hours ago, the Vera Rubin Observatory flagged an object on an inbound trajectory from the direction of Sagittarius. Initially classified as a long-period comet, but the orbit was revised after additional observations from Catalina and Pan-STARRS. The object's velocity profile is inconsistent with a gravitational trajectory."
+
+Lena set the crystal down. "Inconsistent how?"
+
+"It's decelerating. At a rate that rules out outgassing, radiation pressure, and the Yarkovsky effect. The current estimate is a reduction of 1.4 kilometers per second over the past seventy-two hours." He paused. "That's not a comet, Lena. Comets don't slow down."
+
+The air conditioning cycled. The crystal sat on the table between them, warm, ancient, patient. Outside, the Yucatan night was thick with insects and the smell of rain on limestone, and beneath the limestone, four kilometers of ship slept in the dark.
+
+"UNOOSA has issued a priority summons. They want us in Vienna in forty-eight hours." He met her eyes. "Whatever crashed here sixty-six million years ago — I believe something has come looking for it."
+
+Lena looked at the crystal. She thought about the *Ts'ono'ot* stories, the star that fell and broke the world. She thought about a dislocation-free lattice repairing itself across geological time, because the thing it was part of wasn't finished yet.
+
+She picked up the crystal again. It was warm, the way a sleeping thing is warm.
+
+"Then we'd better understand what they're coming back to," she said.
+
+---
+
+Chapter Two: We Received Your Call
+
+The object appeared on Adrienne Park's screen at 03:47 Zulu, and for eleven seconds she believed it was a software artifact.
+
+She had been watching a routine satellite conjunction — two defunct weather platforms drifting toward a near-miss in low Earth orbit — when the new track materialized at the edge of her display. It carried no transponder code. Its radar cross-section suggested something larger than the International Space Station, and it was decelerating.
+
+Nothing in space decelerated without thrust.
+
+Park clicked through three verification layers, her fingers moving with the automatic precision of someone who had spent nine years inside Cheyenne Mountain trusting procedure over instinct. She checked the track against the catalog. No match. She checked for sensor ghosting, for atmospheric refraction errors, for the particular breed of software glitch that had once convinced a night-shift operator he was looking at a Chinese ASAT test. Nothing. The object was real, it was inbound from a vector roughly consistent with the constellation Lyra, and it was slowing down.
+
+She picked up the red phone.
+
+"Colonel, this is Park in Space Track. I have an uncorrelated target on approach, bearing—" She read the coordinates. "Negative on catalog match, negative on known debris. Cross-section is anomalous. It's showing controlled deceleration."
+
+Silence on the line. Then: "Say again on deceleration."
+
+"Controlled deceleration, sir. Consistent reduction in velocity over the last four minutes. Whatever it is, it's braking."
+
+She heard the colonel exhale. In nine years she had never heard him do that on an open line.
+
+"Wake up the chain," he said. "All of it."
+
+---
+
+Lena's flight from Mérida landed at George Bush Intercontinental at six in the morning, and by six-forty she was in the back of a government car she hadn't requested, watching Houston's sprawl slide past tinted windows. The driver hadn't spoken beyond confirming her name. Her phone had been collected at the gate by a woman in a navy blazer who'd handed her a single sheet of paper — a nondisclosure agreement with UNOOSA letterhead and a signature line that was still warm from the printer.
+
+She'd signed it. There hadn't been a realistic alternative.
+
+The car delivered her to the Johnson Space Center's administrative complex, a building she'd visited twice for conferences and remembered as aggressively beige. Inside, a security officer checked her credentials against a list, handed her a badge marked TEMPORARY — ESCORT REQUIRED, and led her through corridors that smelled of recycled air and fresh coffee.
+
+She was tired in a way that had nothing to do with sleep. In the forty-one hours since the deep scan, the structure beneath Chicxulub had become simultaneously the most important discovery of her career and something she was no longer permitted to discuss. Her laptop had been imaged at the Mérida airport by two men who spoke politely and carried military identification. Her research files were, she assumed, already on servers she would never see.
+
+And now something was coming from Lyra, and someone thought she needed to be in this building.
+
+The escort brought her to a conference room on the third floor. It was large, windowless, designed for the kind of meeting that never appeared on public calendars. A long table with built-in power strips. Projection screens on two walls. Coffee station in the corner with the particular institutional grimness of a facility that had given up on aesthetics decades ago.
+
+About twenty people were already seated or standing in small clusters. Lena recognized none of them by face but could read the taxonomy by dress — military uniforms in three national flavors, civilian suits that telegraphed various agencies, a handful of people in less formal clothes who carried the particular exhaustion of having been pulled from active research. Her people.
+
+She poured herself coffee. It was burnt. She drank it anyway and found a seat near the middle of the table, close enough to the screens to read fine print but far enough from the head to avoid suggesting she thought she belonged there.
+
+A man in a JAXA flight jacket was leaning against the wall to her right, arms crossed, watching the room fill. He was compact, broad-shouldered, with black hair buzzed close and a face that had spent time outdoors — crow's feet pressed into the skin around his eyes in a way that suggested years of squinting into bright sky. His sleeves were pushed to his elbows, and Lena noticed a thin white scar running along his right forearm, old enough to have gone smooth.
+
+He was the calmest person in the room. Not performing calm — not the rigid stillness of someone managing anxiety — but genuinely settled, the way a pilot might be in the minutes before a flight he'd rehearsed until it bored him. He was reading the room the same way she was, she realized. Cataloging. And when his gaze reached her, it paused for exactly one beat longer than it had on anyone else, a brief calibration, before moving on.
+
+She looked away. Opened her notebook. Wrote nothing in it.
+
+The door at the head of the room opened, and Director James Hadley walked in.
+
+She had seen him on screens — UNOOSA press conferences, a TED talk she'd watched half of on a flight. In person he was taller than expected, heavy-boned, with an expensive haircut and wire-rimmed glasses that sat on his face like a prop. He moved with the specific authority of someone who had spent decades in rooms where authority was the primary currency.
+
+"Let me be clear about why you're here," he said, without preamble, without introducing himself, because the assumption that everyone knew who he was functioned as its own kind of introduction. "Fourteen hours ago, NORAD Space Track identified an uncharted object on approach from outside the solar system. It is large — current estimates place it at approximately eight hundred meters in length. It is decelerating. It will reach Earth orbit within the next six to nine hours."
+
+The room did not erupt. Lena had expected eruption — gasps, crosstalk, the immediate fracture of composure. Instead there was a settling, a collective inward breath, as though twenty people had simultaneously decided to become very precise.
+
+"This is not an asteroid," Hadley continued. "Its deceleration profile is inconsistent with any natural phenomenon. We are treating this as a first-contact scenario until evidence suggests otherwise. You have been selected for this committee based on your respective expertise, and I want to be direct: nothing discussed in this room leaves it. Not to colleagues, not to family, not to your agencies' press offices. The information-control protocols are in your briefing packets."
+
+Packets were being distributed. Lena opened hers and found a thin folder — radar cross-section data, a trajectory plot, a spectral analysis that someone had stamped PRELIMINARY in red ink. She scanned the spectrograph and felt the hairs on her arms lift. The alloy signature was wrong. Not wrong as in erroneous — wrong as in impossible, as in not matching any known element combination, as in exactly the kind of wrong she'd been staring at for three weeks in her Austin lab.
+
+She looked up and found the man in the JAXA jacket watching her again. He'd seen her reaction.
+
+Hadley was introducing the committee leads. Military liaison from NORTHCOM. A State Department representative who looked like she hadn't slept. ESA's director of space situational awareness, attending by encrypted video from Darmstadt. And Kai Ōmura, JAXA, pilot and aerospace liaison.
+
+So that was his name.
+
+Ōmura straightened off the wall when introduced, gave a short nod, and said nothing. Professional, economical. The nod of someone who understood that the room didn't need his personality right now — it needed his credentials.
+
+"Dr. Sarić," Hadley said, and Lena felt the room's attention rotate toward her. "Scientific advisor. Dr. Sarić's recent fieldwork is directly relevant to what we're seeing, and I'll ask her to brief the committee once we've established the operational framework."
+
+It was a leash dressed as an invitation. She recognized the construction — *you'll speak when I let you* — and filed it away without expression.
+
+The next two hours were procedural. Communication protocols. Chain-of-command diagrams. The particular bureaucratic choreography that large organizations perform when confronted with something they have no protocol for, which is to build a protocol in real time and pretend it was always there. Lena listened, took notes, and felt the structure beneath Chicxulub pulling at her attention like a weight on a fishing line.
+
+At 09:15, Hadley called a break. People stood, stretched, checked phones that had been silenced but not surrendered. Lena was reaching for the coffee station when a paper cup appeared in her line of sight, already filled. She looked up.
+
+Ōmura. He'd poured it without her asking.
+
+"Milk's off," he said. "I'd go black."
+
+"I take it black."
+
+"Then you're sorted."
+
+He poured his own — black as well — and leaned against the counter beside her, not close enough to crowd, not far enough to suggest avoidance. The flight jacket had a mission patch on the shoulder she didn't recognize.
+
+"You read the spectral data fast," he said.
+
+"It's what I do."
+
+"And the face you made when you read it."
+
+She looked at him directly. His eyes were dark, patient, unbothered by silence in a way that most people weren't. He wasn't fishing. He was offering an observation and leaving space for her to do what she wanted with it.
+
+"I've seen that alloy signature before," she said. She shouldn't have. The NDA covered everything. But the spectral data in the briefing packet was already being shared with the room, and she hadn't specified where she'd seen it. A truthful deflection. She was getting better at those.
+
+He nodded as if this confirmed something he'd already suspected. "Thought so."
+
+Before she could decide whether to say more, a comms officer stepped into the room with a face that made everyone stop talking.
+
+"Director Hadley. It's in orbit. And it's broadcasting."
+
+---
+
+They crowded back to the table. The comms officer patched the feed through the room's speakers, and for a moment there was only static — the hiss and crackle of a signal passing through processing filters — and then a voice filled the room.
+
+It was not human. It was close enough to human that the difference registered as wrongness rather than alienness, the way a slightly mistuned instrument is more jarring than a completely foreign sound. The cadence was measured, the pronunciation precise, and it spoke in English:
+
+*"People of Earth. We received your call. We are sorry it took so long."*
+
+The message repeated. Then the language shifted — the same words in Mandarin, delivered with the same careful precision. Then Spanish. Then English again.
+
+Lena's hand was flat on the table. She pressed her fingers against the surface and felt the laminate, cool and solid, and used that sensation to anchor herself against the vertigo of what she was hearing. *We received your call.* Not *we detected your signal*. Not *we intercepted your transmission*. Your call. As though someone had placed it. As though someone, sixty-six million years ago, had picked up a phone and dialed.
+
+Hadley raised a hand and the audio was muted. The room was very quiet.
+
+"Analysis," he said.
+
+The comms officer swallowed. "The broadcast is omnidirectional, sir. Every frequency. Every language we've checked so far — it's cycling through at least forty. But there's something embedded in the carrier wave." He tapped his tablet. "A modulated subfrequency. We've isolated it and it appears to be a — a code, sir. A repeating numerical sequence."
+
+"What kind of code?"
+
+"We don't know yet. We're running it against—"
+
+"I know what it is," Lena said.
+
+The room turned to her again. Hadley's expression was controlled but she could see the tension in his jaw, the displeasure of a man whose script had just been deviated from.
+
+"Dr. Sarić."
+
+She stood. She didn't need to, but the information deserved the posture. "Three weeks ago, my team completed a deep-scan survey of the Chicxulub crater in the Yucatán. We identified a manufactured structure at four-point-two-kilometer depth. The structure has been continuously emitting a low-frequency signal since we first detected it — a repeating numerical sequence embedded in what appears to be a distress code."
+
+She paused. The room was so quiet she could hear the ventilation system cycling.
+
+"The embedded code in this broadcast matches the signal from the structure. Not approximately. Exactly. Same sequence, same modulation pattern, same mathematical structure. Whatever is in orbit is responding to whatever is under the Yucatán. The call they received was sixty-six million years old."
+
+Silence held for three seconds. Then the room broke open — not into chaos, but into the rapid, overlapping speech of professionals who had just had their operational framework shattered and were building a new one in real time. The military liaisons were talking to each other. The State Department woman was on her phone. The ESA director was asking questions from Darmstadt that no one was answering.
+
+Hadley let it run for exactly thirty seconds, then raised his hand again. "This changes the operational scope. I'm classifying the Chicxulub data as MERIDIAN — access restricted to this committee and designated support staff. Dr. Sarić, I'll need your complete research files, field data, and the names of everyone on your survey team."
+
+"You already have my files," Lena said. "They were imaged at the airport."
+
+The faintest tightening around his mouth. "Then we'll need your cooperation in ensuring nothing was omitted."
+
+"Nothing was omitted."
+
+He held her gaze for a moment, then moved on. He was restructuring the committee in real time — new working groups, new reporting lines, new restrictions. Lena watched him work and recognized the particular genius of it. He wasn't suppressing the discovery. He was absorbing it. Pulling it inside the bureaucratic structure where it could be managed, shaped, released on his schedule and in his language.
+
+She sat down. Her coffee was cold. She drank it anyway.
+
+Ōmura caught her eye from across the table. He didn't speak, didn't nod, didn't offer reassurance. He just looked at her steadily, and in that look she read something simple and unexpected: *I see what just happened to you.*
+
+She looked away.
+
+---
+
+The next four hours were the longest of Lena's professional life.
+
+The object — someone began calling it the Aethon, after the mythological horse that pulled the sun's chariot, and the name propagated through the room with the viral efficiency of a useful shorthand — had settled into a stable orbit at 400 kilometers. It was not approaching. It was not retreating. It was waiting.
+
+Telescopic imagery arrived from three separate observatories, each more detailed than the last. The Aethon was elongated, roughly cylindrical, with a surface that appeared to shift between matte and reflective depending on the angle of observation. Eight hundred meters. Larger than any structure humanity had put in space. It hung above the planet with the patience of something that had crossed interstellar distances and could afford to be still.
+
+The broadcast continued on loop. *We received your call. We are sorry it took so long.*
+
+Working groups formed, argued, dissolved, reformed. Lena briefed the geological subcommittee on the Chicxulub structure — twice, because the first time they didn't believe her, and the second time they did, which was worse. She described the keth-alloy, the hexagonal crystalline lattice, the deep-scan profile of a 4.2-kilometer object that showed internal chambers and what might be corridors. She kept her voice level. She presented data. She did not speculate, because speculation was no longer her job — the room was full of people who would speculate for her, and she needed to remain the one they came back to for facts.
+
+Ōmura was in the aerospace working group, but she noticed he was listening to her briefing from two seats away, his pen still, his attention undivided. When the group broke, he walked past her and paused just long enough to say, "You held that well."
+
+Three words. She shouldn't have needed them.
+
+At 14:00, Hadley's aide found her in the hallway outside the restroom, which was the only place she'd been alone in eight hours.
+
+"Dr. Sarić. The Director would like a word."
+
+She followed the aide to a smaller room — a glass-walled office someone had hastily cleared of personal effects. Hadley was standing by the window, looking out at the Johnson Space Center campus with the expression of a man surveying territory.
+
+"Close the door," he said.
+
+She did.
+
+He turned to face her. Without the audience, his posture was different — less performative, more direct. The glasses caught the overhead light.
+
+"Your work is extraordinary, Dr. Sarić. I want you to know that."
+
+She waited. Compliments from men like Hadley were not gifts. They were the padding placed around something hard.
+
+"But you understand the position we're in. The Chicxulub data is now the single most sensitive piece of scientific information on the planet. It connects a sixty-six-million-year-old structure to an active first-contact scenario. If this leaks — not when, if — the geopolitical consequences are beyond anything either of us can model."
+
+"I understand classification protocols."
+
+"This goes beyond classification. Your original research — the drill cores, the alloy analysis, the deep scan — all of it is now under MERIDIAN restriction. Your paper is dead. Your university will be informed that your fieldwork has been absorbed into a joint UN-national security project, and they'll comply, because the alternative is losing their federal funding. Your survey team in Mérida will be briefed individually and bound by the same restrictions."
+
+Lena felt the floor shift beneath her. Not literally — literally the floor was cheap government carpet and perfectly stable — but the sensation of something being rearranged under her feet, the architecture of her professional life being quietly demolished and rebuilt to someone else's specifications.
+
+"You're burying it," she said.
+
+"I'm protecting it. There's a difference."
+
+"From where I'm standing, the difference is cosmetic."
+
+Hadley took off his glasses, cleaned them with a cloth from his pocket — an affectation, she was certain, a practiced gesture meant to create a pause he controlled. "You wanted someone to take your work seriously, Dr. Sarić. Congratulations." He put the glasses back on. "Now it's too serious for you to control."
+
+She held his gaze. She had spent her career in rooms where men with authority told her what her work meant, and she had learned that the most dangerous response was the one you gave immediately.
+
+"Is that all?" she said.
+
+"For now. We reconvene at sixteen hundred."
+
+She left the office, walked down the hallway, turned a corner, and stopped. She put her hand on the wall. The paint was cool under her palm, slightly textured. She breathed, and counted, and let the anger move through her without acting on it.
+
+When she returned to the conference room, Ōmura was at the coffee station. He'd poured two cups. One was already sitting on the counter where she'd been standing before.
+
+He didn't say anything. He didn't need to.
+
+She picked up the coffee. It was hot. She wrapped both hands around it and sat down to wait for whatever came next.
+
+Outside, four hundred kilometers above the curve of the Earth, the Aethon orbited in silence, its broadcast cycling through languages that humanity had invented and a patience that humanity had not. *We received your call. We are sorry it took so long.* And beneath the Yucatán, in the dark, the structure that had been calling for sixty-six million years continued to call, unaware that someone had finally answered.
+
+---
+
+Chapter Three: The Cartographer's Confession
+
+The docking collar smelled like machine oil and recycled breath. Lena floated with one hand on the guide rail, her magnetic boots switched off because she'd watched Kai drift through the Node 2 module with an ease that made walking look primitive. She regretted that decision now. Her stomach kept insisting that down was somewhere behind her left ear.
+
+Six hours on the ISS and she still couldn't eat without chasing globules of water across the galley. Kai had caught one in midair for her at breakfast, pinched it between two fingers, and deposited it back into her pouch without comment. She'd thanked him. He'd shrugged — the universal language of people who'd rather not discuss competence.
+
+Now he floated three meters to her right in the docking vestibule, arms crossed, watching the pressure equalization readout with the same expression he'd worn monitoring reentry telemetry during the briefing: patient, flat, professionally bored. Hadley drifted at the front of the delegation in a suit that had been tailored for gravity — it bunched at the shoulders in free fall and made him look like a child wearing his father's coat. Two Air Force security officers flanked him, sidearms Velcroed to their thighs. Lena had asked Kai quietly whether guns on a space station were a good idea. He'd said, "Depends who's shooting," and left it there.
+
+The Aethon had matched orbit fourteen hours ago. It hung three kilometers off the station's port side, close enough to see through the cupola windows — a dark, elongated shape that caught sunlight along its forward quarter and swallowed it everywhere else. No running lights. No engine glow. It looked less like a vessel than like a piece of space that had decided to have edges.
+
+A transport pod had detached forty minutes ago. Smaller than Lena expected — maybe twice the volume of a Crew Dragon capsule — and it had crossed the intervening distance with a series of corrections so precise that the station's tracking systems kept losing lock. The pod was now hard-docked to the forward port of the Harmony module, and the pressure gauges read green, and the hatch indicators showed a clean seal, and Lena's hands were shaking.
+
+She tucked them into her jacket pockets.
+
+The inner hatch cycled. A tone sounded — two notes, low-high, that Lena didn't recognize as part of standard ISS operations. Then the hatch swung inward, and Envoy Sable entered the International Space Station the way water enters a glass: without resistance, filling the available space completely.
+
+They were tall. That registered first — taller than Hadley, who was not a small man. Their proportions were close to human but not quite right, the way a photograph is close to the thing it depicts. Limbs slightly longer. Torso slightly narrower. Hands with four fingers and a thumb, and each finger had one joint too many, so when Sable gripped the hatch frame to orient themselves, their fingers wrapped around the metal in a way that made Lena think of ivy on a fence post.
+
+Their skin was dark amber, and it moved. Not visibly, not constantly — but every few seconds, a faint luminescence shifted beneath the surface, the way a flashlight beam plays across the wall of an adjacent room. It traced no pattern Lena could discern. Sable's eyes were violet-black, iris bleeding into pupil until the distinction dissolved, and they found Hadley's face immediately and held it.
+
+"Director Hadley." The voice was mid-register, unhurried, with a formality that sat in the consonants. No contractions. Precise diction. The accent was unplaceable — not British, not American, not anything Lena could tag. "We are grateful for your welcome. The journey between vessels is brief, but the journey between peoples is long. We are glad to have arrived."
+
+Hadley extended his hand. Sable took it. The extra-jointed fingers closed around his palm and Lena watched Hadley's jaw tighten — not with pain, she thought, but with the effort of not reacting to something profoundly unfamiliar touching him.
+
+"On behalf of the United Nations Office for Outer Space Affairs," Hadley said, "welcome aboard. Let me be clear — this is a preliminary meeting. We have questions."
+
+"Of course you do." Sable released his hand and turned, slowly, taking in the delegation. Their gaze moved across the security officers without interest, paused on Kai — a fractional tilt of the head, an acknowledgment — and then found Lena.
+
+They stopped.
+
+"Dr. Sarić." Not a question. Sable's luminescence brightened by a degree, a pulse that traveled from their collarbone to the hinge of their jaw. "You found the Meridian."
+
+"I found an anomalous alloy in a drill core," Lena said. "Alejandro Reyes found the structure. A deep-scan survey confirmed it."
+
+"You found the Meridian," Sable repeated, and smiled. The smile was warm and unhurried and it made Lena's skin prickle in a way she couldn't explain. "We have waited a very long time for someone to find it. You cannot know what it means to us."
+
+The word *us* hung in the recycled air. Lena wanted to ask who *us* was, exactly, and how long *a very long time* was, and why Sable was looking at her as though she'd brought home a lost dog. But Hadley was already steering the delegation toward the conference module, and protocol was protocol, and Lena tucked her questions into the same mental file where she kept her shaking hands.
+
+---
+
+The conference module had been reconfigured with a table — bolted down, because gravity was a suggestion here — and Sable sat at its head without being directed there. Hadley noticed. Lena watched him notice.
+
+For ninety minutes, Sable answered questions with the patience of someone who had rehearsed this conversation many times, possibly across centuries. They described the Continuance: a civilization spanning eleven star systems, all populated by the same species, all connected by a network of relay stations that permitted near-instantaneous communication through principles Sable called "resonance threading" and declined to elaborate on. The Aethon was a diplomatic vessel, crew of forty-three. They had traveled for nineteen years at a fraction of light-speed, decelerating for the last four. The distress signal from the Meridian — what Lena and Amos had detected as an isotopic anomaly — had been broadcasting for sixty-five million years.
+
+"The Meridian was a seedship," Sable said. "One of nine that we launched in the early centuries of our expansion. It was meant to prepare this world for habitation. The impact that buried it was not planned. We believed the mission had failed."
+
+"And us?" Hadley leaned forward. "Humans. Where do we fit?"
+
+Sable's expression didn't change, but their luminescence dimmed to almost nothing — a withdrawal, Lena thought, like someone choosing their words in a language that was not quite their own.
+
+"You are the mission," Sable said. "You are what the Meridian was sent to cultivate."
+
+The room went quiet in a way that had texture. Lena could hear the station's ventilation system cycling, the faint whir of a centrifuge in the Japanese module two compartments over, and her own heartbeat marking time against her sternum.
+
+Hadley sat back. "Let me be clear. You're claiming that human beings are — what? A product of alien engineering?"
+
+"We are claiming that you are our kin." Sable folded their too-long fingers on the table. "The sky does not argue with the rain, Director. It receives it. We understand this is difficult to receive."
+
+---
+
+Lena's tablet chimed during the afternoon recess. She was in the crew quarters module, strapped loosely to a sleeping bag she had no intention of using, trying to organize her notes into something that didn't read like the ramblings of a person having a controlled breakdown. The message was from an address she didn't recognize — a Broad Institute domain, flagged urgent.
+
+*Dr. Sarić — I read your 2024 paper on non-meteoritic isotopic signatures in impact ejecta. I believe your keth-alloy may be relevant to my work. I have results I cannot publish and no one I trust to show them to. Can we talk? — Yuki Tanaka*
+
+Lena checked the name. Computational genetics. A paper from two years ago on algorithmic detection of deliberate genetic engineering in human accelerated regions — ambitious, methodologically sound, career-endingly controversial. The paper had been retracted under pressure. Tanaka was on academic probation.
+
+Lena called her.
+
+Yuki Tanaka had the rapid, compressed speech pattern of someone who'd been waiting to explain something for a very long time and was terrified the listener would hang up. She was twenty-nine. She'd built a detection algorithm that could distinguish engineered genetic sequences from naturally selected ones by analyzing error distribution patterns — natural selection left stochastic noise; engineering left symmetry.
+
+"Human Accelerated Regions," Yuki said. "Thirty-two genomic loci that evolved faster in humans than in any other primate. Standard explanation is strong positive selection. My algorithm flags them as engineered with 94.7 percent confidence."
+
+"How?"
+
+"Error signatures. Natural selection produces variation that follows a power-law distribution — lots of small changes, rare large ones. The HARs show a Gaussian distribution. Tight clustering around optimal values. Like someone was tuning parameters."
+
+Lena closed her eyes. "You're saying someone designed the parts of our genome that make us human."
+
+"I'm saying the math says that. I was hoping you'd tell me I'm wrong."
+
+Lena couldn't tell her she was wrong. Instead, she told her about the keth-alloy — the isotopic ratios, the impossible crystal structure — and asked if Yuki could run a comparison. The alloy shard they'd recovered from the Chicxulub core had yielded trace biological material. Ancient, degraded, but sequenceable. If Yuki could compare that DNA against the modern human reference genome —
+
+"I already have it." Yuki's voice dropped. "I requested the sequencing data from your collaborator in Mérida two weeks ago. Dr. Reyes was very helpful."
+
+"And?"
+
+"99.97 percent match to modern Homo sapiens. Dr. Sarić, this sample is sixty-five million years old and it is nearly identical to us. That is not evolution. That is maintenance."
+
+Lena stared at the wall of the crew module. A photograph of Lake Baikal, pinned up by some previous occupant, curled at the edges from humidity shifts.
+
+"I need one more comparison," she said. "Sable provided a tissue sample during the medical screening this morning. Can you access it?"
+
+A long pause. "I can try."
+
+It took Yuki four hours. The medical data was classified, but Yuki knew someone at JSC who knew someone at UNOOSA who owed a favor to someone at the Broad Institute, and the chain of quiet academic debts produced a dataset at 1647 UTC.
+
+Sable's genome: 99.89 percent match to modern Homo sapiens.
+
+Three genomes. Three points on a line so narrow it was almost a single point. The keth-alloy DNA was closer to modern humans than Sable was. All three were the same species.
+
+Lena didn't say anything for a long time. Yuki waited.
+
+"Send me everything," Lena said finally. "Encrypted. Use my personal server, not the MERIDIAN channels."
+
+---
+
+The second breakthrough came from Mérida. Alejandro called on a secure line while Lena was still parsing Yuki's data, his face filling her tablet screen with the particular expression of a man who had stopped being surprised and started being methodical about his astonishment.
+
+"The crystals respond to coherent light," he said without preamble. "I was running a Raman spectroscopy pass — routine characterization. The laser triggered something. Lena, they are storage media."
+
+He tilted the camera. Behind him, in the darkened field lab, one of the hexagonal crystals sat in a benchtop mount. A low-power laser fed into its upper facet. And above the crystal, hanging in the air like a fever dream, a holographic projection rotated slowly: a human figure, diagrammed in cross-section, with annotations in a script Lena had never seen. Organs labeled. Circulatory system traced in luminous red. Skeletal structure mapped to the last phalanx.
+
+"There are hundreds of data layers," Alejandro said. "Anatomical diagrams. Star charts — I recognized Vega and Altair in one of them, the geometry is consistent with a vantage point roughly twelve parsecs from here. And text. Pages and pages of text in this script."
+
+"Can you read it?"
+
+"No. But I showed a still image to our visitor during this morning's session, before Hadley shut me down." Alejandro's expression tightened. "Sable identified it immediately. They called it Old Ketharan. They said the crystals are Archive matrices. Records from the Meridian. They became — how to say it — emotional. Their skin lit up."
+
+Archive matrices. Sixty-five-million-year-old records, stored in engineered crystals, containing anatomical blueprints for the species those crystals had been designed to create. Lena thought about the word *maintenance* and felt the floor shift beneath a metaphor she hadn't asked for.
+
+"Alejandro. Don't publish. Don't tell anyone else. Encrypt your data and send it to me."
+
+"Hadley's people are already here," he said quietly. "They arrived an hour ago. They are taking the crystals."
+
+---
+
+Hadley found her in the observation cupola at 2100 UTC. She was floating with her knees drawn up, watching the Aethon catch the terminator line — half the ship in blinding white, half in nothing.
+
+"Dr. Sarić." He pulled himself into the module with the deliberate movements of a man uncomfortable in microgravity. "I need to inform you of some changes to your access level."
+
+She waited.
+
+"The genetic analysis you commissioned through Dr. Tanaka has been classified Level 5. The crystal data from the Mérida site has been secured and is now under MERIDIAN jurisdiction. Your geological survey work will continue to be cited as the basis for the initial discovery, but the characterization of your findings as 'unverified' will remain in place until peer review can be conducted through appropriate channels."
+
+"Appropriate channels that don't exist yet."
+
+"That's correct."
+
+"And my access to Sable?"
+
+"Direct contact with the envoy will be limited to designated MERIDIAN representatives. You're a geologist, Dr. Sarić. A good one. But this has moved beyond geological inquiry."
+
+He said it without malice. That was the worst part — he wasn't punishing her. He was filing her. She was a data point that had served its purpose, and now she needed to go back in the drawer where data points lived.
+
+"The crystals are Archive matrices," she said. "They contain biological blueprints. Sable confirmed it."
+
+"Sable confirmed a great many things today. Not all of them can be taken at face value." Hadley adjusted his glasses — the wire frames that he used as a prop, pushing them up his nose when he wanted to signal that a conversation was ending. "You did important work, Dr. Sarić. Let us do ours."
+
+He left. Lena watched the Aethon and thought about Amos, who would have known exactly what to say to a man like Hadley, because Amos had spent fifty years navigating men like Hadley, and she had spent thirty-four years navigating rock strata, which had the decency to hold still while you studied them.
+
+---
+
+The station was quiet after 2300. Skeleton crew on the operations deck, the rest of the astronauts in their sleep pods, the delegation quartered in the temporary modules that had been attached for the occasion. Lena found Kai in the Japanese Experiment Module, floating in front of a laptop he'd tethered to the workstation with bungee cords. His flight jacket was tied around his waist. In a t-shirt, the scar on his right forearm was visible — a raised line from wrist to elbow, old enough to be white.
+
+"I need your help," she said.
+
+He looked up. Didn't ask with what. Just moved aside to make room at the workstation.
+
+She explained about Yuki's data — the genetic comparison, the three-way match, the classification. She had backup files on her personal server. She needed someone with systems access to pull them through the station's filtered connection without triggering the MERIDIAN monitoring flags.
+
+"Hadley will have my credentials if he finds out," Kai said.
+
+"Yes."
+
+He considered this for approximately two seconds. "Right. Give me the server address."
+
+They worked side by side for an hour. Kai navigated the station's network architecture with the unhurried competence of a pilot running preflight checks — every step deliberate, every connection routed through a chain of proxies that he built and dissolved in real time. Lena watched his hands on the keyboard. The scar caught the workstation's blue light.
+
+"How'd you get that?" she asked, then regretted it, because she didn't ask people personal questions as a rule and she wasn't sure why she'd broken the rule now.
+
+"Sailing accident. I was sixteen. Mainsheet cleat failed in a gust and the line took me across the arm." He didn't look up from the screen. "Dad was crewing with me. He got the boat under control while I bled on the cockpit sole. Didn't say a word until we were tied up at the dock. Then he said, 'You should have ducked.'"
+
+Lena almost smiled. "He sounds like my mother."
+
+"Was she a sailor?"
+
+"Immunologist. Croatian. She had a theory that if you acknowledged pain, you gave it permission to stay." Lena pulled up the first data file. "She died four years ago. Pancreatic cancer. I was in Iceland on a field survey."
+
+She said it the way she always said it — factually, without inflection, as though reporting a core sample analysis. *Mineralogy: grief. Crystal structure: avoidance. Hardness: unknown.*
+
+Kai stopped typing. He didn't look at her, but his hands stilled on the keyboard, and the stillness was its own kind of attention.
+
+"Dad died eight months ago," he said. "Stroke. I was in a simulator at Tsukuba. I finished the session before I checked my messages."
+
+He said it the same way she'd said hers. Same flat delivery. Same refusal to let the words carry their actual weight. Lena recognized the technique because she'd invented it independently and assumed she was the only practitioner.
+
+"Is that why you volunteered for this?" she asked.
+
+"It's why I didn't say no." He resumed typing. "Easier to be somewhere that isn't home when home doesn't have the right number of people in it."
+
+The data files loaded. Lena opened the alignment viewer and let the silence sit for a while, because some silences were load-bearing and this one was holding up something neither of them was ready to name.
+
+"I finished the session," Kai said quietly, after a while. "Before I checked my messages. I don't know what that makes me."
+
+"Functional," Lena said.
+
+He looked at her then. Not the flat, professionally neutral look he'd maintained for three days of briefings and orbital maneuvers. Something behind it — a door opened a crack, light spilling through before it swung shut again.
+
+"Yeah," he said. "Functional. That's one word for it."
+
+They finished the data extraction in near-silence. When the last file transferred, Kai unhooked the laptop and handed it to her.
+
+"For what it's worth," he said, "I don't think you're unverified."
+
+Lena took the laptop. Their fingers touched on the casing — a half-second of contact, accidental or not, and neither of them acknowledged it, which was itself a form of acknowledgment.
+
+"Thank you, Kai."
+
+"No worries." The Australian slipped through, and he caught it, and she watched him decide not to correct it. He pushed off from the workstation and drifted toward the hatch. "Get some sleep, Sarić. Tomorrow's going to be worse."
+
+---
+
+She didn't sleep. She floated in her quarters with the laptop tethered to her chest, the screen's glow painting the fabric walls in pale blue, and she ran the alignment.
+
+Three genomes. She'd pulled the modern human reference from NCBI, verified the build number, stripped the alignment to coding regions only because the comparison needed to be clean and defensible. Yuki's keth-alloy sequence loaded next — ancient DNA, fragmentary but deep-coverage, the gaps filled by Yuki's reconstruction algorithm with confidence scores above 0.95 for every call. Then Sable's genome, extracted from the tissue sample, complete and strange — the same genes in the same order, but with variations in the regulatory regions that suggested tens of thousands of years of divergent selection pressure.
+
+She overlaid them.
+
+Three lines on the screen. Three tracks of nucleotide calls running in parallel, color-coded — blue for the reference, amber for the keth-alloy, violet for Sable. They ran together like lanes on a highway. The mismatches, when they appeared, were so sparse they looked like typographical errors in a long manuscript. A single-nucleotide polymorphism here. A short insertion there. Millions of base pairs of identity, then a flicker of difference, then millions more of identity.
+
+The keth-alloy genome was closer to modern humans than Sable's was. By a margin of 0.08 percent — a rounding error in most contexts, but in genomics, a canyon. It meant the template stored in the Meridian sixty-five million years ago was almost exactly what modern humans had become. It meant the engineering had held. It meant Sable's species had diverged further from the original design than the colony they'd planted on a planet and forgotten about.
+
+Lena stared at the three lines until they blurred.
+
+She thought about Sable's smile in the docking vestibule. The warmth of it. The patience. *You found the Meridian.* Spoken the way you'd speak to a child who'd found her way home after being lost in a shopping center — relief and tenderness and the unspoken assumption that the child had not been capable of finding herself, that the finding was a happy accident rather than an act of will.
+
+She thought about Hadley pushing his glasses up his nose. *You're a geologist.*
+
+She thought about her mother, who had spent thirty years studying immune systems — the body's ability to distinguish self from non-self — and who had said once, during a late-night phone call that Lena replayed in memory more often than she'd admit: *The hardest problem in immunology is the same as the hardest problem in life. Knowing what belongs to you and what doesn't.*
+
+*Jebem ti.* The Croatian scraped out of her quietly, aimed at no one.
+
+Then, aloud, to the three nearly identical lines on the screen, to the station humming around her, to the vast manufactured thing hanging in the dark outside:
+
+"We're the colony."
+
+The laptop's glow held steady. The lines didn't move. Sixty-five million years of silence, and the answer had been in the blueprint all along — not buried in the rock, not coded in the alloy, but written in every cell of every human being who had ever lived and never thought to check the margins for a maker's mark.
+
+Lena closed the laptop. The blue light vanished. In the darkness of the crew module, the station breathed its mechanical breath, and somewhere beyond the hull, the Aethon kept its patient, ancient vigil, and the distance between *colony* and *civilization* — which she had always assumed was measured in technology and time — turned out to be nothing more than a difference of 0.08 percent and sixty-five million years of not knowing who had planted you.
+
+---
+
+Chapter Four: What the Meridian Remembers
+
+"What we propose," Sable said, "is not an agreement between strangers."
+
+They stood at the head of the conference table in Houston's secure briefing room, hands folded at their waist, each syllable measured and unhurried. The overhead lights caught the faint luminescence beneath their skin — a slow amber pulse that Lena had learned to read over the past forty-eight hours. Steady now. Calm. Rehearsed.
+
+"It is a restoration," Sable continued. "A mending of what should never have been broken."
+
+Lena sat three chairs from the end, between Kai and Dr. Tanaka. Her tablet displayed the document Sable's delegation had transmitted that morning: forty-one pages, formatted in English and Old Ketharan, titled *Protocol for Colonial Reunification — Earth (Designation: Seed Colony 7)*. She had read it twice before the session. The language was immaculate. The implications were worse.
+
+Sable touched the display wall behind them, and a schematic appeared — a branching diagram that looked, at first glance, like a family tree. At the top, a single node labeled *Continuance*. Below it, seven branches, each terminating in a planetary icon. Six bore green indicators. The seventh — Earth — was marked in amber.
+
+"The Continuance has successfully reunified with six prior seed colonies," Sable said. "In each case, the process began with three foundational exchanges. First: a complete transfer of medical and material sciences. We estimate this alone would eliminate approximately eighty percent of your disease burden within a generation." They paused, letting the number settle. "Second: cultural restoration. Access to the full Ketharan archive — your history before the Meridian, before the severing. Languages, art, astronomical records spanning eleven thousand years."
+
+Hadley leaned forward. He had positioned himself directly across from Sable, as though this were a negotiation between two principals. "And the third?"
+
+"Integration support." Sable's violet-black irises moved across the room, resting on each face in turn. "Embedded counselors within your educational, scientific, and governing institutions. Not to direct — to translate. The distance between our societies is considerable. Misunderstanding is inevitable without facilitation."
+
+"How many counselors?" Kai asked. His voice was neutral, the question precise.
+
+"Initially, approximately twelve hundred. Scaled to population density and institutional complexity."
+
+Twelve hundred. Lena wrote the number on her tablet and circled it. She thought of the word *embedded* — how it sat in the sentence like a smooth stone you could swallow before realizing it was too large to pass.
+
+"And the genetic census," Dr. Tanaka said. She had not looked up from her own notes. "Page twenty-seven describes comprehensive genomic mapping of the global population. What is the stated purpose?"
+
+"To assess colonial drift," Sable said. "Ten thousand years of isolated evolution will have produced adaptations, vulnerabilities, and divergences we cannot predict. A census allows us to tailor medical interventions precisely. It would be irresponsible to offer treatments calibrated for Continuance physiology without understanding how your biology has shifted."
+
+It was reasonable. Every piece of it was reasonable. Lena could feel the reasonableness of it pressing against the room like a change in air pressure, and she watched the faces around the table respond to it — the slow nods, the furrowed brows of people working through logistics rather than objections. Hadley's expression was the most composed she had ever seen it. He looked like a man who had already decided something.
+
+"The committee will need time to review the full document," Hadley said. "But I want to acknowledge, on behalf of the preliminary contact team, that this is a generous framework. Remarkably generous."
+
+Sable inclined their head. The amber pulse beneath their jaw brightened briefly — pleasure, or its equivalent. "You are our people," they said. "Generosity is not the correct word. One does not give generously to one's own family. One simply gives."
+
+Lena's pen stopped moving.
+
+*Family.* The word landed with the particular weight of something true and something dangerous occupying the same space. She looked at the branching diagram on the wall — six green nodes, six colonies that had accepted. She wanted to ask what those colonies looked like now. Whether they still governed themselves. Whether *reunification* had a final stage the document did not describe.
+
+But the session was already moving to scheduling, and Hadley was already talking about subcommittees.
+
+---
+
+She found Achebe in the hallway afterward, leaning against the wall near the elevator bank with one hand pressed flat to his chest. His satchel hung from his opposite shoulder, pulling his frame into an asymmetry that made him look thinner than he was. The hallway's fluorescent light was unkind to him. She could see the web of capillaries in his temples, the gray undertone to his skin that had not been there a week ago.
+
+"Professor."
+
+"I am simply catching my breath," he said, and smiled, and the smile did not reach his eyes. "The air-conditioning in that room is punitive."
+
+"When did the chest pain start?"
+
+He looked at her for a long moment. Then he exhaled carefully, as though testing what his lungs would permit. "Tuesday."
+
+"It's Thursday."
+
+"Yes. I am aware of the calendar, Dr. Vasquez." But he said it gently, the way he said everything — as though even mild reproach deserved a soft landing. "It is likely nothing. Stress and poor coffee and the fundamental indignity of being seventy-one."
+
+"I'm calling medical."
+
+"You are." He did not phrase it as a question. He closed his eyes briefly and nodded. "Then I suppose I will sit down."
+
+She helped him to the bench beside the elevator, and his weight against her arm was so slight it frightened her. She had always thought of Achebe as dense — a compact body packed with too much knowledge to be physically light. But he settled onto the bench like something made of paper, and she kept her hand on his shoulder as she made the call.
+
+---
+
+The cardiac unit at Houston Methodist admitted him within the hour. Not a heart attack — the attending used the phrase *acute anginal episode* and spoke about stress tests and enzyme panels and observation. Achebe endured the intake process with the tolerant exhaustion of a man who had been inside too many institutions to find any of them novel. When they had finished wiring him to monitors and adjusting the incline of his bed, he asked Lena to retrieve his satchel from the chair.
+
+She set it on his lap. He opened it with his right hand — the left was tethered to an IV — and removed his notebook, then Grace's reading glasses in their leather case, then the thermos.
+
+"The tea will be cold by now," he said. "But cold tea is still tea, which puts it ahead of most things in this world."
+
+Lena sat in the vinyl chair beside his bed. Through the window, Houston's skyline was a row of dark fillings against the last copper light of sunset. The monitor beeped in steady pairs — two tones, a pause, two tones. She made herself listen to it until the rhythm stopped sounding fragile and started sounding reliable.
+
+"The protocol document," Achebe said. "You have read it."
+
+"Twice."
+
+"And what did you hear?"
+
+She considered the question. Not *what did you think* — what did you *hear*. Achebe had always listened to texts the way other people listened to music, attending to tone and rhythm as much as content.
+
+"A parent explaining the rules of the house to a child who didn't know she'd left home," Lena said.
+
+Achebe nodded slowly. The monitor beeped. He opened his notebook and turned to a page dense with his small, architectural handwriting — annotations in three colors of ink, arrows linking entries across margins.
+
+"I have been compiling something," he said. "Since before Mérida. Since before you found your alloy in the drill cores." He turned the notebook so she could see it. The page was titled, in careful block letters: *CONVERGENT MYTHOLOGICAL EVIDENCE — KETHARAN CONTACT HYPOTHESIS.*
+
+"The flood narrative," he said, tracing a line of text with his fingertip. "Gilgamesh, Genesis, Matsya, Deucalion, the Hopi Fourth World. Every credible mythology on this planet contains a catastrophic inundation followed by a restart. We have always attributed this to regional flooding, shared trauma, cultural diffusion. But the Chicxulub impact would have generated tsunamis reaching three hundred meters in coastal zones. The memory is not metaphorical. It is reportage, degraded by ten millennia of oral transmission."
+
+He turned the page. A sketch of a stepped tower, annotated with measurements.
+
+"The Tower of Babel. Humanity united, speaking one language, building a structure that reached heaven. Then scattered, divided, languages confused. Read it again with what we now know. The Meridian was a single installation. The inhabitants spoke Old Ketharan. After the impact, the survivors dispersed across continents. The tower is the Meridian. The scattering is the colonial collapse. Babel is not a punishment myth. It is a history of infrastructure failure."
+
+Another page. A drawing of a T-shaped pillar, beside it a photograph clipped from a journal — Göbekli Tepe, the eleven-thousand-year-old stone circles in Turkey.
+
+"The T-shaped pillars," Achebe said. "Archaeologists have never adequately explained their form. They are not structural — they do not bear load in any configuration that justifies their shape. But if you examine the hibernation pod schematics in Sable's archive transfer —" He paused, coughed thinly, and pressed his hand to his sternum until it passed. "The cross-section is identical. The pillars are stylized pods. The people who carved them were remembering the technology that brought their ancestors to this planet. They did not have the vocabulary to describe cryogenic suspension, so they built its shape in stone and called it sacred."
+
+Lena stared at the notebook. The annotations blurred and resolved. She could feel the argument's architecture — how each piece interlocked, how the weight distributed evenly across every load-bearing point. It was, she realized, the work of years. Not weeks. Years of quiet accumulation, filed under mythology and kept at arm's length from his professional reputation, because no respectable scholar would have published it before there was proof.
+
+"The story has been trying to tell itself for ten thousand years," Achebe said. His voice had dropped to the register he used when he was very tired or very certain. "We simply were not ready to hear it."
+
+The monitor beeped. The copper light outside had thinned to a violet band along the horizon.
+
+"I need to tell you something," he said, "and I need you to listen without your particular habit of deflecting with competence." He waited until she met his eyes. "I am not going to die from this. The doctors are very tedious and very thorough, and I intend to outlive them all. But I am also not going to be in that room tomorrow, or perhaps the day after, and this project will not pause for my arteries."
+
+"Professor —"
+
+"Lena." He said her name the way he said the names of poets — as though it contained a meter he respected. "You found the alloy. You named it. You were the first person in ten thousand years to touch the Meridian's remains and understand what they were. This is your work. It was always your work. I was merely the old man who recognized it before you did."
+
+He reached into the satchel again and withdrew a USB drive — small, nondescript, taped to an index card on which he had written, in his precise hand: *ALL FILES — CONVERGENT EVIDENCE — VASQUEZ.*
+
+"My notes, my sources, my correspondences with three colleagues who have been quietly gathering parallel evidence. Everything I have not yet published." He held it out. "Finish this. Not for me. Not for the committee. For the record."
+
+She took the drive. It was warm from the satchel's interior, from proximity to Grace's glasses and the cold tea and the notebook that contained a decade of careful, patient, solitary work.
+
+"Now, then," Achebe said, and closed his eyes. "I believe visiting hours end at eight, and you have reading to do."
+
+She stayed until the nurse came. Achebe was asleep by then, his breathing slow and even, the notebook open on his chest. She closed it carefully, tucked it into the satchel, and left the drive in her coat pocket, where she could feel its weight against her hip as she walked down the corridor.
+
+---
+
+Kai found her in the secure workroom at eleven-fifteen that night.
+
+She heard him before she saw him — the particular cadence of his walk, slightly faster than regulation pace, the faint compression of rubber soles on the sealed floor. When she looked up from her laptop, he was standing in the doorway with a tablet in his hand and an expression she had never seen him wear. It was the look of someone who had broken something on purpose and was still deciding whether it was the right thing to break.
+
+"You should see this," he said.
+
+He set the tablet on the desk beside her laptop. On the screen was a document — formatted as a memorandum of understanding, bearing the MERIDIAN security header and two signature lines at the bottom. The first signature was Sable's, rendered in a script that flowed like a sine wave. The second was Hadley's.
+
+Lena read it. She read it again. The workroom's ventilation hummed at a frequency she had never noticed before, a low mechanical drone that seemed to press against her temples.
+
+The memorandum outlined preliminary reintegration terms. A genetic census to begin within ninety days, administered jointly by Continuance personnel and a terrestrial liaison office. Institutional advisory placements in fourteen countries, coordinated through a single point of contact. Technology transfer contingent on census completion. And at the bottom, above Hadley's signature: *Designated Terrestrial Liaison: Director Marcus Hadley, MERIDIAN Program.*
+
+No committee approval. No governmental consultation. No mention of the United Nations framework that three separate delegations had spent the past week drafting.
+
+"Where did you find this?" Lena asked.
+
+"Communications archive. He used the secure channel — the one reserved for direct envoy contact. The timestamp is two-fourteen this afternoon." Kai paused. "During the committee session. He must have transmitted it from his phone while Sable was still presenting."
+
+While Sable was still presenting. While the room was listening to the reunification protocol and writing careful notes and feeling the slow seduction of reasonableness, Hadley had already signed.
+
+"He's not wrong about everything," Kai said. He said it quietly, the way he said difficult things — without flinching, but without force. "Managed contact makes sense. A hundred and ninety-three sovereign nations trying to negotiate independently with a post-human civilization — that's chaos. Someone has to centralize it."
+
+"Someone. Not him. Not alone. Not in secret."
+
+"No." Kai leaned against the door frame. "Not like this."
+
+Lena looked at the memorandum again. She thought about Sable's branching diagram — six green nodes, six colonies that had accepted reunification. She thought about the word *embedded*, and the number twelve hundred, and the phrase *colonial drift* deployed with clinical precision to describe ten thousand years of human civilization. She thought about Achebe's notebook, the T-shaped pillars, the flood that was not a metaphor. The story trying to tell itself.
+
+And she thought about Hadley, sitting in that conference room with his composed expression and his decided mind, watching the committee deliberate over a document he had already rendered irrelevant. It was not malice. She could see the logic as clearly as she could see the betrayal — the cold, structural argument that Earth could not afford fragmentation, that someone with clearance and authority had to act before the window closed, that history would vindicate efficiency over process. He believed it. That was what made it unforgivable.
+
+She opened a new window on her laptop and placed it beside the memorandum. On the left screen: her evidence report — the Chicxulub data, the keth-alloy analysis, Tanaka's genetic findings, and now Achebe's convergent mythology, the USB drive's contents already integrated. Everything the committee and the public did not yet have. On the right: Hadley's memorandum, with its two signatures and its ninety-day clock already ticking.
+
+"If you send this," Kai said from the doorway, "there's no coming back."
+
+His voice was steady. His hands were at his sides. He had carried this document from the communications archive to her workroom, past two security checkpoints and his own chain of command, and set it on her desk. She understood what that had cost him — not the career risk, which he would have calculated and accepted in the same motion, but the admission it contained. That he trusted her judgment more than the system he had served his entire adult life. That somewhere between the ISS briefings and the late corridor conversations and the almost-moments they kept failing to complete, he had decided she was the person who should have this.
+
+She looked at the two screens. The ventilation droned. The clock on the wall read eleven twenty-three, and the second hand moved with the steady indifference of something that would keep going regardless of what she did next.
+
+"The problem is —" she started.
+
+She stopped.
+
+The problem. She had been about to name it — to frame it, contain it, reduce it to a variable she could solve for. That was what she did. That was what she had always done, from the drill cores in Chicxulub to the alloy under her electron microscope to the glyph she had translated in a hotel room in Mérida. Find the problem. Name it. Solve it.
+
+But this was not a problem with a solution. This was a door. On one side, silence and the slow erosion of negotiation and Hadley's memorandum ticking toward its ninety-day horizon. On the other side, her report in the hands of every delegation, every news outlet, every person on the planet who had a right to know what they were and where they came from. Both doors closed something behind you. Neither let you return.
+
+"There's no coming back either way," she said.
+
+Kai held her gaze for a moment. Then he nodded, once, and stayed where he was — not leaving, not entering, holding the threshold as though he understood that the space between was where she needed him to be.
+
+Lena turned back to her screens. She placed her fingers on the keyboard. The cursor blinked in the address field of an open message, patient and empty, waiting for her to tell it where to go.
+
+---
+
+Chapter Five: The Frequency of Forgetting
+
+The cursor blinked at the top of an empty document. Lena's fingers hovered over the keyboard, and for three full seconds she let the blankness hold — the last moment before she made this irreversible.
+
+She typed the title: *On the Ketharan Origin of Homo Sapiens.*
+
+Then the author line: *Dr. Lena Sarić, Department of Geological Sciences, University of Texas at Austin. With contributions from Dr. Yuki Tanaka, JAXA Astrobiology Division; Dr. Alejandro Reyes, Universidad Nacional Autónoma de México; and Professor Amos Achebe, Cambridge University (emeritus).*
+
+She had Achebe's USB drive slotted into the secured laptop. She had Yuki's genetic analysis on a partitioned drive Kai had cloned before Hadley's people could wipe the ISS servers. She had Alejandro's holographic projections, captured frame by frame into image files during the forty-seven minutes they'd been active before confiscation. She had Adrienne Park's original telemetry data — the Aethon's deceleration curve, its trajectory from the Lyra constellation, its entry into a stable orbit that no human spacecraft could have achieved.
+
+And she had Hadley's memorandum. The one he'd signed alone, in a windowless room, granting himself authority no one had given him.
+
+Lena began to write.
+
+The geological evidence came first because rock didn't lie and couldn't be accused of agenda. Chicxulub drill core samples at 1,180 meters. Keth-alloy signature: a crystalline lattice that replicated at the molecular level in patterns no terrestrial process could produce. She included the spectrographic comparisons — natural iridium deposits beside the manufactured alloy, the differences so stark they required no advanced degree to read. The deep-scan data from Mérida followed: a structure 4.2 kilometers across, buried beneath sixty-six million years of sediment, with geometry that matched no known geological formation. Hexagonal. Deliberate. Built.
+
+Then genetics. Yuki's analysis was devastating in its simplicity. Keth-alloy contained intact nucleotide sequences — DNA suspended in crystalline matrices, readable after sixty-six million years because the alloy itself functioned as a preservation medium. The sequences were 99.97 percent identical to modern Homo sapiens. Not similar. Not analogous. Identical, minus the expected drift of deep time. Sable's own genome, sampled during the ISS meeting, showed 99.89 percent concordance — a wider gap than the alloy samples, suggesting that the Aethon's crew had diverged further from the common ancestor than Earth's population had.
+
+Lena paused at the implication and wrote it plainly: *The Ketharan parent civilization seeded Earth with a genetically compatible population. We are not the descendants of that population. We are that population, sixty-six million years removed.*
+
+The archaeological layer came next. Alejandro's crystals — the *piedras del cielo* that generations of Maya scholars had catalogued as ceremonial objects — were Archive matrices. When activated by proximity to keth-alloy, they projected anatomical diagrams annotated in Old Ketharan script. Lena included Alejandro's translation notes, his cross-references to Sumerian cuneiform, his careful documentation of symbols that appeared across civilizations that supposedly never contacted one another. The same glyph for "bone" in Old Ketharan appeared on T-pillars at Göbekli Tepe, carved eleven thousand years ago by people who had no written language.
+
+She reached for Achebe's notebook next. His handwriting filled the scanned pages — dense, slanting, annotated in three colors of ink. She'd photographed every page in the hospital room while he slept, the oxygen monitor beeping its steady count beside him. His mythology convergences were meticulous. Flood narratives across 217 cultures: not metaphor for seasonal rivers, but impact memory — the tsunamis that followed the Chicxulub event, carried forward through oral tradition for millennia until they calcified into scripture. The Tower of Babel: not divine punishment for human ambition, but a fracture narrative — the moment the colony lost its coherence, its shared language, its knowledge of what it was. Göbekli Tepe's T-pillars: the dimensions matched hibernation-pod outlines from the keth-alloy structure's deep-scan cross-sections. Achebe had overlaid the measurements. They were identical to within two centimeters.
+
+*The story has been trying to tell itself for ten thousand years,* he'd said. Lena wove his evidence into the report and felt the weight of every page.
+
+Finally, the signal evidence. The Aethon's arrival. Sable's words: *We received your call. We are sorry it took so long.* The reunification protocol — technology transfers, embedded advisors, a genetic census to catalogue the colony's drift. Lena described it without editorializing. The data would carry its own argument. She attached the full protocol document that Sable had presented to the committee, and beside it, Hadley's memorandum: his unilateral agreement to the census, his appointment of himself as sole liaison, his ninety-day timeline. No committee vote. No congressional notification. No consultation with any government on Earth.
+
+She finished the abstract at 4:47 a.m. The document ran to sixty-three pages with appendices. She read it through once, corrected two citations, and saved it.
+
+Kai was asleep in the chair by the door, his flight jacket draped over him like a blanket. He'd been there since midnight, not guarding her exactly — just present, the way he'd been present on the observation deck when neither of them could find the right words. His boots were off. One sock had a hole in the toe.
+
+Lena closed the laptop and pressed her palms flat against the desk. The surface was cold. She counted her breaths until the tremor in her hands subsided.
+
+---
+
+The knock came at 6:15 a.m. — not a knock, exactly. Three sharp strikes and the door opened before she could respond.
+
+Hadley entered with two security officers in plain clothes. He looked like he hadn't slept either, but his shirt was pressed and his credentials hung straight. He was carrying a tablet.
+
+"Dr. Sarić." He didn't look at Kai, who was already on his feet. "Your MERIDIAN clearance has been revoked effective immediately. You're confined to this quarters block until further notice. Your devices will be collected and held under chain of custody."
+
+"On what authority?"
+
+"Mine." He set the tablet on her desk. The screen showed an executive order — his signature, the NSC seal. "I've also reassigned Dr. Park to Vandenberg and issued a preservation order on Dr. Tanaka's laboratory aboard the station. Nothing leaves that lab without my written approval."
+
+Lena looked at the order. It was thorough. Hadley had been busy overnight too.
+
+"You're making a mistake," she said.
+
+"I'm preventing one." He turned to face her fully, and she saw something in his expression that wasn't malice. It was conviction. "Dr. Sarić, I have been managing classified information for twenty-two years. I have watched three separate administrations fumble disclosures that affected thousands of people. This affects eight billion. You are a geologist. You are not equipped to make this decision, and neither am I, which is why I am building a framework to—"
+
+"A framework you built alone. In secret. With the entity whose terms you accepted without negotiation."
+
+Hadley's jaw tightened. "The memorandum is a starting point. It buys us time."
+
+"It buys you control."
+
+"Dr. Sarić." His voice dropped. "If this data reaches the public without context, without preparation, without a managed disclosure strategy, people will panic. Governments will fracture. Markets will collapse. I have seen what happens when classified material hits the open air without a framework. People die. That is not a rhetorical point."
+
+He believed it. That was the thing Lena could see clearly: Hadley was not corrupt. He was afraid, and his fear had a logic to it that she couldn't entirely dismiss. Managed disclosure had arguments in its favor. Every one of those arguments assumed that the managers could be trusted, that the framework would be built in good faith, that the timeline wouldn't stretch from ninety days to nine hundred while the census quietly became surveillance and the technology transfers came with conditions no one had voted on.
+
+"I understand your position," Lena said.
+
+"Then you'll cooperate."
+
+"I said I understand it. I didn't say I share it."
+
+Hadley nodded to the security officers. "Collect her devices. All of them."
+
+They took the laptop, the external drives, her phone. They did not find Achebe's USB drive, because it was in Kai's flight jacket pocket, and they did not search Kai. He was JAXA. He was outside Hadley's direct authority, and Hadley either didn't think of it or decided the Japanese pilot wasn't worth the diplomatic incident.
+
+When they left, Kai pulled the USB drive from his jacket and held it up between two fingers.
+
+"I made three copies last night," he said. "This is the fourth."
+
+---
+
+They had nine hours.
+
+Lena had built the distribution list over the previous two days, working from Achebe's contact network and her own. Forty-seven addresses: university press offices at MIT, Cambridge, Tsinghua, the Sorbonne, São Paulo, Cape Town, Tokyo. Wire services — Reuters, AP, Agence France-Presse, Xinhua. Government science ministries in fourteen countries. The addresses were stored in Kai's personal email drafts — not on any MERIDIAN system, not on any device Hadley's people had collected.
+
+The problem was transmission. Hadley had locked her out of every secure channel on the Johnson campus. Her quarters had no external network access. The hallway outside had a security officer stationed at each end.
+
+Kai made two phone calls from the JAXA liaison office, which Hadley's order did not cover. The first was to Adrienne Park, who was at that moment sitting in the Vandenberg reassignment office filling out transfer paperwork. "Don't sign anything yet," he told her. "Check your personal email in nine hours."
+
+The second call was to Yuki Tanaka on the ISS. The preservation order on her lab had been transmitted but not yet enforced — the station commander was still reviewing the legal basis for an American security directive applied to a Japanese national in an international facility. Yuki had perhaps six hours before the order took practical effect.
+
+"I need you to compress your full dataset and upload it to the JAXA cloud," Kai said. "Personal credentials. Not the shared server."
+
+A pause. Then Yuki's voice, thin through the satellite link: "Kai, that's my career."
+
+"Yeah."
+
+Another pause. "Sending now."
+
+Kai relayed the access credentials to Lena on a folded piece of paper. She memorized them and he burned the paper in the quarters' bathroom sink, running the tap over the ash.
+
+At 2:00 p.m., Kai walked out of the quarters block carrying nothing. The security officers logged his departure and did not follow him. He crossed the Johnson campus to the visitor center, bought a coffee from the lobby kiosk, sat down at a public terminal, and logged into his personal email.
+
+He downloaded Lena's report from his draft folder — she'd composed it there the previous night while writing the version on the secured laptop, a parallel document assembled in stolen minutes. He attached Yuki's genetic data from the JAXA cloud. He attached the holographic frames, the telemetry data, the memorandum.
+
+He opened a new message and entered forty-seven addresses.
+
+In the subject line, he typed: *Embargoed for verification — not for immediate publication.* Then he deleted that and typed what Lena had told him to type: *For immediate release.*
+
+The cover letter was already written. Achebe had dictated it from his hospital bed that morning, his voice hoarse, his oxygen saturation at 94 percent, a nurse hovering at the edge of the call's frame. It was four paragraphs long. It cited his credentials — the Nobel, the Royal Society fellowship, forty years of published work. It stated plainly that he had reviewed the enclosed evidence and staked his professional reputation on its validity. It concluded: *The data speaks for itself, but data without context is noise. Dr. Sarić's report provides the context. I commend it to your scrutiny and to the scrutiny of every qualified scientist on Earth. The time for managed silence has passed.*
+
+Kai hit send.
+
+He finished his coffee. He walked back to the quarters block, nodded to the security officers, and sat down in the chair by Lena's door.
+
+"Done," he said.
+
+Lena closed her eyes. The tremor in her hands was back. She let it stay.
+
+---
+
+The world found out in stages.
+
+Reuters moved the story first — a brief, cautious bulletin: *Nobel laureate endorses claim of extraterrestrial human origin.* Within twenty minutes, three universities had posted Lena's full report on their institutional servers. Within an hour, the genetic data was being independently verified at labs in Geneva, Seoul, and Bangalore. Within two hours, Hadley's memorandum was on the front page of every major news site on the planet, and the Secretary-General of the United Nations had called an emergency session.
+
+Hadley appeared on Lena's quarters block at 3:47 p.m. with four security officers and a expression she might have called fury if it hadn't been so tightly compressed.
+
+"You understand," he said, "that what you've done constitutes—"
+
+"A public service," Kai said from his chair.
+
+Hadley looked at him for a long time. Then he turned and left. The security officers followed. An hour later, the confinement order was rescinded — not by Hadley, but by the White House, which had larger concerns than one geologist in a Johnson Space Center dormitory.
+
+---
+
+Lena watched the Aethon's response on a borrowed tablet, streaming through a JAXA relay that Kai had patched into the quarters' display.
+
+The holographic feed showed the Aethon's bridge — a curved space filled with amber light, consoles that grew from the walls like coral formations, and twelve Ketharan crew members arranged in a loose semicircle. Sable stood at the center, their bioluminescent skin cycling through shades Lena had never seen before: deep gold to pale copper to something that bordered on white. Agitation, maybe. Or recalibration.
+
+They were arguing.
+
+Lena couldn't hear the words — the feed was visual only, intercepted from a transmission the Aethon had begun broadcasting openly once the news broke — but she could read the body language. Three crew members stood close to Sable, gestures tight and controlled: the Caretakers, Lena guessed, the faction that still saw Earth as a lost colony in need of guidance. Five others had moved to the far side of the semicircle, their postures open, hands spread — the Scientists, perhaps, already recalculating their assumptions. And four stood apart from both groups, utterly still, their expressions unreadable across the holographic grain.
+
+Sable raised one hand — six fingers spread wide, the extra joints bending in ways that made Lena's own hands ache in sympathy — and the argument stopped.
+
+They turned to face the camera. Whether they knew Earth was watching or simply addressed the moment as though it mattered, Lena couldn't tell. Sable's violet-black irises were steady. Their skin settled to a single tone: deep amber, the color Lena had first seen on the ISS. The color, she now realized, that Sable wore when they were being honest.
+
+They spoke a single sentence. The visual feed carried no audio, but Lena had spent enough time with Sable to read the shape of the words on their lips.
+
+*We did not expect this.*
+
+---
+
+The United Nations General Assembly Hall seated 1,800 people, and on the morning Lena Sarić walked to the green marble podium, every seat was filled.
+
+She wore the same blazer she'd worn to the Chicxulub site — dark blue, slightly creased at the elbows, a coffee stain on the inside cuff that she'd stopped trying to remove. Her hair was pulled back. She carried no notes. The report was sixty-three pages long, and she knew every line of it the way she knew drill-core stratigraphy: by the weight of the layers.
+
+The hall was quiet. Not respectfully quiet — held-breath quiet, the silence of people who understood that the next twenty minutes would restructure the frame through which they saw their own species.
+
+"My name is Lena Sarić," she said. "I am a geologist. Eleven days ago, I confirmed the presence of a manufactured alloy in drill-core samples taken from the Chicxulub crater in the Yucatán Peninsula. That alloy — which we have designated keth-alloy, from the Yucatec Maya word K'eth, meaning star-bone — is sixty-six million years old. It was not formed by any natural process known to material science. It was built."
+
+She let the word settle.
+
+"Beneath the crater, at a depth of 4.2 kilometers, deep-scan imaging has revealed a manufactured structure. Hexagonal geometry. Intact internal compartmentation consistent with habitation modules and what we believe to be cryogenic suspension chambers. The structure predates every known civilization on this planet by approximately sixty-five point nine million years."
+
+She touched the console beside the podium. The General Assembly's holographic display lit with Yuki's genetic data — the comparison matrices, the concordance percentages, the phylogenetic trees that converged on a single conclusion.
+
+"Dr. Yuki Tanaka of JAXA's Astrobiology Division has confirmed that nucleotide sequences preserved within the keth-alloy are 99.97 percent identical to modern human DNA. The crew of the vessel currently in Earth orbit — the Aethon — share 99.89 percent concordance with us. We are the same species. We did not evolve from them. We did not descend from them in any linear sense. We are a branch of the same tree, separated by a catastrophe sixty-six million years ago and reunited eleven days ago by a signal we did not know we sent."
+
+She paused. The hall was so quiet she could hear the ventilation system cycling.
+
+"I want to be precise about what this means, because precision matters and because the temptation to be imprecise — to reach for metaphor before we have exhausted fact — is considerable."
+
+She advanced the display. Achebe's mythology convergences appeared: the flood narratives mapped across continents, the Tower of Babel linguistic analysis, the Göbekli Tepe measurements overlaid on the deep-scan cross-sections.
+
+"It means that the impact event we associate with the extinction of the dinosaurs was not simply a natural catastrophe. It was the event that stranded a Ketharan colony on this planet. The colonists survived. Over millions of years, through genetic drift, environmental adaptation, and the total loss of their technological infrastructure, they became us. Their history became our mythology. Their crisis became our creation stories. Professor Amos Achebe of Cambridge University has spent forty years documenting the convergence of global mythological narratives around a single set of events — an impact, a flood, a scattering, a forgetting. He was right. They are not myths. They are memories."
+
+She looked out at the delegates. Fourteen hundred faces. She found the ones she knew: Alejandro in the third row, his hands clasped in his lap. Adrienne Park near the back, in civilian clothes — Hadley's reassignment order had been overturned that morning. Kai along the side aisle, standing because he'd given his seat to someone who needed it, leaning against the wall with his arms folded and his flight jacket over one shoulder.
+
+In the gallery above, Hadley sat alone. No one was looking at him. No one had looked at him since he entered. He watched Lena with an expression that might have been anger or resignation or simply the face of a man watching the structure he'd built prove inadequate to the moment. Lena registered his presence and returned her attention to the assembly.
+
+"The Aethon's crew has offered what they call a reunification protocol," she continued. "It includes technology transfers, embedded advisory personnel, and a comprehensive genetic census of Earth's population. I have read this protocol carefully. Its authors are not hostile. Their intentions, as best I can determine, are sincere. They have traveled an extraordinary distance, over an extraordinary span of time, to find what they believed was a lost colony in need of recovery."
+
+She let the word *recovery* hang for a moment.
+
+"But I must be direct with this body, and through this body with every person listening. The protocol is predicated on a relationship that does not exist. It assumes a parent civilization and a child colony. It assumes that sixty-six million years of independent development constitute a deviation to be corrected — a drift to be reversed, a loss to be restored. And I am here to tell you, on the basis of everything I have seen in the geological record, in the genetic data, in the archaeological evidence, and in the mythological memory of every culture on this planet, that this assumption is wrong."
+
+Her voice was steady. She was aware of her heartbeat but it did not reach her words.
+
+"We were not rescued. No one came for us. For sixty-six million years, we were alone on this planet, and we did what life does when it is left to its own devices: we adapted. We forgot what we were, and in forgetting, we became something the Ketharan parent civilization did not anticipate and cannot easily categorize. We built languages, mathematics, music, law, art, cruelty, mercy, and five hundred ways to prepare rice. We went to war over imaginary lines and then sat down and drew new ones. We developed technology sufficient to send a signal into deep space without knowing we were doing it, and when the response arrived, our first instinct was not to submit. It was to argue."
+
+A sound moved through the hall — not laughter, but something close to it. Recognition.
+
+"We are Ketharan. The genetic evidence is unambiguous, and I do not ask this body to deny it. Our origin is not on this planet. But our history is. Every year of those sixty-six million years belongs to us. Every adaptation, every failure, every act of stubbornness and invention and grief — that is not drift. That is not deviation. That is what it looks like when a species makes a home."
+
+She gripped the edges of the podium. The green marble was cool under her palms.
+
+"We are not a colony that failed. We are a colony that succeeded — so completely that we forgot we were one."
+
+The silence after that sentence lasted four seconds. Then the hall broke open.
+
+Lena stood at the podium while the sound washed over her — not applause exactly, or not only applause, but the noise a room makes when eighteen hundred people exhale at the same time. She waited for it to subside. It didn't fully subside, but it settled enough.
+
+"I am not a diplomat," she said. "I am a geologist. I read rocks. But I can read this room, and I can read the data, and both tell me the same thing. We should welcome the Aethon. We should engage with its crew as what they are — relatives, not parents. We should study the Ketharan Archive with every tool we have, because it is our archive, our history, and we have a right to it. And we should decline, respectfully and without equivocation, any framework that positions eight billion people as subjects of recovery."
+
+She stepped back from the podium. "Thank you."
+
+The noise came again, and Lena walked off the stage on legs she couldn't entirely feel. The side corridor was dim after the lights of the assembly hall. She leaned against the wall and pressed her hands flat against the concrete — cold, rough, real.
+
+Her phone buzzed. A text from a Houston area code — the hospital.
+
+*Watched the whole thing. You didn't stumble once. Now stop hiding behind the work. — A.*
+
+She read it twice. Her eyes burned, and she let them.
+
+Through the corridor's glass partition, she could see the holographic relay that the General Assembly had set up to maintain open communication with the Aethon. Sable's face filled the frame — dark amber skin, violet-black irises, six-fingered hands resting at their sides. They were looking directly into the camera, and the expression on their face was one Lena had never seen on them before.
+
+Not the careful formality of the ISS meeting. Not the diplomatic composure of the reunification presentation. Not the controlled agitation she'd glimpsed on the intercepted bridge feed.
+
+Sable's expression was what happened when someone who had traveled across the stars to recover lost children realized they were standing in front of equals.
+
+Lena met their gaze through the glass and the holographic link and the distance between a corridor in Manhattan and a vessel in orbit.
+
+Then she pushed off the wall and walked toward the assembly floor, where the arguments were already beginning — fierce, proud, unmanageable, human — about what to do next.
+
+---
+
+Chapter Six: Echoes, Returning
+
+Three days after Lena Sarić told the world where it came from, the cafeteria on the fourth floor of the United Nations Secretariat Building ran out of coffee.
+
+She learned this from a passing aide who said it with the shell-shocked reverence of someone reporting a natural disaster. Lena thanked him and kept walking. The corridors still hummed with that particular energy she'd come to recognize — not panic, not celebration, but the friction of seven billion people trying to think at the same time. Delegations clustered in doorways. Phones rang in rooms where phones hadn't rung in years. Someone had taped a printout of the Meridian's spectral analysis to a water fountain with a hand-drawn arrow pointing to it and the words *YOU ARE HERE*.
+
+She'd slept nine hours the night before. The first unbroken sleep since the drill cores.
+
+The General Assembly hall was configured differently today. No central podium, no spotlights narrowing the world to a single voice. Instead, a broad curved table faced the delegates — six chairs for the newly formed liaison panel, a microphone at each seat, and at the far end, a holo-projector the size of a refrigerator that two French technicians were still calibrating. The gallery was full. Not the curated fullness of her address three days ago, where every seat had been assigned and fought over, but a looser, noisier crowd. Graduate students sat next to ambassadors. A woman in a hijab was livestreaming from the third row, her phone held at a careful angle.
+
+Lena took her seat at the table. The chair was too tall. She lowered it, and the mechanical squeak cut through the murmur like a bell, and several hundred people watched the woman who'd rewritten the history of the species adjust her furniture.
+
+At 10:07 a.m., the holo-projector hummed to life.
+
+Sable appeared in quarter-scale, standing on what looked like the command deck of the Aethon. The projection was sharper than their first broadcast — someone had recalibrated the resolution, and now Lena could see details she'd missed before. The faint pattern of bioluminescent cells running along Sable's jaw, firing in slow sequence like a pulse. The way their violet-black irises caught and held light from a source that existed only in orbit. They wore something new — a garment Lena didn't recognize, darker and less formal than the envoy's vestments from their earlier appearances. It looked, she thought, like what a person might wear when they weren't performing.
+
+"Members of the General Assembly," Sable said. "Citizens of Earth. I am Envoy Sable of the Continuance vessel Aethon."
+
+The same introduction as before. But the voice was different. Quieter. The harmonic undertone that had once made their words feel like a chord played on an instrument Lena couldn't name — it was still there, but muted. As though they'd stopped trying to make the sound beautiful and had settled for making it honest.
+
+"Three days ago, a scientist from this planet stood where I am now standing, in a manner of speaking, and told me what my own people could not. That the children we believed we had lost were never lost. That you had simply grown beyond the shape we expected you to fill." Sable paused. The bioluminescent cells along their jaw dimmed and brightened. "I have conferred with the Continuance Collective. And I am here to tell you that the reunification protocol, as it was offered, is withdrawn."
+
+A sound moved through the gallery — not surprise, exactly. Confirmation. The sound of a shoe dropping that everyone had been watching fall.
+
+"In its place, we propose an open exchange. No supervisory authority. No genetic census as a condition of contact. No institutional access that is not freely and transparently given." Sable's projection turned slightly, as if addressing someone just beyond the camera's frame, then turned back. "I was taught that our role in finding Earth was custodial. That you had been alone too long and needed guidance back to what you were. I believed this. I believed it because it was easier than the alternative."
+
+Lena watched Sable's hands. They were still — none of the fluid gestural language that had marked their earlier speeches, those elegant motions that had felt so much like theater.
+
+"The alternative," Sable continued, "is that we were wrong. Not mistaken — wrong. We built a framework of reunion that was, in truth, a framework of control, and we named it compassion so that we would not have to examine it. I am not speaking now for the Collective. I am speaking for myself." The cells along their jaw flared once, bright amber, then settled. "I was wrong."
+
+The hall was quiet. Not the held-breath quiet of three days ago, when Lena had stood at the podium and felt the room decide whether to believe her. This was a different quiet. The quiet of people watching someone do something difficult and choosing not to interrupt.
+
+"The Aethon will remain in orbit," Sable said. "Not as a guardian. As an embassy. Our doors are open. Yours may be open or closed, as you decide, and we will not mistake the closing for failure." A pause. Something shifted in their expression — subtle, alien, but Lena recognized it the way she recognized weather. It was warmth. "You are not what we expected. You are more. And I — I am grateful to have been the one to learn this."
+
+The projection held for a moment longer. Then Sable inclined their head — not the deep formal bow of their first audience, but a nod. The nod of someone who had come to understand that respect, real respect, did not require ceremony.
+
+The holo-projector dimmed. The hall erupted.
+
+---
+
+She called Achebe from a window alcove on the third floor, tucked between a fire extinguisher and a portrait of Dag Hammarskjöld that someone had hung slightly crooked decades ago. The noise from the Assembly hall was a muffled roar beneath her, the sound of history being argued into shape, but here it was almost quiet. Almost.
+
+He picked up on the fourth ring.
+
+"I watched," he said, before she could speak. His voice was thinner than the last time, the bass notes worn away, but the cadence was the same — that deliberate pacing that had held lecture halls for forty years. "On a tablet that Nkechi propped on my meal tray. She told the nurse it was physical therapy for my eyes."
+
+"How is she?"
+
+"Bossier than her mother. She flew in yesterday and has already reorganized my medication schedule and told two doctors they were wrong." A dry sound that might have been a laugh. "She is correct on both counts. How are you?"
+
+"Tired," Lena said. "Good tired."
+
+"There is a difference. I'm glad you can tell." She heard the rustle of sheets, the beep of a monitor adjusting to some small movement. "Sable surprised me. That was not the speech of a diplomat. That was the speech of a person."
+
+"I think that was the point."
+
+"Yes." A pause. "Lena. I need to say something to you, and I need you to hear it as your friend and not as your colleague."
+
+She leaned against the wall. The glass was cool through her blouse. "I'm listening."
+
+"You have spent the last three weeks saving the world from a very particular kind of danger — the danger of someone else telling our story for us. You have done this magnificently. You have also spent the last three weeks not sleeping, not eating properly, and not once looking at the man who broke you out of a military holding facility as though he might matter to you for reasons other than his security clearance."
+
+"Achebe —"
+
+"I am seventy-one years old and I have tubes in places I will not describe to you. I have earned the right to be direct." The monitor beeped again. "Grace's reading glasses are still in my satchel. Did you know that? She's been gone nine years, and I still carry them. Not because I am sentimental, but because I wasted two of our years together being afraid of what it meant to need someone. I do not want to watch you make the same mistake from a hospital bed."
+
+She closed her eyes. Through the window, she could hear car horns on First Avenue, distant and ordinary.
+
+"He is on the roof," Achebe said. "Or so Nkechi tells me — she has been texting him. Apparently they bonded over a shared opinion that I am a difficult patient."
+
+"You are a difficult patient."
+
+"I am a magnificent patient. Now, then." The old words, spoken gently. "Go."
+
+"I don't know what to say to him."
+
+"Then don't say anything yet. Just go to where he is." A beat. "Auden wrote that we must love one another or die. He later disowned the poem — said it was a damned lie, that we die regardless. But I think he missed his own point. It was never about not dying. It was about what we choose to do with the time."
+
+"You're quoting poetry at me from a hospital bed."
+
+"It is my single remaining pleasure. Go, Lena. Stop hiding behind the work."
+
+She pressed her forehead to the glass. "Thank you. For all of it."
+
+"You owe me nothing except a visit when I'm well enough to complain properly. Nkechi says she'll hold you to it." His voice softened. "I am very proud of you, child. Now go."
+
+---
+
+The rooftop terrace of the Secretariat Building was not supposed to be accessible. A maintenance door on the thirty-eighth floor opened onto a narrow concrete apron lined with industrial air handlers, and beyond them, an observation area that some architect had designed for diplomats who would never use it. Kai had found it on day one. Of course he had. Pilots mapped the highest ground in any building the way other people found the bathroom.
+
+He was sitting on a concrete bench near the railing, his jacket folded beside him, sleeves rolled to the elbows. The late-afternoon sun caught the edge of his jaw and the faint scar along his left forearm — the one he'd told her came from a fuel-line repair on the ISS, the story delivered with the casual minimization of someone who'd learned that competence was a kind of armor. He was looking at the sky. Not the way he usually looked at it — with the appraising squint of a pilot calculating weather and visibility. He was just looking.
+
+He turned when the door opened. The smile started — the automatic one, the one that deflected — and then it didn't finish. He just looked at her.
+
+"Achebe called," she said, and immediately regretted leading with that, because it sounded like she'd been sent. She crossed the concrete and stopped a few feet from the bench. The air handlers hummed. Below them, Manhattan went about the business of being Manhattan, forty stories of honking and ambition compressed to a murmur.
+
+"How is he?"
+
+"Cantankerous. His daughter's there."
+
+"Nkechi. She texted me a photo of his lunch and said, and I quote, 'He claims the Jell-O is a violation of the Geneva Conventions.'"
+
+Lena almost laughed. Almost deflected into the easy current of the joke, the way they'd been doing for weeks — trading observations, building a rapport that was also a wall, brick by careful brick. She could feel the pull of it. The gravitational comfort of not saying the thing.
+
+She sat down on the bench. Not next to him. Not far away. The distance of someone making a decision.
+
+"I need to tell you something," she said.
+
+Kai turned to face her. He didn't say *shoot* or *go for it* or any of the easy fillers she'd come to expect. He waited.
+
+"I'm afraid." The words came out smaller than she'd intended, and she didn't correct them. "Of what happens next. Of what this means — all of it, the Meridian, the Continuance, the fact that everything I thought I knew about human history is a first draft. But that's not —" She stopped. The air handler cycled, a low mechanical breath. "That's not what I'm most afraid of."
+
+He was quiet. The late sun was behind him now, and she couldn't read the details of his expression, only its stillness.
+
+"I'm afraid of this," she said. "Of you. Of what it would mean to stop treating this as a working relationship and admit that I think about you when you're not in the room. I have spent my entire adult life being the person who looks at the evidence, and the evidence is —" She pressed her palms flat against the warm concrete. "The evidence is that I don't know how to do this. I don't know how to let someone in without building a clean room around it first. And you deserve someone who doesn't need to be talked into it by a seventy-one-year-old man in a hospital gown."
+
+The city hummed below them. A helicopter crossed the river, its rotors catching the light.
+
+"So am I," Kai said.
+
+She looked at him.
+
+"Afraid," he said. "I've been sitting up here for an hour trying to figure out what I'd say if you came through that door, and every version sounded like a line from a film, and I don't want to give you a line." He ran a hand through his hair. The gesture was unguarded in a way she'd never seen from him — not performed, not timed for effect. Just a man who didn't know what to do with his hands. "I'm a pilot. I'm good at controlled environments. I know what every switch does and what happens if I flip it. This —" He gestured between them. "I don't know what the switches do. I don't have a checklist for this."
+
+"That's terrifying."
+
+"Yeah."
+
+"Okay."
+
+"Okay?"
+
+She reached across the space between them and took his hand. His fingers were warm and calloused and they closed around hers with a care that made her chest ache — not the confident grip of someone who knew what came next, but the tentative hold of someone choosing not to let go.
+
+They sat like that for a while. The sun moved. The air handlers breathed. Somewhere below, a siren rose and fell and rose again, the ordinary sound of a city that had just learned it was not alone in the universe and still had traffic to manage.
+
+"For the record," Kai said quietly, "I think about you when you're not in the room too."
+
+She leaned into him, just slightly. Just enough.
+
+---
+
+She flew back to Austin the next morning.
+
+The campus was the same and not the same. The live oaks along the South Mall still held their canopy against the May heat. Students still crossed the lawn with their heads in their phones. But the banners had changed — the geology department had hung a new one from the Welch Hall balcony that read *CHICXULUB RESEARCH CENTER (PROVISIONAL)*, and someone had added, in smaller letters beneath it, *Yes, That Chicxulub*. Her inbox held four hundred unread messages. Three interview requests sat on her desk, pinned under a coffee mug that Kai had left there before New York with a sticky note that read *For emergencies. — K*
+
+She worked. Not the frantic, sleep-deprived work of the last three weeks, but the slow, steady work of building something that would outlast the news cycle. The liaison panel met twice by video. Sable attended both sessions, their holographic form appearing in the conference room with a punctuality that Lena suspected was deliberate — a small courtesy, chosen carefully. The open-exchange framework took shape in drafts and counter-drafts, and it was messy and contentious and slower than anyone wanted, and it was theirs.
+
+Hadley was still at his desk in Washington. She'd heard this from a junior analyst who'd called to apologize for something that wasn't his fault. The director was drafting regulatory frameworks for extraterrestrial contact — thick documents, procedurally sound, that no one had asked for and everyone would eventually need. He hadn't called her. She hadn't called him. There was nothing to say that the situation hadn't already said. He was a man who had tried to control a story that was bigger than control, and now he was doing what he knew how to do, and history would record him as a footnote or a cautionary tale or both. She found she didn't need him to be punished. She just needed him to be irrelevant, and he was.
+
+On Thursday evening, she drove to the small house she rented off Duval Street and sat on the back porch with a glass of water and her laptop and a plate of kolaches from the Czech bakery on Airport Boulevard that she'd been meaning to try for two years and had never gotten around to. The kolaches were good. She ate two and closed the laptop.
+
+The Texas sky did what it always did in May — turned the sunset into an argument between orange and violet that stretched from horizon to horizon, so wide and so slow that it felt less like a sky and more like a deliberation. The air was warm and thick with the smell of cut grass and asphalt cooling after a long day. A mockingbird was cycling through its repertoire in the pecan tree by the fence — car alarm, cardinal, something that might have been a rusty gate hinge. Crickets were starting up. The first stars appeared in the east, faint and patient.
+
+She found the Aethon without trying. It was there, above the treeline, a point of steady light that didn't flicker the way stars did. She knew, because she'd calculated it, that the ship was holding a geosynchronous orbit at 35,786 kilometers — close enough to see, far enough to choose. Sable was up there, learning what it meant to be a guest instead of a guardian. Below it and behind it, the rest of the sky went about its ancient business, the stars turning on the wheel of a galaxy that was older than either species and would outlast them both.
+
+She thought about the Meridian, still buried beneath the Yucatan. Four point two kilometers of alien architecture wrapped in sixty-six million years of limestone and silence, the ship that had carried her ancestors to a world that would kill the dinosaurs and give rise to everything she'd ever known. It was not a tomb. It was not a monument. It was a seed pod, split open and emptied, its purpose fulfilled so completely that it had become geology. Someday they would excavate it. Someday they would walk its corridors and read its logs and learn the names of the people who had chosen this planet, or been sent to it, or crashed into it with no choice at all. But that was someday. Tonight it was enough to know it was there.
+
+Her phone buzzed. A photo from Kai — the view from his hotel window in Houston, where he was consulting with NASA on orbital approach protocols for the Aethon. The sky in his photo was the same sky. He'd drawn an arrow pointing to a dot of light and written: *That one's ours.*
+
+She smiled. Set the phone down. Picked it up again and typed: *Come to Austin this weekend. I'll make you try kolaches.*
+
+His reply was immediate: *Already looked up flights.*
+
+She set the phone down for good this time and looked up.
+
+The oldest story her species ever told — the real one, not the one they'd invented to fill the silence — was this: they had fallen from the sky. Not as gods, not as exiles, not as seeds scattered by a careful hand, but as people. Flawed and afraid and extraordinary. They had hit the ground so hard they'd darkened the sun. And then they'd stood up. They'd lost their ship and their history and every map they'd ever drawn, and they'd started over with nothing but each other and a world that owed them nothing, and they'd built everything — language, music, science, love, a civilization sprawling and imperfect and alive. They'd built it without knowing what they were. They'd build the next part knowing.
+
+The mockingbird sang. The stars turned. The warm air carried the smell of Texas earth, the same earth that held a buried ship and sixty-six million years of beginning, and Lena Sarić — astrobiologist, whistleblower, daughter of the Meridian — sat in a lawn chair on a rented porch in Austin and watched the sky she'd come from, and chose, freely and without reservation, to stay.

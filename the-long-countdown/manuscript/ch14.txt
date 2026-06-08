@@ -1,0 +1,269 @@
+Chen doesn't bother with small talk anymore. That's one of the things I've come to respect about her — she treats pleasantries like unnecessary variables, noise in the signal. So when she calls me into her office on a Tuesday afternoon in July 2015 and closes the door, I know the conversation has already started.
+
+"The 2011 data is clean," she says. She's standing behind her desk, not sitting. That's the tell. Chen sits when she's comfortable. She stands when she's building toward something. "I've run it through every filter I have. Independent verification from two colleagues who think I'm working on solar wind anomalies. The signal is real, the timing matches your prediction to within six hours, and I have no explanation."
+
+"Okay."
+
+"'Okay' is not a response, Nate. 'Okay' is what you say when someone tells you the coffee's ready." She pulls her glasses off and sets them on a stack of papers. Without them, her face looks younger and angrier. "You gave me a date and a frequency four years ago. You were a twenty-year-old kid who barely passed Physics 101. The signal arrived exactly when you said it would, on exactly the frequency you specified, and it is clearly artificial in origin. I need more than 'okay.'"
+
+"What do you need?"
+
+"An explanation."
+
+"I've given you—"
+
+"You've given me a story. A story about foreknowledge you can't source, predictions you can't explain, and a timeline you won't elaborate on. I'm a scientist. I don't work with stories. I work with testable hypotheses." She leans forward, palms flat on the desk. "Give me something I can test."
+
+This is the moment I've been building toward for four years. The 2011 signal was proof of concept — proof that I wasn't delusional, that the information in my head corresponded to something real. But one data point isn't science. Chen knows that. I know that. One correct prediction could be coincidence, could be lucky guessing, could be — in Chen's more frustrated moments — an elaborate hoax she hasn't figured out yet.
+
+She needs a second data point. And I have one.
+
+"Sit down," I say.
+
+"Don't tell me to—"
+
+"Please."
+
+Something in my voice gets through. She sits.
+
+I pull a chair around to her side of the desk, which is a violation of the unspoken geography of her office, and she lets me do it, which tells me how seriously she's taking this. I grab a legal pad from her shelf and a pen from the cup next to her monitor.
+
+"In approximately three years," I say, "between late 2017 and mid-2018, multiple objects will be detected entering the outer solar system. They won't be comets. They won't be asteroids. They'll be decelerating."
+
+Chen doesn't move.
+
+"They'll be coming from the direction of the Cygnus constellation, roughly." I start writing. The orbital parameters I remember aren't perfect — I'm working from a knowledge base that was never designed for astronomical precision, filtered through a brain that's better with people than with math. But the broad strokes are clear. I write down the approximate coordinates, the expected velocity range, the date window. I write down that there will be more than one object. I write down that initial observations will mistake them for trans-Neptunian objects until someone notices the deceleration profiles don't match any known orbital mechanics.
+
+I fill two pages. My handwriting deteriorates toward the bottom of the second page because my hand is shaking, and I don't try to hide it.
+
+When I finish, I set the pen down and push the legal pad toward her.
+
+Chen reads it twice. She's slow, methodical, and I watch her eyes track the same lines three or four times the way they do when she's checking math in her head.
+
+"Decelerating," she says.
+
+"Yes."
+
+"Objects — plural — entering from interstellar space. Decelerating."
+
+"Yes."
+
+"You understand what you're describing."
+
+"I do."
+
+She looks at me over the legal pad, and for the first time since I've known her, I see something in her expression that isn't skepticism or curiosity or professional detachment. It's fear. Not of me. Of the implications.
+
+"If this is real," she says, and stops. She sets the legal pad down carefully, the way you'd set down something fragile. "If this is real, the implications are—"
+
+She can't finish.
+
+"I know," I say.
+
+We sit there for a while. Her office has a window that faces the campus green, and through it I can hear someone playing frisbee and laughing about something. It's a beautiful day. It keeps being a beautiful day while we sit in that office with two pages of handwritten coordinates that describe the end of every assumption our species has ever held about being alone.
+
+"I'm going to seal this," Chen says finally. She's reached the other side of whatever she was processing, and her voice has that particular flatness it gets when she's decided something. She takes the legal pad, folds the pages carefully, and puts them in a manila envelope. She writes the date on the outside. "Sign it."
+
+I sign it.
+
+"Witness," she says, and signs below my name. She opens the small safe under her desk — I didn't even know she had a safe — and locks the envelope inside. "This stays sealed until the prediction window opens. If objects matching this description appear, I'm in. Completely. No reservations, no hedging, no 'further study needed.' I commit everything I have."
+
+"And if they don't appear?"
+
+"Then we're done. I burn the 2011 data, I forget your name, and I go back to publishing papers about magnetospheric substorms that nobody reads." She almost smiles. "Those are the terms."
+
+"Those are the terms," I agree.
+
+We shake hands. It's absurdly formal given that we've just made a bet about the arrival of extraterrestrial objects in our solar system, and the absurdity of it cracks something loose in both of us. Chen lets out a breath that's half laugh, half something else.
+
+"You're either going to be the most important person in human history," she says, "or the most committed con artist I've ever encountered."
+
+"Can't I be both?"
+
+"Get out of my office, Nate."
+
+I get out of her office. I walk across the campus green, past the frisbee players, and sit on a bench near the library and put my head in my hands for about ten minutes. A girl walking by asks if I'm okay. I tell her I'm fine. I'm not fine, exactly, but I'm also not not-fine. I've just placed the biggest bet of my life on a memory that might be wrong, against a woman who will absolutely hold me to the consequences.
+
+Anyway.
+
+---
+
+The thing about building something real is that it happens in the boring middle. NEORAN's first two years were scramble and prayer — me and Jenny in a borrowed office, writing grants at midnight, running programs on goodwill and caffeine. But somewhere in 2016 the scrambling stops and the machinery starts. Not all at once. There's no morning when I wake up and think, *we've made it.* It's more like — you're pushing a boulder uphill, and then one day you realize the ground leveled out a quarter mile back and the boulder's been rolling on its own.
+
+By spring of 2016 we have ten employees. That number still amazes me sometimes. Ten people who get up in the morning and drive to an office and do work that I imagined in a spiral notebook when I was nineteen. Jenny runs operations with the specific, terrifying competence of someone who was born organized and has only gotten more so with practice. She hires a program coordinator named David who is better with spreadsheets than any human being should be. She hires a field outreach director named Marisol who is beloved by every school district in northeast Iowa within six weeks of starting.
+
+I learn to trust them. This is harder than it sounds. My instinct — the old instinct, the one that comes from knowing too much and needing to control every variable — is to micromanage, to hover, to make sure every decision runs through me. But I watch Jenny handle a crisis with a donor who's threatening to pull funding over a misunderstanding about our curriculum, and she handles it better than I would have. Cleaner. Less ego. I watch David redesign our reporting system and it's genuinely good. I watch Marisol walk into a school board meeting in Waverly and walk out with a partnership agreement I'd been chasing for months.
+
+So I do the thing that doesn't come naturally. I step back. I let them run. I focus on the parts only I can do — the vision, the fundraising, the occasional public talk where I stand in front of a room and explain why critical thinking matters in an age of information overload, which is a speech I believe in completely and which is also, in a way I can never explain to my audience, a speech about survival.
+
+We open a satellite office in Waterloo. Then one in Dubuque. The federal grant comes through in August — $340,000 over three years, which is real money, institutional money, money that means someone in Washington read our outcomes data and decided we were worth betting on.
+
+The point is, NEORAN becomes a thing that exists independently of me. It has employees and offices and a website that David redesigned twice and a logo that Jenny's cousin made and that I pretend to like. It has inertia. And that inertia means that even when I'm distracted, even when I'm up at two in the morning thinking about sealed envelopes and orbital parameters, the work continues. People are being helped. The mission is real. That part wasn't a lie, even if the reason behind it is something I can never fully explain.
+
+---
+
+Elena moves in on a Saturday in October 2016. She arrives with a rented trailer, four boxes of veterinary textbooks, and a carrier containing the angriest cat I've ever encountered.
+
+"You said you didn't have a cat."
+
+"I didn't. Marta found him behind the clinic last week. He needs a foster home."
+
+"He's hissing at me."
+
+"He hisses at everyone. That's his personality."
+
+The cat's name is Gerald. He hisses at me for two weeks, then abruptly decides I'm acceptable and starts sleeping on my chest at night like a furry, judgmental paperweight. Elena treats this as evidence of my character. "Gerald doesn't like anyone," she says, scratching behind his ears while he purrs on my ribcage. "He likes you. That means something."
+
+"It means I'm warm."
+
+"Take the compliment, Nate."
+
+Three weeks after Elena moves in, we adopt a dog. This was supposed to happen in an organized way — research breeds, visit shelters, have adult conversations about responsibility and vet bills. What actually happens is that Elena comes home from the teaching hospital with a mud-colored mutt she found limping in the parking lot, already cleaned up and splinted and looking at me with the specific expression of an animal who knows it's already won.
+
+"His name is Hazard," Elena says.
+
+"You already named him?"
+
+"He walked through four lanes of traffic on University Avenue with a broken leg. He earned the name."
+
+Hazard is not a well-behaved dog. He chews shoes. He barks at the mailman with a conviction that suggests he believes the mailman to be his mortal enemy. He once ate an entire stick of butter off the counter and showed no remorse. But he follows Elena from room to room like she invented gravity, and when I come home at night he does this full-body wiggle that starts at his nose and works all the way back to his tail, and I have never once in my life felt as thoroughly welcomed as I do by this sixty-pound mutt who loves me with his whole broken, healed-wrong, perfectly adequate body.
+
+We settle into the apartment. It's a two-bedroom in a complex near campus — nothing special, beige carpet, a kitchen so small you can touch both walls if you spread your arms. Elena organizes the closets by season because she is fundamentally a person who believes in systems. I cook dinner three nights a week because I read somewhere that relationships need equitable distribution of domestic labor, and also because Elena once ate cereal for dinner four nights in a row during finals and I became genuinely concerned.
+
+I am not a good cook. I make the same six meals in rotation: chicken stir-fry, pasta with whatever sauce is on sale, tacos, soup from a can that I add vegetables to so it counts as homemade, omelets, and something I call "rice bowl" that is rice with things on it. Elena eats all of it without complaint, which is either love or an extremely high tolerance for mediocrity.
+
+We fight about dishes. This is the thing nobody tells you about living with another person — it's not the big stuff that tests you, it's the dishes. Specifically, my habit of leaving them "soaking" in the sink, which Elena correctly identifies as leaving them dirty in the sink with water over them and pretending that constitutes progress. We have the dish argument maybe once a month. It always ends the same way: I apologize, do the dishes, and then we order Thai food and sit on the couch with Hazard between us and Gerald on the back of the couch like a sentinel, and it's fine. It's better than fine.
+
+She studies late. I mean late — two, three in the morning, her desk lamp the only light in the apartment, textbooks spread in a semicircle around her while she memorizes the arterial system of large breed dogs or whatever it is that vet students need to know at three a.m. I bring her coffee sometimes. She doesn't look up when I set it down, but her hand finds the mug without looking, which means she knows I'm there, which means something.
+
+"You're going to tell me eventually," she says one night. We're in bed, lights out, Hazard snoring at our feet. She says it into the dark, not as a question.
+
+"Tell you what?"
+
+"Whatever it is you're carrying."
+
+I don't say anything for a while. In the dark I can hear the apartment building settling, the soft tick of the baseboard heater, Gerald jumping onto the kitchen counter which he knows he's not supposed to do.
+
+"Yeah," I say. "I will."
+
+"Okay," she says, and rolls over and goes to sleep, and that's the whole conversation. No pressure, no ultimatum, no *you owe me the truth.* Just the quiet statement of a person who has decided to wait. Elena doesn't waste words. She also doesn't waste patience. When she tells me she'll wait, she means it, and the fact that she means it makes me want to tell her everything, which I can't, which sits in my chest like a stone I've learned to breathe around.
+
+---
+
+Sophie comes home for Thanksgiving 2017. She's twenty-one now, a junior, studying environmental science at Iowa State, and she's turned into someone I almost don't recognize from the furious sixteen-year-old who told me I didn't get to pretend we were family. She's still sharp — that hasn't changed and I hope it never does — but the sharpness has found a direction. She argues about policy now instead of about me.
+
+We're in the kitchen, me washing dishes (I've gotten better about this, mostly), Sophie leaning against the counter eating raw carrots from the vegetable tray Diane made.
+
+"You know what's weird?" she says.
+
+"Many things."
+
+"You. Still." She crunches a carrot. "You really did change. Like, fundamentally. I've taken enough psych classes to know that people don't do that. Not the way you did."
+
+"People change all the time."
+
+"No, they adjust. They modify. They put up new wallpaper over the same walls. You knocked the whole house down and built a different one." She's watching me with Frank's eyes — that same steady, assessing look. "I still don't understand how."
+
+"I had good reasons."
+
+"Yeah. You still won't tell me what they are."
+
+"Nope."
+
+She shakes her head, but she's almost smiling. "You're infuriating."
+
+"It's part of my charm."
+
+"You don't have charm. You have whatever the opposite of charm is, where people like you anyway despite your personality."
+
+"That might actually be charm, Sophie."
+
+She throws a carrot at me. I catch it, and we both laugh, and Diane calls from the living room that if we eat all the carrots before dinner she's disowning both of us.
+
+---
+
+Thanksgiving. The table.
+
+Frank carved the turkey twenty minutes ago and has been standing over it ever since, adjusting slices, rearranging the platter, performing the specific male ritual of Guarding the Meat. He's sixty now, his hair more gray than brown, and he's wearing the flannel shirt he always wears for holidays, the one Diane bought him in 2009 that he'll wear until it disintegrates. He's got a dish towel over his shoulder. He looks settled. He looks like a man standing in the middle of a life he's decided to be proud of.
+
+Diane runs the kitchen the way air traffic controllers run airports — calm voice, absolute authority, zero tolerance for deviation from the flight plan. She has assigned everyone a task. Marcus is mashing potatoes. Priya is assembling a salad she insisted on bringing because, as she put it, "someone at this table needs to eat a vegetable that isn't covered in butter." Elena is on gravy duty, which she accepted with the competence of a woman who can perform surgery on a horse but is mildly terrified of Diane's kitchen. Sophie is setting the table with the good plates, the ones Diane keeps on the high shelf, the ones that only come out when the table is full enough to deserve them.
+
+I'm doing nothing useful. Diane has banned me from cooking after what she calls "the sweet potato incident of 2016," which involved a casserole dish, a malfunctioning oven, and a small amount of smoke damage that I maintain has been exaggerated in family retellings. So I stand in the doorway between the kitchen and the dining room, holding a beer I'm not really drinking, watching.
+
+Marcus. He's twenty-six now, thick through the shoulders from the work he's doing at John Deere, and he's got his sleeves rolled up and he's mashing potatoes with more force than potatoes require. Priya stands next to him, close, the way people stand when proximity is habit. They're getting married in the spring. I'm the best man. When Marcus asked me, in Frank's garage over a beer, his voice cracked on the word and we both pretended it didn't.
+
+Elena. She stirs gravy with the focus of someone defusing a bomb, and Diane touches her shoulder as she passes behind her, casual and warm, the kind of touch that means *you belong here.* Elena glances at me across the kitchen and raises an eyebrow that means *I'm doing fine, stop hovering,* and I raise my beer in response, and that's a whole conversation in two gestures.
+
+Frank. He finally stops adjusting the turkey and carries the platter to the table with both hands, ceremonial, and sets it in the center with the satisfaction of a man who has fulfilled his sacred duty. He catches my eye and nods. Just that. A nod. But it carries the weight of seven years — of the fishing trip where he told me about the draft, of the deck we watched storms from, of every quiet conversation where he gave me the thing I didn't know I needed, which was a father who was there.
+
+Sophie. She finishes the table and stands back to look at it, and there's something on her face I haven't seen before: contentment. Not happiness, exactly, but the specific peace of a person who has come home and found it the way she left it. She's wearing a sweater that's too big for her — one of Frank's, I think — and her hair is pulled back, and she looks young and old at the same time, the way twenty-one-year-olds do.
+
+Diane. She stands at the head of the kitchen, her kingdom, and surveys the table through the doorway. The table with the good plates and the turkey and the sweet potatoes (made by someone other than me) and the salad Priya brought and the mashed potatoes Marcus is still mashing. She takes a breath and I watch her face do the thing it does when she's trying not to cry about something good.
+
+"That's enough mashing, Marcus," she says. "Bring them in."
+
+We sit. Frank at the head, Diane at the other end, the rest of us filling the sides. Hazard lies under the table, positioning himself for maximum dropped-food interception. Gerald sits on the buffet behind Diane's chair because he is a cat and therefore believes all surfaces belong to him.
+
+Frank says grace. He's not a particularly religious man, but he says grace at Thanksgiving because his father did and his father's father did, and tradition is the connective tissue of this family. He keeps it short: thanks for the food, thanks for the people at the table, thanks for another year. Amen.
+
+Then the noise starts. The beautiful, chaotic, overlapping noise of seven people passing dishes and talking over each other and reaching for the salt and arguing about politics and laughing at something Marcus said that I missed because I was listening to Elena tell Priya about a three-legged dog she treated last week. Sophie and Frank are debating something about football. Diane is telling Marcus to take more turkey, he's too thin, which is objectively incorrect but is the kind of thing mothers say because saying *eat more* is another way of saying *I love you* and *stay close.*
+
+I eat. I laugh at the right moments. I pass the cranberry sauce. I put my hand on Elena's knee under the table and she puts her hand over mine without looking away from her conversation with Priya, and the gesture is so automatic, so habitual, that it almost undoes me.
+
+Because here's the thing about this table. Here is the thing about every person sitting at it.
+
+I have eight years left.
+
+Eight years until the sky changes. Eight years until everything I've built, everything I've repaired, every relationship at this table, gets tested in ways none of them can imagine. Eight years until the Pathfinder objects — the ones I described to Chen on a legal pad in her office, the ones sealed in an envelope in her safe — arrive close enough for the world to notice, and after that, nothing is ever the same.
+
+This is what it costs to know the future. Not the knowing itself — I've made peace with that, mostly, the way you make peace with a chronic illness. It's this. Sitting at a table full of people you love, in a room warm with food and noise and the particular amber light of Diane's dining room in November, and carrying the knowledge that all of it is temporary. Not in the abstract way that all things are temporary. In the specific, dated, counted way. I know the year. I know what's coming. I know that this table, this evening, this exact configuration of people and warmth and cranberry sauce, is a snapshot of the best it will ever be.
+
+Frank refills my glass. "You're quiet tonight," he says.
+
+"Just grateful," I say, and I mean it in every possible direction.
+
+---
+
+We lived three years in that apartment. The first was discovery — learning the geography of another person, the way Elena always sleeps on the left side, the way she hums when she's concentrating, the fact that she cannot function before coffee and should not be spoken to before her first cup. The second was routine — the dishes and the dog walks and the Sunday mornings when we stayed in bed until noon and ordered delivery and watched bad movies with Hazard wedged between us like a furry referee. The third was the one where I started to understand that this wasn't a phase of my life. This was my life. Elena wasn't someone I was dating while the real story happened elsewhere. She was the real story, and the countdown and the preparations and the sealed envelope in Chen's office safe — those were the elsewhere.
+
+I don't know when I figured that out. There wasn't a moment. There was just a gradual reorientation, like a compass needle settling, and one day I looked at Elena asleep with her textbook open on her chest and Hazard curled against her legs and I thought: this. Whatever else I'm doing, whatever else I'm building, this is the part that matters.
+
+---
+
+New Year's Eve, 2017. Our roof.
+
+It's not really our roof. It belongs to the apartment building and there's a sign on the access door that says AUTHORIZED PERSONNEL ONLY, but the lock has been broken since before we moved in and half the building comes up here in summer. Tonight it's just us. Everyone else is at parties or downtown or inside where it's warm, because it's eleven degrees and the wind is coming off the plains with the particular hostility that Iowa wind has in December.
+
+Elena is wearing my coat over her coat, which makes her look like a very small person buried in a very large amount of fabric. She's got a bottle of champagne she bought at Hy-Vee, the cheap kind with the foil that never peels off cleanly. We're sharing it, passing it back and forth because we forgot glasses.
+
+Below us, Cedar Falls is doing its best impression of a city on New Year's Eve. There are fireworks from the park — not the professional kind, the kind that local service clubs put on, a little uneven, a little too long between bursts, but bright against the flat winter sky. Someone down the block is setting off bottle rockets. A car alarm goes off and stops. The sounds of a small city ringing in a new year.
+
+Elena takes a drink of champagne and passes me the bottle. "What do you want this year?"
+
+She asks this every New Year's. It's her thing — not resolutions, not goals, but *want.* What do you want. It's a better question than it seems, because it forces you to be honest about desire rather than discipline.
+
+I look at her. Her nose is red from the cold. Her hair is escaping from her hat in the way it always does, because Elena's hair has never once in its life cooperated with a hat. She's looking at the fireworks, waiting for my answer, patient the way she always is with me, and I think about the sky above the fireworks. The dark between the stars. The vast, empty-looking distance between here and the outer solar system, where right now, right at this moment, objects are drifting inward. Decelerating. Coming.
+
+Chen's envelope sits in a safe two miles from here. In a few months — maybe sooner, maybe later, but soon — someone with a telescope and enough curiosity will notice something that doesn't move the way it should. And then Chen will open the safe. And then the second data point will land, and everything accelerates.
+
+"More time," I say.
+
+Elena looks at me. She smiles — not her full smile, but the smaller one, the private one she saves for moments when she thinks I've said something that matters.
+
+"Me too," she says. She takes the champagne back and drinks, and leans into me, and we watch the fireworks throw light across the snow-covered rooftops of our small, ordinary city.
+
+More time. She thinks I mean us — more mornings, more arguments about dishes, more nights on this roof, more years of this life we're building in a two-bedroom apartment with a dog and a hostile cat and a closet organized by season. And I do mean that. I mean that completely.
+
+I also mean: more time before the sky opens up and the world learns what I already know. More time before the countdown reaches a number small enough to taste. More time in this narrow, warm, impossible space between knowing what's coming and living as though it isn't.
+
+A firework bursts — a big one, the finale, gold and white cascading down like something spilling — and in the temporary brightness I can see every rooftop, every snow-covered street, every lit window where someone is kissing someone or counting backward from ten or holding a glass up to a year they hope will be better.
+
+2018 starts in the cold and the dark, the way years do.
+
+I hold Elena closer. Hazard barks somewhere below us, muffled through the ceiling, upset about the fireworks or the noise or the particular injustice of being left inside while his people stand on a roof in the freezing cold.
+
+More time. That's what I want. That's all I've ever wanted, since the day I woke up at fifteen with a head full of futures and a second chance I never asked for.
+
+Eight years. That's what I have.
+
+I drink the cheap champagne, and I watch the sky.

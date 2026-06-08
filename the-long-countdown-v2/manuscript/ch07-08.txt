@@ -1,0 +1,405 @@
+## Chapter 7: The Scientist and the Prophet
+
+The thing about being twenty years old inside an eighteen-year-old body is that nobody warns you how boring it's going to be.
+
+I'm sitting in Introduction to Emergency Management, room 214 of Sabin Hall, and Professor Hendricks is explaining the Incident Command System like it's a revelation. Unified command. Span of control. The five management functions. I already know this. Not because I'm smart — because where I come from, I watched these systems fail in real time, watched people die in the gap between theory and execution, and I spent years afterward thinking about why.
+
+But I raise my hand. I ask questions that sound like a curious freshman's questions. I take notes in a spiral notebook with a ballpoint pen that costs forty-nine cents. I am the most focused student in every room I enter, and this makes me strange. The other freshmen are discovering beer pong and hookup culture and the exhilarating freedom of nobody checking whether you go to class. I go to every class. I sit in the second row. I do the reading before it's assigned.
+
+My roommate, a kid from Dubuque named Tyler, asked me once if I was on something. "You just — you're always doing something. You never just, like, chill."
+
+"I chill," I told him.
+
+"Dude. You were reorganizing your desk at six a.m."
+
+Fair point. But Tyler doesn't know that I can feel the clock. Every day that passes is a day closer to something he can't see, and the weight of that knowledge turns leisure into a luxury I can't afford. So I study. I volunteer. I run three miles every morning along the Cedar River trail while the campus is still sleeping. I eat in the dining hall alone, usually, a book propped against my water glass.
+
+I am building something. I just can't tell anyone what.
+
+---
+
+The lecture is on a Thursday evening in October. "Anomalous Signal Detection in the Microwave Background: Challenges and Opportunities." It's in a small room on the third floor of McCollum Science Hall, the kind with a pull-down projector screen and seats for maybe forty. Twelve people show up, and three of them are clearly here because they thought it was the astronomy club meeting.
+
+Dr. Judith Chen is not what I expected.
+
+I mean — I'd seen her faculty photo. Read her papers. All six of them that I could access through the library database, plus two more I'd gotten through interlibrary loan from Iowa State. But the photo is a standard academic headshot, professionally lit, nothing notable. The woman at the front of the room is wearing a Ramones t-shirt under a corduroy blazer that looks like she stole it from a 1970s estate sale. Her hair is pulled back in a clip that's losing the fight. She's maybe forty-five, thin, quick-moving. When she talks, her hands describe shapes in the air like she's conducting an orchestra only she can hear.
+
+And she's brilliant. Obviously, incandescently brilliant. Within two minutes of opening her mouth, she's left three of the astronomy-club kids behind and the nine remaining audience members are split between genuine comprehension and polite confusion.
+
+I am comprehending.
+
+Not because I understand the math — I don't, not really, not the way she does. But because I know what she's reaching toward. I know where her research leads. In the timeline I came from, Dr. Judith Chen publishes a paper in 2012 that gets modest attention and significant skepticism, and by 2015 she's vindicated in ways that nobody living through it will fully appreciate until much later. She's one of the first. She doesn't know it yet.
+
+She's talking about spectral anomalies in data from the Allen Telescope Array. Patterns that don't match known sources. The signal-to-noise problem. How do you distinguish genuine anomalies from instrument artifacts, atmospheric interference, the cosmic microwave background's own quirks?
+
+"The challenge," she says, pacing, "isn't detection. We detect thousands of anomalies every year. The challenge is classification. The challenge is having the intellectual honesty to say: I don't know what this is, and the courage to keep looking at it rather than filing it under 'noise' and moving on."
+
+After the lecture, most of the twelve drift out. I wait. I'm not the last to leave — that would be conspicuous. I'm third-to-last, lingering near the front as two actual physics grad students ask her about her ATA access schedule.
+
+When they leave, I step forward.
+
+"Dr. Chen? I had a question about your work on the 1420-megahertz exclusion zone."
+
+She's gathering her notes, laptop half-closed. She looks up. "The hydrogen line exclusion? That's not really what the talk was about."
+
+"No. But it's related to the classification problem. You mentioned instrument artifacts — but in your 2007 paper, you flagged three anomalies in the water-hole band that you couldn't attribute to any known source or any known artifact. Two of them were in a spectral range that overlaps with the exclusion zone margins."
+
+She stops gathering. Looks at me properly for the first time. I'm an eighteen-year-old in a hoodie and jeans, backpack slung over one shoulder. I look like every other freshman on this campus.
+
+"That paper wasn't published," she says carefully.
+
+It was, actually. In a conference proceedings volume with a distribution of maybe two hundred. I found it through a citation chain that took me three weeks to trace. But that's not the answer that gets me what I need.
+
+"I read the conference proceedings from the 2007 IAU regional meeting," I say. "It's in the UNI library's digital archive. But what interested me was the pattern. The two signals you flagged — they were both in the 1400 to 1427 range, both brief, both at similar right-ascension coordinates. You called them 'unclassified transients' in the paper. But you didn't publish a follow-up."
+
+She's very still now. The laptop is forgotten. "What's your name?"
+
+"Nate Callahan. I'm a freshman. Emergency management."
+
+"Emergency management." She says it like she's tasting something unexpected.
+
+"Yeah. But I — I've been reading. About signal detection. About the classification problem. And I've been thinking about those two transients you flagged."
+
+"What about them."
+
+Here's the moment. The tightrope walk. Too much and she'll think I'm a crank. Too little and I'm just another undergrad who read one paper and thinks he's discovered something. I need to be exactly strange enough to be interesting.
+
+"I think the reason you didn't publish a follow-up is that when you went back to look for them, they weren't there anymore. And that bothered you. Because instrument artifacts are repeatable, and astrophysical sources don't just vanish. But a transient signal from a moving source would only appear in a specific window, and if you didn't know the trajectory, you wouldn't know when to look again."
+
+The room is silent. The fluorescent lights hum. Dr. Chen is looking at me like I've just spoken in a language she didn't know anyone else spoke.
+
+"Where did you read about that?" she asks. Her voice is flat. Controlled.
+
+"I didn't read about it," I say. "I thought about it."
+
+A long pause. Then she does something I don't expect — she laughs. Short, sharp, almost surprised out of herself.
+
+"Office hours are Tuesday and Thursday, two to four," she says. "Room 318. Bring that brain."
+
+---
+
+I go on a Thursday. Then the following Tuesday. Then it becomes a pattern.
+
+Her office is a disaster. Papers everywhere, books stacked horizontally on shelves because the vertical space is full. A whiteboard covered in equations I can follow for about two lines before they lose me. A poster of the Arecibo message on the wall behind her desk. And Boltzmann — a massive orange tabby who occupies the only visitor's chair like he owns it, which, to be fair, he does.
+
+The first few visits, Chen tests me. She doesn't make it obvious, but I can feel it. She recommends papers. Not introductory ones — research-level work, the kind graduate students struggle with. I read them. I don't pretend to understand all the math, because pretending would be stupid and she'd see through it instantly. But I understand the logic. The frameworks. The implications.
+
+"You're not a physics student," she says one afternoon in November, watching me scratch Boltzmann's chin while we discuss Bayesian approaches to signal classification.
+
+"No."
+
+"Why not?"
+
+"Because I'm not a physicist. I don't have the math. And I don't have time to get the math — not and do what I actually need to do."
+
+"Which is what? Emergency management?" She says it without condescension, but with genuine curiosity.
+
+"Yeah. I want to be useful when things go wrong. That's — that's what I'm building toward."
+
+"And this?" She gestures at the papers spread between us. "What's this, then?"
+
+"This is something else. This is me needing to understand something that I think is important, and you being the person who can help me understand it."
+
+She leans back. Studies me. I'm used to people looking at me like I'm a puzzle, but Chen does it differently. There's no suspicion in it. Just a sharp, academic curiosity.
+
+"You know things you shouldn't know," she says. "Not just that conference proceedings — that was findable. But the trajectory analysis. The spectral overlay pattern. You think like someone who already has a hypothesis and is working backward to establish evidence."
+
+"Is that a problem?"
+
+"It's a methodology problem. It's how cranks work. Start with the conclusion, cherry-pick the data."
+
+"And what if the hypothesis is correct?"
+
+She smiles. "Then it's still a methodology problem. But it's a more interesting one."
+
+---
+
+December. January. February. The semester turns. I take Chen's Introduction to Astrophysics as an elective, officially becoming her student as well as whatever else I am to her — project? Curiosity? I sit in the front row and I'm the only non-physics-major in the room. I earn a B+, which is honest. The math limits me.
+
+But the office hours continue. And in those sessions, we're not doing coursework. We're talking about detection methodologies, about the difference between looking and finding, about what you do when the data suggests something your priors say is impossible.
+
+She tells me about Boltzmann one afternoon — named for the constant, of course, but also because "he operates according to his own statistical mechanics. His behavior is technically deterministic but practically unpredictable."
+
+The cat is asleep on a stack of Nature back issues. He doesn't look unpredictable. He looks like a fur-covered throw pillow.
+
+I am being careful. Every week, I walk the line. I show enough knowledge to keep her engaged but not so much that she gets frightened. I ask questions that lead her toward conclusions I already know are correct but let her arrive there under her own power. I am, in the most precise and damning sense of the word, manipulating her.
+
+I hate it. But I don't stop.
+
+---
+
+March comes in cold and wet. Cedar Falls is still buried under dirty snow. I sit in Chen's office with my hands wrapped around a mug of terrible departmental coffee and I know it's time.
+
+I've been building to this for five months. Every paper I've read, every conversation we've had, every carefully constructed question — it's all been scaffolding for this moment. The moment I stop being an unusually perceptive undergraduate and become something she doesn't have a category for.
+
+"I want to tell you something," I say.
+
+Chen is grading, red pen in hand. She doesn't look up immediately. "Go ahead."
+
+"There's going to be a signal. An anomalous signal, in approximately eighteen months. Maybe a little less. It'll be in the water-hole band, similar spectral profile to the two transients from your 2007 paper."
+
+Now she looks up.
+
+"I know the approximate coordinates," I continue. "Right ascension and declination. I don't know the exact timing — I'm working from something closer to an educated guess than a prediction. But the coordinates I'm confident about."
+
+She puts the red pen down slowly. Boltzmann, sensing some shift in the room's temperature, lifts his head.
+
+"Nate."
+
+"I know how this sounds."
+
+"Do you? Because it sounds like you're either telling me you have access to a detection pipeline I don't know about, or you're telling me something much stranger than that."
+
+"I don't have access to any pipeline. I'm an emergency management major who reads your papers and borrows your cat."
+
+"Then how—"
+
+"I can't explain it. Not yet. Not in a way that would satisfy you as a scientist, and I respect you too much to give you a bad explanation and ask you to accept it on faith."
+
+She's quiet for a long moment. The office is still except for Boltzmann's raspy breathing and the tick of the wall clock.
+
+"Give me the coordinates."
+
+I recite them. She writes them on a Post-it note. Her handwriting is cramped, precise — not what you'd expect from someone whose office looks like a paper avalanche.
+
+"If this signal appears where you say it will," she says, sticking the Post-it to her monitor, "I'm going to need a real explanation."
+
+"If it appears," I say, "you'll get one."
+
+She holds my gaze for another moment. I can see the war behind her eyes — the scientist who knows this is absurd, fighting the scientist who recognizes that I've been right about too many things to dismiss. Finally she nods once, a short sharp motion.
+
+"Okay. Eighteen months."
+
+"Give or take."
+
+"I'll be watching."
+
+I stand, swing my backpack over my shoulder. At the door I stop.
+
+"Dr. Chen?"
+
+"Yes?"
+
+"Thank you. For — all of this. For not throwing me out."
+
+She picks up the red pen again, returns to grading as if nothing has happened. "I'm a scientist, Nate. I don't throw out data."
+
+---
+
+That night I'm back in my dorm room, Tyler gone somewhere — party, girlfriend's room, doesn't matter. I'm alone. The ceiling is popcorn textured and institutional. My desk lamp throws a circle of light onto the notebook I've been writing in since August.
+
+I haven't written about the future in this notebook. Nothing that could be found and misread. It's not a record. It's more like — therapy. Working through the knot.
+
+Tonight I write:
+
+*The man who can save the world and the man who deserves to be saved cannot be the same person.*
+
+Because what am I doing? Let's be honest. Let's be actually, brutally honest in a way I can't be with anyone, not Marcus, not Chen, not even myself most days.
+
+I'm manipulating people. That's what this is. I identified Chen as an asset. I engineered a meeting. I cultivated a relationship over months, feeding her information at exactly the rate that would maximize her investment in me. I did it consciously, deliberately, with the specific goal of positioning myself so that when the signal arrives, I have a credible channel to the scientific community.
+
+This is manipulation. It's textbook. The fact that I genuinely like her — genuinely respect her work, genuinely enjoy Boltzmann's presence, genuinely look forward to our conversations — doesn't change what I'm doing. It might actually make it worse. Because it means I'm not even cold about it. I'm warm and human and enjoying the friendship I'm building on a foundation of calculated deception.
+
+I could tell her the truth. Time travel. The future. All of it. But the truth, unearned, sounds like insanity. And insanity gets you institutionalized, not listened to. So I dole out proof in fragments. I let her arrive at trust through accumulated evidence. I play the long game because the long game is the only game that works.
+
+Manipulation is my tool. Honesty is my goal. The toolkit and the mission are at war with each other, and the battlefield is every relationship I have.
+
+*I have to be both*, I write. *I have to be the manipulator who earns trust through strategic disclosure, AND the honest man who deserves that trust. I have to hold both things at once.*
+
+*Anyway. The point is—*
+
+I stop writing. The pen hovers. I don't know how to finish the sentence.
+
+Maybe that's the point. Maybe the point is that there isn't one. Maybe the point is just: keep going. Keep building. Keep being careful and calculating and guilty about it, and hope that eventually the calculation serves something real enough to justify the cost.
+
+I close the notebook. I turn off the lamp. In the dark, the digital clock reads 1:47 a.m. and I have an 8 a.m. class.
+
+I don't sleep for a long time.
+
+---
+
+## Chapter 8: The Long Game
+
+Fall 2010. Sophomore year. I am nineteen years old for the second time in my life and it is exactly as unremarkable as it sounds.
+
+The emergency management program at UNI is small — maybe forty students across all years — and I've made myself into the department's quiet overachiever. I have my FEMA Professional Development Series certificates. I've done Red Cross disaster response training. I volunteer at the local chapter twice a week, which mostly means organizing supply closets and updating spreadsheets, but occasionally means driving to a house fire at 2 a.m. and handing blankets to a family who just lost everything.
+
+Those nights are the ones that feel real. Not the coursework — that's infrastructure, necessary but bloodless. The actual disasters, even small ones, even house fires and car accidents and the grandmother who fell and lay on her kitchen floor for sixteen hours before anyone checked. Those remind me why I'm building this. There's a version of preparation that's purely abstract, and then there's the version where you hand a woman a bottle of water and a blanket and she grips your arm with fingers like bird bones and says *thank you, honey, thank you*.
+
+I write a paper on community resilience in rural flood zones. Professor Hendricks calls it "publishable with revision." I revise it. It doesn't get published — I'm an undergraduate, the journals don't take undergraduates seriously — but the research goes into my files. Into the architecture.
+
+I take three FEMA Independent Study courses online, the self-paced ones: IS-230 (Fundamentals of Emergency Management), IS-235 (Emergency Planning), IS-240 (Leadership and Influence). I study them like scripture. Not because the material is new to me — most of it isn't — but because having the certificates matters. Credentials are armor. When the time comes, when I need people to listen, the letters after my name will buy me thirty seconds of attention I wouldn't get otherwise.
+
+This is what preparation looks like up close. Not montage-worthy. Not cinematic. It's a guy in a dorm room at eleven p.m., clicking through online modules about resource typing and mutual aid agreements, while his roommate watches basketball on a laptop across the room.
+
+Tyler moved out after freshman year. My new roommate, Dave, is quieter, less curious. We coexist. It works.
+
+---
+
+June 2010. The Cedar River rises.
+
+Not catastrophically — this isn't 2008, when the river crested thirteen feet above flood stage and drowned Cedar Rapids. But it's bad enough. Record rainfall in May pushes the river up, and by the first week of June the National Weather Service is issuing flood warnings for several tributaries.
+
+I'm in the Red Cross staging area at the Waterloo convention center at 5 a.m. on a Thursday when the call comes to deploy volunteers for sandbagging along the river south of Cedar Falls. I grab my gear — work gloves, boots, rain jacket — and I'm in the van with six other volunteers before anyone has to ask twice.
+
+The sandbagging site is chaos when we arrive. Not dangerous chaos — organizational chaos. Too many volunteers, not enough coordination. People standing around waiting for instructions. Stacks of empty sandbags in one location, fill dirt in another, and the actual levee line two hundred yards from either.
+
+Something in me clicks. The same thing that clicked when I watched the systems fail before, when I studied the after-action reports and thought *this is where it broke down, this is the seam*.
+
+I start moving. Not ordering — I don't have authority and I know better than to pretend I do. But I start a chain. I position myself between the fill dirt and the bag station and I say, loud enough: "Hey — if you're waiting, grab a bag from that stack, fill it here, pass it down. We can move twice as fast in a line."
+
+And people do it. Not because I'm in charge but because human beings in uncertain situations want someone — anyone — to say the next obvious thing. The chain forms. Bags move. Other chains start forming nearby, copying the pattern.
+
+By noon we've placed six hundred bags along a quarter-mile stretch of riverbank. My shoulders ache. My back is going to hate me tomorrow. My boots are caked in mud that goes halfway up my shins. And I feel more like myself than I have in months.
+
+Not because I used future knowledge. I didn't. There's nothing from the future in "form a line and pass the bags." That's just logistics. That's just seeing a problem and saying the obvious thing and being willing to be the first one to start doing it.
+
+Maybe that's who I actually am, underneath all the manipulation and calculated disclosure and strategic relationship-building. Maybe that's the version of me that deserves to survive this.
+
+Or maybe I'm just good at organizing people, and I'm romanticizing it because I'm desperate for one thing in my life that isn't tainted by foreknowledge.
+
+---
+
+Sunday dinner at home. July. The deck Frank and I built last summer has weathered well — the stain has darkened slightly, but the boards are solid, the railing sturdy. We eat on it when the weather's good. Tonight it's good. Mom made chicken and corn on the cob and there's a pitcher of lemonade sweating in the center of the table.
+
+Sophie is sixteen and has finally gotten her braces off. Her smile is different without them — more confident, or maybe just less self-conscious. She's on her phone half the time, which Mom allows at outdoor dinners but not indoor ones, a distinction I don't fully understand but don't question.
+
+Frank asks about school while he eats, methodical bites between questions. "So what's this semester look like?"
+
+"More specialized stuff. Hazard mitigation planning. Exercise design — that's where you simulate disasters and test response systems."
+
+"Simulate disasters," Frank repeats. "Like practice runs."
+
+"Exactly like practice runs. So when real ones happen, people know what to do."
+
+He nods, chewing corn. Thinks about it. "So you're learning how to help people when things go bad?"
+
+"Yeah, Dad."
+
+He sets down the cob. Wipes his mouth with a napkin. "That's... well. That's good."
+
+It's not effusive. Frank doesn't do effusive. But the pause before "well" carries weight. It's the pause of a man who spent months not understanding what his son was doing, and now understanding it in simple enough terms to approve. *You help people when things go bad.* That's something a pipe fitter's son does. That makes sense.
+
+Sophie glances up from her phone. She's spotted the FEMA manuals on the counter inside — I brought them home to study over the weekend. "You're so weird now," she says. "You have, like, government textbooks."
+
+"They're training manuals."
+
+"Same difference. Nobody our age reads government training manuals for fun."
+
+"It's not for fun."
+
+"That's even weirder."
+
+But she's not hostile. That's the thing. A year ago, Sophie looked at me like I was a stranger wearing her brother's face. Now she looks at me like I'm her brother who happens to be inexplicably, entertainingly strange. That's progress. I'll take bewilderment over suspicion any day.
+
+Mom catches my eye across the table and smiles. She doesn't say anything. She doesn't need to.
+
+---
+
+September. Marcus calls on a Sunday night, which is our pattern now. Once a week, sometimes every ten days, whenever the engineering workload lets him surface.
+
+"Dude, you won't believe this lab I'm in," he says. "We had to build a truss bridge out of balsa wood and then load-test it until failure. Mine held forty-seven pounds before it snapped."
+
+"Is that good?"
+
+"It's third in the class. Which is pissing me off because Mike Chen's held fifty-two and I know his glue joints were sloppy. There's no justice."
+
+I'm at my desk, textbook open but forgotten. I'm smiling. Marcus's voice is animated the way it gets when he's excited about something, the words tumbling over each other. He's found his thing. Engineering. The certainty of math applied to physical problems. The satisfaction of building something that either holds or doesn't.
+
+"You'll beat him next time," I say.
+
+"Damn right. I'm redesigning the entire truss geometry. You should see my sketches — I've been up since six working on the force diagrams."
+
+"Force diagrams at six a.m. on a Sunday. And you call me intense."
+
+He laughs. Gap-toothed, warm. "Fair. Hey — how's your semester going? Still doing the disaster stuff?"
+
+"Still doing the disaster stuff."
+
+"When the apocalypse comes, I'm calling you first."
+
+He says it like a joke. I let it be a joke.
+
+We talk for another twenty minutes. He tells me about a girl in his dynamics class. I tell him about the sandbagging, which he finds genuinely impressive. "You're out there actually doing it. That's cool, man. That's real."
+
+After we hang up, I sit for a while in the quiet of my room. Marcus is my friend. Genuinely. Not strategically — I don't need anything from him. He's just my friend, and I'm his, and we maintain this thing across the distance through weekly phone calls and honest conversation. It's maybe the only relationship in my life that isn't contaminated by what I know.
+
+I want to keep it that way.
+
+---
+
+Winter again. Spring. The months compress into routine: classes, volunteering, office hours with Chen (which continue, though we don't discuss the prediction directly — it sits between us like a sealed envelope, waiting). I study. I run. I attend to the architecture of my preparation with the grim patience of someone laying bricks for a building whose blueprints only he can see.
+
+It's not glamorous. I want to be clear about that. There's no montage here. No swelling soundtrack. It's me, alone in a library carrel at 9 p.m. on a Friday, reading a journal article about post-disaster housing displacement while everyone else my age is out living their lives. It's me driving to the Red Cross chapter on a Tuesday afternoon when I could be napping. It's me declining invitations — not many, I'm not popular, but occasionally someone asks — because I need the hours.
+
+I chose sobriety eighteen months ago and it's stuck. That's something. Most days it's easy. Some days it's not. The days it's not are usually the days when the loneliness gets acute, when the gulf between who I am and who everyone thinks I am feels uncrossable, when I want to be twenty-year-old Nate at a bar with friends instead of twenty-year-old-in-an-eighteen-year-old's-body Nate in a dorm room with FEMA manuals.
+
+But I don't drink. I run instead. Or I call Marcus. Or I go to Chen's office and argue about Bayesian priors while Boltzmann sheds on my jeans.
+
+The long game is long. That's the whole point of it. You don't get to skip ahead.
+
+---
+
+Spring 2011. The envelope between Chen and me begins to weigh something.
+
+We don't discuss it directly, but I notice her mentioning the Allen Telescope Array more often. She's secured observation time — I don't ask how, don't want to know what favors she called in. She mentions it offhandedly: "I've been running some monitoring scripts on my ATA allocation." She doesn't say *for the coordinates you gave me*. She doesn't have to.
+
+I start sleeping badly in April. By May it's worse. The signal — if it exists, if my memory is right, if the timeline hasn't diverged in some way I can't account for — should appear sometime in the late spring or summer of 2011. I've given Chen a window. Approximately eighteen months from March 2010. That's September 2011 at the outside. But my memory isn't precise. It could be earlier.
+
+Every morning I wake up and check my phone. No missed calls. No emails from Chen. The absence of contact is both relief and torture.
+
+I eat less. I study more. I run longer — four miles, five, six. Tyler-now-Dave notices nothing because Dave notices nothing, which is why Dave is an excellent roommate.
+
+June comes. The corn grows tall in the fields outside Cedar Falls, that lush impossibility of the Iowa summer, everything green and heavy and alive. I have a summer research position with the emergency management department — data analysis, grant writing, unglamorous work. I sit in the department office with the air conditioning too cold and I stare at spreadsheets and I think about a point in space where, maybe, right now, something is pulsing in the water-hole band.
+
+Or not. Maybe I'm wrong. Maybe I've built this entire architecture on a foundation of false memory, and the signal never comes, and Chen writes me off as a creative fraud, and I'm just a kid with emergency management certificates and a decade of phantom memories that don't correspond to anything real.
+
+That thought should comfort me. If I'm wrong, nobody dies. If I'm wrong, the future I'm trying to prevent doesn't exist.
+
+It doesn't comfort me. Because I'm not wrong. I know I'm not wrong the same way I know my own name: with a certainty that lives below reason, in the body, in the bones.
+
+The signal is coming.
+
+---
+
+Tuesday, June 14th, 2011. 11:07 p.m.
+
+I'm in bed, not sleeping. Reading, or trying to — a paperback I've read three pages of without absorbing a word. Dave is asleep across the room, his breathing slow and even. The window is open and warm air drifts in carrying the smell of cut grass and distant barbecue.
+
+My phone rings.
+
+The caller ID says DR. CHEN. I've never given her my cell number for social calls. She has it because it's on my student file, which she can access because I'm enrolled in her course. She has never used it before.
+
+I answer before the second ring.
+
+"Hello?"
+
+"Nate." Her voice is — I don't know how to describe it. Controlled. Deliberately controlled, the way a person speaks when they're trying very hard not to sound the way they feel. "I need you to listen carefully."
+
+"I'm listening."
+
+"I found it."
+
+The room goes very still. Even Dave's breathing seems to pause, though that's impossible.
+
+"It's exactly where you said it would be," she continues. "Right ascension, declination, spectral profile — all within your parameters. I've verified it three times. It's not an artifact. It's not a known source. It's real."
+
+I'm sitting up now. The paperback has fallen to the floor. My hand holding the phone is steady, which surprises me, because my chest is doing something complicated.
+
+Silence on the line. Long enough that she might think the call dropped. Then:
+
+"Who are you?" she asks.
+
+Not *what is this.* Not *how did you know.* Who are you. Because she's a scientist and she's spent the last fourteen months watching the coordinates I gave her, and now the signal has arrived precisely as predicted, and the only unknown variable in her equation is me.
+
+I close my eyes. The warm night presses in. Somewhere outside, a car door slams. Dave shifts in his sleep.
+
+"Can we meet tomorrow?" I say. "In person. I'll tell you everything."
+
+Another silence. Then: "My office. Eight a.m."
+
+"I'll be there."
+
+She hangs up without saying goodbye. I sit in the dark with the phone in my hand and my heart hammering and the absolute bone-deep certainty that everything — everything — changes now.
+
+The long game is over. Whatever comes next is something else.

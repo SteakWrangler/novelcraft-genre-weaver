@@ -1,0 +1,263 @@
+The thing about waiting for the end of the world is that you still have to do your taxes.
+
+April 2018. I'm sitting in the NEORAN office in Cedar Rapids — the real one, not the glorified closet we started with — staring at a spreadsheet that Jenny Okafor has color-coded within an inch of its life. Green for funded. Yellow for pending. Red for "Nate, we talked about this." There's a lot of red.
+
+"The Appalachian corridor proposal," Jenny says, standing in my doorway with a coffee mug that reads WORLD'S MOST ADEQUATE BOSS, which she bought for herself. "EPA wants revisions by Friday."
+
+"What kind of revisions?"
+
+"The kind where they want us to stop implying their existing monitoring infrastructure is held together with duct tape and optimism."
+
+"But it is held together with duct tape and optimism."
+
+"Sure. But they don't want us to *imply* it."
+
+Jenny is thirty-four, built like a distance runner, and has the organizational instincts of someone who spent eight years managing logistics for Doctors Without Borders before deciding she wanted to sleep in her own bed more than twice a month. I hired her two years ago and she immediately restructured everything I'd built, which was the correct move because what I'd built was a mess. NEORAN has ten employees now. Three regional offices. Federal funding that requires actual accountability, which is where Jenny comes in, because my idea of accountability is a sticky note that says "fix later."
+
+"I'll soften the language," I tell her.
+
+"You'll remove the language. I'll write new language. You'll approve it."
+
+"That works too."
+
+She leaves. I go back to the spreadsheet. Green, yellow, red. The mundane machinery of trying to save a world that doesn't know it needs saving, one grant application at a time.
+
+My phone buzzes. Marcus.
+
+*Tux fitting Saturday. Don't be late. Priya says if you show up in jeans she will end you.*
+
+I type back: *Define "end."*
+
+*Her words: "I will make him wish he'd never been born." She's been watching mob movies.*
+
+*Tell Priya I'll be there in a tux. Tell her I'm honored. Tell her the best man speech is going to make everyone cry.*
+
+*That's what I'm afraid of.*
+
+I put the phone down. Marcus and Priya's wedding is in six weeks. I've written four drafts of the speech and thrown out all of them because every version keeps turning into something too honest. Something about how Marcus looked at me across a dorm room when we were eighteen and decided I was worth knowing, and how that single decision rewired the trajectory of my life. You can't say that at a wedding. It sounds like you're in love with the groom.
+
+The spreadsheet blurs. I rub my eyes.
+
+Here's what I haven't told Jenny, or Marcus, or Elena, or anyone: for three weeks, the astronomy feeds I monitor have been lighting up. Not the mainstream outlets — the raw data streams, the preprint servers, the forums where postdocs argue about orbital mechanics at two in the morning. Something is wrong at the edge of the solar system. Multiple somethings. Objects that showed up where objects shouldn't be, moving in ways that objects don't move.
+
+I've been waiting for this since 2015. Since I sealed a prediction in an envelope and watched Chen lock it in her office safe with an expression that said she was humoring a smart young man's eccentricities. Three years. Three years of watching the sky and pretending I wasn't watching the sky.
+
+The objects are here.
+
+And I have absolutely no idea what to do about it.
+
+---
+
+The astronomy community, to its credit, notices fast. The Pan-STARRS telescope in Hawaii flags them first — anomalous brightness signatures in a region of sky that should be empty. Within a week, the Subaru telescope confirms. Then the VLT in Chile. Then Keck. The objects are real, they're at roughly 900 AU, and there are at least six of them.
+
+The initial papers are cautious to the point of being boring. "Anomalous trans-Neptunian objects displaying atypical photometric signatures." Science-speak for *we found something weird and we don't want to get yelled at.* The speculation is restrained: rogue cometary bodies, maybe. Debris from a passing star's Oort cloud, interacting with ours. Someone at Caltech suggests they might be evidence of Planet Nine's gravitational shepherding, which gets picked up by the science press and becomes the dominant narrative because it's the least frightening one.
+
+But the data doesn't fit. I know it doesn't fit because I know what I'm looking at, but even without foreknowledge, the numbers are wrong. The objects are decelerating. Not in the way a comet decelerates as it sheds mass — uniformly, across all six objects, at a rate that implies thrust. Or friction against something that isn't there. The deceleration profiles match no known orbital model.
+
+I watch this unfold on my laptop in the evenings while Elena studies veterinary pharmacology at the kitchen table and Hazard sleeps on my feet and Gerald sits on Elena's textbook, because Gerald is a cat and therefore believes all flat surfaces exist for his comfort.
+
+"You're doing the thing," Elena says without looking up.
+
+"What thing?"
+
+"The thing where you read something on your laptop and your jaw goes tight and you don't blink for thirty seconds."
+
+"I blink."
+
+"Not when you're doing the thing." She looks up. Her hair is in a bun held together by two pencils and what I think might be a candy cane left over from Christmas. "Is it work stuff or secret stuff?"
+
+This is our shorthand. Four years in, Elena has mapped the territory of what I'll talk about and what I won't with the precision of a cartographer. She doesn't push. She never has. But the question has evolved — it used to be "Is everything okay?" Now it's this. An acknowledgment that the secret exists, a door left open, no pressure to walk through it.
+
+"Somewhere in between," I say.
+
+She holds my gaze for a moment. Then she nods and goes back to her textbook. Gerald shifts slightly to cover the page she's trying to read.
+
+"Gerald, you're an obstacle."
+
+Gerald purrs.
+
+I look at my laptop. The deceleration data from the Keck team's latest preprint. Six objects, slowing down in concert, like a formation adjusting speed. My hands are cold.
+
+In another timeline — the only other timeline — these objects arrived and nobody noticed until it was far too late. The Pathfinders, the astronomical community would eventually call them, though by then the community was mostly ashes. Scout probes. Advance survey units for something so vast it didn't have a human analogy. They mapped the biosphere, the magnetosphere, the atmospheric composition. They sent their data home. And then the main body arrived, and it was like watching someone assess a property before demolition.
+
+Eight years. I have eight years from now until the main body's arrival in 2026. Eight years because I came back, because I changed things, because NEORAN exists and Chen exists in my orbit and I have infrastructure where before there was nothing but a terrified twenty-year-old with a secret.
+
+Eight years is not enough. But it's what I have.
+
+---
+
+Chen calls at 2:07 AM on a Tuesday.
+
+I'm awake because I haven't been sleeping well, which Elena has noticed and not commented on, because Elena's love language is apparently strategic silence. I'm on the couch with my laptop and a mug of coffee that went cold an hour ago, reading a discussion thread on the Astronomy subreddit where amateurs are running their own orbital calculations and arriving at conclusions that the professional community is too cautious to publish.
+
+My phone lights up. CHEN.
+
+It's 2 AM and Chen is calling me.
+
+I know what this means before I answer. The knowledge lands in my chest like a stone dropped into still water.
+
+"Nate." Her voice is controlled. Precisely, deliberately controlled, the way it gets during conference panels when someone challenges her methodology and she has to be professional about it. But underneath the control, something is fracturing. I can hear it in the slight aspiration on the N of my name, a catch of breath she almost hid.
+
+"I'm here."
+
+"I opened the envelope."
+
+I close my eyes.
+
+"I've been following the preprints," she says. "The decelerating objects. I pulled the envelope out of the safe this evening. I — I wasn't going to. I told myself I'd wait until there was formal confirmation. But the Keck data came out and I — Nate, I couldn't wait."
+
+"I know."
+
+"You predicted this. Three years ago, you wrote down the approximate location, the approximate number, the deceleration characteristics. You even predicted the initial misidentification as trans-Neptunian objects." A pause. Her breathing. "I need you to come here."
+
+"Now?"
+
+"Right now."
+
+I look at the dark hallway leading to the bedroom where Elena is sleeping. Hazard has migrated to her side of the bed; I can hear his faint snoring. Gerald is somewhere in the house, probably committing small crimes.
+
+"I'll be there in forty minutes."
+
+---
+
+The drive from our apartment in Iowa City to Chen's office at the university takes thirty-seven minutes at 2 AM because there's no one else on the road and I drive too fast. Highway 218 is a dark corridor lined with fields that have just been planted, the turned earth invisible in the darkness but present in the smell that comes through the cracked window — loam and fertilizer and the green edge of early corn. Iowa in spring. The whole state smells like potential.
+
+My headlights cut a narrow channel through the dark. I pass a truck stop outside of North Liberty, its lights garish and lonely, and a semi pulling onto the highway with a rumble that shakes my car as I go by. The radio is off. I don't want noise. I want to think.
+
+What I'm thinking is: this is the moment where the theoretical becomes operational. For twenty years — my entire conscious life in this timeline — I've been carrying the knowledge of what's coming. I've built toward it. NEORAN, the relationship with Chen, the credibility I've accumulated piece by piece. But all of that was preparation. Abstract. The objects change everything because the objects are *evidence.* Physical, measurable, confirmable evidence that something is entering our solar system that shouldn't be there.
+
+And Chen has the prediction.
+
+I grip the steering wheel tighter. I think about the first time I sat in her office, nineteen years old, too smart for my own good, telling her I had information about cosmic threats and watching her face cycle through amusement and curiosity and something careful that I now recognize as her deciding whether I was brilliant or unstable. I think about the years since — the dinners at her house with Boltzmann purring on the couch, the mentorship that became partnership, the slow accumulation of trust. All of it leading to a sealed envelope in a safe and a phone call at 2 AM.
+
+The campus is deserted. I park in the physics building lot and my car is the only one besides Chen's Subaru. The building is dark except for her office on the third floor, a single lit window.
+
+My footsteps echo in the empty stairwell. The fluorescent lights have that middle-of-the-night quality — too bright, slightly buzzing, turning everything the color of old paper.
+
+Her door is open.
+
+Chen is at her desk. She's wearing a cardigan over what I think are pajamas, and her reading glasses are on, and her hair is down, which I've seen maybe three times in twenty years. On her desk: the envelope, torn open. My handwritten prediction, three pages, unfolded. Next to it, a printout of the Keck preprint, key data points highlighted in yellow. And a glass of whiskey that's mostly empty.
+
+She looks up at me and her eyes are red.
+
+"Sit down," she says.
+
+I sit in the chair across from her desk. The same chair I sat in when I was nineteen. The same office, mostly — she's rearranged the bookshelves and replaced the old poster of the Crab Nebula with a newer image from JWST. Boltzmann, who is ancient now and mostly blind, is curled on the armchair in the corner, sleeping through what might be the most important conversation in human history.
+
+Chen pushes my prediction across the desk. I look at my own handwriting from three years ago. *Multiple objects, 6-10 in number, detected at approximately 800-1000 AU. Non-natural deceleration profiles. Initial classification as unusual TNOs, later revised. Detection window: 2017-2019.*
+
+Then she pushes the Keck preprint next to it. Six objects. 900 AU. Deceleration profiles inconsistent with natural orbital mechanics. Initial classification as anomalous TNOs.
+
+The two documents sit side by side. My prediction and reality, matching like a key and its lock.
+
+"Tell me," Chen says. "Tell me everything."
+
+I've prepared for this. I've rehearsed versions of this conversation for years, refining what to share and what to hold back, calculating the optimal amount of truth. But sitting here in her office at 2:40 in the morning with the proof on her desk and the fear in her eyes, the calculations feel thin. Inadequate.
+
+"The objects are precursors," I say. "Advance survey units. They'll spend approximately two years mapping our solar system — magnetosphere, atmospheric composition, biosphere signatures. They'll transmit data to a larger formation that's following behind."
+
+"A larger formation."
+
+"An arrival. Something — a civilization, a process, I don't know exactly what to call it — that moves through systems and strips biospheres. Not aggressively. Not with malice. The way you'd clear a construction site. Indifferent."
+
+Chen takes off her glasses and sets them on the desk. Without them she looks older, more exposed. The lamplight finds the gray at her temples that wasn't there when I met her.
+
+"How," she says. Her voice is flat and precise. "How do you know this."
+
+This is the edge. The border between what I've shared and what I've guarded. For twenty years, I've given people fragments — foreknowledge, accurate predictions, the implication of some extraordinary source. But the source itself. The mechanism. I've never spoken it.
+
+"I was there," I say. "I saw it happen."
+
+She stares at me.
+
+"The arrival. The stripping. The end. I was there for it. I experienced it." I feel the words in my throat like something physical, something being extracted. "I can't explain the mechanism. I don't understand it myself. But I lived through what happens when those objects complete their survey and the main body arrives. And then I was here. Before. With everything I'd seen."
+
+The silence in the office is absolute. Even Boltzmann has stopped his geriatric wheezing. I can hear the fluorescent lights. I can hear my own pulse.
+
+"That's not possible," Chen says.
+
+"No."
+
+"You're describing — that's not — the physics alone—"
+
+"I know."
+
+She picks up her glasses. Puts them back on. Takes them off again. Sets them in a different spot. This is Chen processing, Chen's hands doing the thinking her conscious mind hasn't caught up with yet.
+
+"The Virginia earthquake," she says. "The GM prediction. Deepwater Horizon. The 2011 signal. All of it — you'd already *seen* it."
+
+"Yes."
+
+"And you were — what, a child? When you claim this happened?"
+
+"Seven. I was seven."
+
+She presses her fingers against her eyes. When she drops her hands, her expression has changed. The fear is still there, but something else has arrived alongside it — a recognition that the framework she's been building around me for twenty years, the *gifted student with unusual sources* framework, is gone. Replaced by something she has no framework for at all.
+
+"This is either the most important event in human history," she says, "or the most elaborate fraud ever constructed. And I—" She picks up my prediction, looks at it, sets it down. "I don't think it's fraud."
+
+"It's not."
+
+"No. I know it's not. The sealed envelope is unfakeable. I watched you write it, I locked it in the safe myself, I'm the only person with the combination. Whatever you are, Nate, however you know what you know — the prediction is real. Which means the objects are what you say they are."
+
+She pours more whiskey. Doesn't offer me any. Takes a long drink.
+
+"When?" she asks.
+
+"Twenty-twenty-six. Give or take."
+
+"Give or take. Give or take." She almost laughs. "You're telling me the world ends in eight years and you're saying *give or take.*"
+
+"It's not the end. Not if we do this right."
+
+"Do *what* right? Nate, if you're correct — if those objects are precursors to a civilization or a process or whatever the hell you're describing — what exactly do you think NEORAN is going to do about it? We're ten people with federal grants monitoring weather anomalies. That's not — we can't—"
+
+"Not yet. But we can scale. We have eight years and we have proof that's going to become undeniable. Those objects are going to keep decelerating. Within a year, maybe two, the astronomy community is going to run out of natural explanations. When that happens, we need to be positioned."
+
+"Positioned for what?"
+
+"To lead the response."
+
+She stares at me like I've suggested we fly to the sun. Which, fair. Two years ago, we were celebrating because we got a regional EPA contract. Now I'm proposing we lead humanity's response to an alien arrival. The gap between those two things is the kind of distance you measure in delusion.
+
+But I've had twenty years to think about this, and I know one thing with absolute certainty: governments will be too slow. They'll spend years on classification and debate and interagency jurisdiction and political calculation. The response needs to start before the official channels catch up. It needs to start with people who already know, who are already organized, who already have credibility.
+
+It needs to start in this office, tonight.
+
+---
+
+We talk until dawn.
+
+Chen's first instinct, because she is a scientist before she is anything else, is to publish. The detection data is public. Her prediction verification is private but documentable. She can write a paper proposing that the objects merit dedicated observation resources — a careful, professional paper that stops short of saying *alien* but makes the deceleration profiles impossible to ignore.
+
+"It'll cost me," she says. She's on her third whiskey and her voice has loosened, the professional control giving way to something rawer. "The UFO crank label. I've spent my entire career avoiding it."
+
+"You've also spent your entire career building credibility for exactly this moment."
+
+"That's a nice speech, Nate. It doesn't change the fact that tenured professors who publish papers about anomalous decelerating objects get put in the same category as people who see lights over cornfields."
+
+"You're not claiming aliens. You're claiming the data warrants investigation. That's just doing science."
+
+"In theory. In practice, I know how this works. I've seen colleagues get marginalized for less." She stares at the Keck preprint. "But the data's the data. If I don't publish, someone will. Probably someone less careful."
+
+"So publish."
+
+She nods. Slowly. The nod of someone stepping off a ledge and accepting gravity.
+
+We divide the work. NEORAN needs to expand — more staff, more infrastructure, new partnerships with institutions that will be relevant when the truth becomes undeniable. I need to start building relationships with people in aerospace, in planetary defense, in emergency management. Chen needs academic allies — other astronomers who are looking at the same data and reaching the same uncomfortable conclusions. She knows some. She can reach out quietly.
+
+"This can't be provisional anymore," I say. "We've been treating this like a maybe. Like a contingency. It's not. The objects are here."
+
+"I'm aware," she says, in a tone that communicates quite clearly that she doesn't need me to explain the severity of the situation she's been drinking whiskey about for the past three hours.
+
+Boltzmann wakes up as the sky outside Chen's window begins to lighten. He stretches with the dramatic slowness of an elderly cat who has seen things and been unimpressed by all of them, then jumps down from the armchair and walks over to Chen. She picks him up without looking, settles him in her lap, scratches behind his ears. He purrs. Outside, the sky shifts from black to the deep blue that comes before sunrise, and I can see the campus beginning to emerge from the darkness — the old brick buildings, the bare-branched trees just starting to bud, the spire of the Old Capitol catching the first suggestion of light.
+
+Chen looks out the window. The sky above campus is clear, depthless, the last few stars still visible near the horizon.
+
+"Eight years," she says. "That's what you're telling me. Eight years until the end of the world."
+
+"Seven and change."
+
+She sits with that. Boltzmann purrs in her lap, oblivious and content. The sky continues to lighten, and I watch Chen's face as she absorbs the weight of what she now knows — what she can't unknow — and I see the exact moment she stops being afraid and starts being resolved. It's not dramatic. There's no clenching of the jaw or straightening of the spine. It's quieter than that. It's the fear leaving her eyes, replaced by something steady and clear and very, very stubborn.
+
+"Then we'd better get to work," she says.

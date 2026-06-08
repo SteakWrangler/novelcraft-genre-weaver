@@ -1,0 +1,337 @@
+Chapter Seven: The Scientist and the Prophet
+
+My roommate's name is Todd and he's from Dubuque and he has a poster of a woman in a bikini draped across the hood of a Camaro and he thinks I'm pre-law.
+
+"You've got that vibe," he tells me, three days into fall semester. He's arranging his desk with the care of a man who will never use it. "Like, intense. Organized. You've got a whole system."
+
+He's pointing at my bookshelf. Pine, hand-sanded, slightly leaning to the left. My father built it with me over the summer and it followed me here in the back of his truck along with two garbage bags of clothes and a box of books that made him raise an eyebrow. *Atmospheric Chemistry and Physics*. *Fundamentals of Emergency Management*. *The Selfish Gene*. A pocket guide to edible plants of the upper Midwest that I'd found at a garage sale and couldn't explain even to myself.
+
+"Pre-law guys always have a system," Todd says.
+
+"I'm emergency management," I say.
+
+"Right." He nods like I've confirmed his theory. "So, like, FEMA?"
+
+"Something like that."
+
+"Cool, cool." Todd turns back to his Camaro poster, adjusting the angle with a level of precision I wish he'd apply to his hygiene. He will spend the semester playing *Call of Duty* until three in the morning while I lie in the dark with my eyes open doing math I can't show anyone. We will coexist the way a monk coexists with a golden retriever—mutual bafflement, occasional shared meals, no genuine conflict.
+
+The point is, I'm at college now. I'm eighteen. And every single person around me is eighteen in the way that eighteen is supposed to be—terrified and electric and convinced that the world is a door about to open. They're picking majors like lottery numbers. They're falling in love in the dining hall over trays of institutional pasta. They're becoming themselves for the first time.
+
+I became myself already. Twelve years ago, or twenty minutes ago, depending on how you count.
+
+---
+
+The University of Northern Iowa is not where you go when you want to study astrophysics. It's where you go when you want to study education, or business, or how to coach high school wrestling. The physics department occupies the third floor of a building that smells like chalk dust and resignation, and most of the faculty have made peace with teaching survey courses to students who need the credits.
+
+But there's a lecture series. Thursdays at four, in a basement seminar room in McCollum Science Hall. "Advanced Topics in Observational Astrophysics." No credit offered. No attendance taken. I find it in the back of the course catalog like a message in a bottle.
+
+October 8th, 2009. The topic is "Anomalous Signal Detection in the Microwave Background." The room holds forty. Twelve people show up, and three of them are clearly lost. One guy has a campus map unfolded across his lap.
+
+I take a seat in the back row and wait.
+
+She comes in four minutes late carrying a travel mug, a laptop trailing its charger cord like a tail, and a stack of papers held together with—I'm not making this up—a large binder clip that is also, somehow, holding her hair in a bun. She's five-one. She's wearing a corduroy blazer that has seen better decades over a Ramones t-shirt, and her Converse sneakers have a stripe of duct tape across the left toe. Her glasses are thick-framed and smudged in a way that suggests she sees the world through a permanent soft filter and has chosen not to care.
+
+Dr. Judith Chen sets her things down on the podium, takes a sip from her travel mug, and squints at us like she's counting.
+
+"Twelve," she says. "That's actually up from last month. Either I'm getting better or the vending machine in the lobby finally broke and you're all trapped." She pauses. "It broke, didn't it."
+
+Nobody answers. She doesn't seem to need us to.
+
+"Right. Anomalous signals." She opens her laptop. A slide appears on the projection screen—dense, beautiful, meaningless to anyone who hasn't spent the summer reading everything this woman has ever published. Which I have. "Let's talk about how the universe whispers and why we keep mistaking it for noise."
+
+For the next fifty minutes I don't move. I barely breathe. I have read her papers—the published ones, the conference proceedings, the one co-authored working paper that got posted to an MIT server and then quietly taken down. I've read them the way a detective reads case files: looking for what's there, but also for the gaps. The places where she stops just short of saying what she's actually thinking.
+
+And here she is. Not the careful, hedged version of herself that appears in journals. The real one. She talks with her hands. She draws diagrams in the air that somehow make more sense than the ones on the screen. She starts sentences with "Technically" and then abandons technical language entirely in favor of analogies that shouldn't work but do. "Think of the cosmic microwave background like a photograph of the universe when it was three hundred eighty thousand years old," she says. "Except the photograph is also a song. And someone might have left a voicemail on top of it."
+
+Two of the lost students leave. The guy with the campus map stays. I think he's fallen asleep.
+
+When she gets to spectral analysis of anomalous signals in the microwave background, she pulls up a frequency chart and I see it—the gap. The range she doesn't mention. The one I know she's been investigating privately because the math in her published papers doesn't make sense unless she's also looking at something in the 90 to 115 gigahertz window that she hasn't told anyone about.
+
+She wraps up. The remaining audience shuffles toward the door. I sit in the back row with my notebook open to a page of questions I've been refining for three months, ever since Gail at the Cedar Falls Public Library helped me request her early papers through interlibrary loan.
+
+The script in my notebook says: *Start with the published work. Ask about methodology. Let her talk. Don't be weird. Don't be weird. Don't be weird.*
+
+I walk down to the podium where she's unplugging her laptop.
+
+"Dr. Chen?"
+
+She glances up. The look she gives me is the one every professor gives an approaching student at the end of a lecture—half patience, half preemptive exhaustion.
+
+"If you're looking for Intro to Astronomy, that's Tuesdays and Thursdays in—"
+
+"I'm not. I wanted to ask about the spectral analysis framework you presented. Specifically about the filtering protocols for the 90 to 115 gigahertz range."
+
+She stops unplugging her laptop. Her hands go still, which I will learn is the equivalent of another person's jaw dropping. Judith Chen's body is always in motion—hands, eyes, the slight rocking from one sneaker to the other—except when something has her full attention. Then she goes absolutely still, like a hawk that's just spotted movement in the grass.
+
+"What about it," she says. Not a question. A door opening one inch.
+
+"Your filtering protocols in the published methodology would strip a legitimate anomalous signal in that range. You'd lose it in the noise reduction. Unless you're running a parallel analysis with different parameters." I swallow. My script is already on fire. "Which you'd only do if you had a reason to think something was there."
+
+The stillness holds for three seconds. Four. She pushes her glasses up her nose with one finger, smudging them further.
+
+"Where did you read about that?"
+
+"I didn't read about it. I thought about it."
+
+She stares at me. I am eighteen years old in a UNI hoodie and jeans and I am telling a physicist with a PhD from Caltech that I reverse-engineered her private research from the gaps in her public work, and she has every reason to dismiss me as a crank or a plagiarist or just a very strange freshman.
+
+"What's your name?" she says.
+
+"Nate Callahan."
+
+"What's your major, Callahan?"
+
+"Emergency management."
+
+She blinks. Something that might be amusement crosses her face, but she kills it before it arrives.
+
+"Come to my office hours," she says. "Wednesdays. Two to four. Bring that notebook."
+
+---
+
+Her office is on the third floor of McCollum, at the end of a hallway that narrows like it's trying to discourage visitors. The door has a Far Side cartoon taped to it—the one with the kid pushing on the door of the Midvale School for the Gifted—and a handwritten index card that says CHEN / OFFICE HOURS WED 2-4 / ALSO BY APPT / ALSO BY AMBUSH IF YOUR QUESTION IS GOOD ENOUGH.
+
+The office itself is small and catastrophic. Papers on every surface. Three whiteboards, all full. A desk somewhere under the geology of accumulated work. And on the one clear chair—the one obviously reserved for visitors—an enormously fat orange tabby cat who looks at me when I walk in with the expression of a bouncer who's already decided I'm not getting past the rope.
+
+"That's Boltzmann," Chen says from behind a monitor. "He doesn't move. Don't take it personally. He doesn't move for anyone. I'm eighty percent sure he's alive. Sit wherever you can find purchase."
+
+I move Boltzmann gently to one side. He permits this the way a continent permits tectonic drift—slowly, with deep structural resistance. I sit. He resettles himself across my lap with a sigh that seems to come from his entire body.
+
+"He likes you," Chen says, not looking up. "He usually bites."
+
+"Should I be flattered?"
+
+"You should be wary. He bites the people he likes too, just later." She finally looks at me over her glasses. "So. Callahan. Tell me about the 90 to 115 range."
+
+This is a test. I understand that. What I don't understand yet—but will learn over the following months—is that everything with Chen is a test. Not in the adversarial sense. In the diagnostic sense. She's always measuring, always calibrating. She wants to know what you know, but more importantly, she wants to know the shape of what you don't know, because the shape of someone's ignorance tells you more than the shape of their knowledge.
+
+I tell her what I've worked out. The filtering protocols. The math that doesn't balance unless there's an unacknowledged variable. The frequency range where, if you're looking, there might be something worth finding.
+
+She listens without interrupting, which I'll learn is rare. When I finish, she picks up a stick of celery from a Tupperware container on her desk—peanut butter, already applied—and takes a bite.
+
+"Some of that's right," she says. "Some of it's wrong in interesting ways. And one piece of it is something I haven't told anyone outside of two people at MIT and a woman at JPL who owes me a favor." She chews. "Where did you say you were from?"
+
+"Cedar Falls."
+
+"And you're studying emergency management."
+
+"Yes."
+
+"And you figured this out at—"
+
+"The public library. Mostly."
+
+She sets down the celery. Picks up a mandarin orange. Begins peeling it with surgical precision, the rind coming off in one continuous spiral.
+
+"Technically," she says, "what you've just described is either very sophisticated guesswork or something I need to take seriously. I haven't decided which. Come back next Wednesday."
+
+---
+
+I come back next Wednesday. And the Wednesday after that. And every Wednesday for the rest of the semester and into the spring.
+
+Here's what I learn about Judith Chen:
+
+She eats the same lunch every day. Peanut butter on celery, black coffee from a thermos she refills from a pot that I'm pretty sure has been brewing since the Clinton administration, and one mandarin orange, peeled in a single strip. If the strip breaks, she is quietly irritated for the rest of the afternoon.
+
+She keeps a spreadsheet on her laptop, visible once when she tilted the screen to show me a data set, that is titled SUNSET_RANKINGS.xlsx. It has columns for date, location, cloud coverage, color spectrum, and an overall score on a ten-point scale. There are over six hundred entries.
+
+She does not do small talk. The first time I try—"How was your weekend?"—she looks at me like I've asked her to explain the concept of weekends from first principles. "Callahan. I have forty-five minutes before a department meeting that will leach the will to live from my bones. Do you want to talk about your weekend or do you want to talk about signal attenuation?"
+
+She calls every student by last name. I never hear her use a first name. I'm not sure she knows first names exist.
+
+She speaks in paragraphs. Dense, self-correcting, full of parenthetical detours that somehow arrive back at the original point with more precision than the direct route would have offered. She starts sentences with "Actually" and "No, but—" and "The thing people miss is—" She once described a gravitational lens as "like if your grandmother's reading glasses worked on spacetime" and then got annoyed when I laughed because she wasn't joking.
+
+She doesn't laugh often. When she does, it's a sudden surprised bark, like she's been ambushed by the humor and hasn't had time to prepare a more dignified response.
+
+She was denied a major grant at thirty-nine. I learn this not because she tells me but because I find the rejection letter pinned to her corkboard under a Far Side cartoon. The letter is polite in the way that professional devastation always is. She caught me looking at it once and said, "That's my North Star, Callahan. Every time I think about quitting, I read that letter and it makes me so angry I do another year out of spite."
+
+She is, in the way that matters most, alone. Not lonely—I don't think she has the capacity for loneliness, or maybe she just doesn't have the time. But alone in the way that people are when the thing they care about most is something no one else can see yet. She's spent twenty years listening to a frequency that the rest of the scientific community considers background noise, and she is right, and no one knows it, and she keeps showing up anyway.
+
+I recognize the condition. I just can't tell her why.
+
+---
+
+The weeks compress. October becomes December becomes February. Cedar Falls freezes solid and stays that way, the campus becoming a wind tunnel of black ice and students in North Face jackets moving between buildings with the grim determination of arctic explorers. I go home for Thanksgiving and Christmas and sit at the table with my family and practice being the person they think I am.
+
+Frank asks about my classes. I tell him about the ones that don't matter. Diane asks if I'm eating well. I lie with the conviction of a man who has been eating dining hall chicken patties for three months. Sophie watches me from across the table with those cataloging eyes and says nothing, which is worse.
+
+Marcus calls from Ames on a Tuesday night in January.
+
+"You're doing something," he says. No preamble. Marcus has never needed a preamble.
+
+"I'm studying."
+
+"Yeah, I know you're studying. You're also doing something else. You've got that tone."
+
+"What tone."
+
+"The one where you're about to do something stupid and you've already decided it's smart."
+
+He's not wrong. He's almost never wrong about me, which is one of the things that makes Marcus both essential and terrifying.
+
+"I'm just taking classes, man. Making friends. Having the college experience."
+
+"You don't have friends. You have a roommate who thinks you're pre-law and a physics professor you visit every week even though you're an emergency management major. Don't look surprised—your mom told my mom."
+
+"That's not—she's helping me with—"
+
+"You're not going to finish that sentence, are you."
+
+"Probably not."
+
+Silence. Then: "Three for three, Nate."
+
+The predictions. He's still counting. Virginia and Indiana going blue. GM filing for bankruptcy. I'd almost forgotten he was keeping score, which was stupid, because Marcus never stops keeping score.
+
+"That doesn't mean anything," I say.
+
+"Maybe not. But if you hit a fourth one, I'm driving to Cedar Falls and you're going to sit in a room with me until you explain how a kid from Iowa who got C's in geography can predict national events."
+
+"I got a B minus in geography."
+
+"Goodnight, Nate."
+
+He hangs up. I sit on my dorm bed with the phone in my hand and Boltzmann's fur on my jeans—the cat has started shedding on me with such consistency that I suspect it's intentional—and I think about what it means to be known by someone who doesn't know anything.
+
+---
+
+March. The semester tilting toward spring. The ice retreating from campus in stages, like an occupying army that's lost its supply lines. I've been going to Chen's office for five months. She's tested me. Probed the edges of what I know. Asked questions designed to trip up someone who's memorized answers without understanding them, and I've passed because I do understand—not because I'm a genius but because I've had the benefit of knowing which questions to ask.
+
+But there's a limit to how long I can do this. Every week I sit in her office, every week Boltzmann sprawls across my lap like a fur-covered sandbag, every week she and I talk about anomalous signals and spectral analysis and the cosmic microwave background, and every week I get a little closer to the edge of what I can explain without explaining everything. The knowledge I have doesn't come from libraries. It comes from a future that hasn't happened yet, where a woman named Judith Chen detected something that changed everything, and I can't tell her that, so I've been feeding her conclusions disguised as questions, and she's too smart not to notice the shape of what I'm doing.
+
+She notices on a Wednesday in March. We're looking at a data set on her second whiteboard—the one she's started calling "ours"—and I make a comment about signal periodicity that I shouldn't be able to make. Not from the data in front of us. Not from anything published. Only from knowing what the signal will eventually look like when it's found.
+
+She puts down her dry-erase marker. She turns to face me. Boltzmann, sensing a change in atmospheric pressure, opens one eye.
+
+"Callahan."
+
+"Yeah."
+
+"I've been very patient."
+
+"I know."
+
+"I've been patient because you're smart and because you ask good questions and because, frankly, I don't get a lot of people in this office who can follow me past the second whiteboard." She crosses her arms. The corduroy blazer bunches at her shoulders. Today's shirt is The Clash. "But you don't ask questions like a student. You ask questions like someone who already knows the answers and is trying to lead me to them without me noticing."
+
+"I—"
+
+"I noticed."
+
+I look at my hands. Boltzmann has gone back to sleep.
+
+"So here's what I need from you," she says. "Either you tell me where this is actually coming from, or these office hours end. I don't have the career capital to waste time on someone who might be running a very sophisticated prank."
+
+This is the moment. I've been preparing for it since September. Since before September—since the library, since Gail helped me track down Chen's early papers, since I sat at a carrel with a spiral notebook and mapped out exactly how this conversation would go.
+
+It's not going the way I mapped it. It never does.
+
+"It's not a prank," I say.
+
+"Then what is it?"
+
+I take a breath. In my notebook, the script says: *Provide a specific, verifiable prediction. Make it narrow enough that luck can't explain it. Make it far enough in the future that you have time to prepare for the consequences. Don't tell her more than she needs. Don't tell her less than she deserves.*
+
+"Within eighteen months," I say. "An anomalous signal will be detected in the microwave background. It won't match any known source. It won't be instrument error. It will be in a frequency range that almost no one is monitoring because the consensus says there's nothing there."
+
+Chen doesn't move. Her hands are still.
+
+"I can give you the coordinates," I say.
+
+"You can give me the coordinates."
+
+"Right ascension and declination. The exact patch of sky."
+
+The office is very quiet. The building's heating system clicks and sighs. Somewhere down the hall, a door closes.
+
+"Callahan," she says carefully. "Do you understand what you're telling me?"
+
+"Yes."
+
+"You're telling me that you know—with some degree of certainty—where and when an unprecedented astronomical signal will appear."
+
+"Yes."
+
+"And you're an eighteen-year-old emergency management major from Cedar Falls, Iowa."
+
+"Also yes."
+
+She takes off her glasses. Rubs her eyes with thumb and forefinger. Puts the glasses back on. They're smudgier than before.
+
+"I think," she says slowly, "that you're either experiencing a psychotic break, in which case I have a responsibility to connect you with student health services, or you're telling me something important, in which case I have a responsibility to listen. I'm not able to determine which."
+
+"I know."
+
+"That's not reassuring."
+
+"I know that too."
+
+She goes to her desk. Opens a drawer. Takes out a fresh yellow legal pad—the only pristine object in the entire office—and uncaps a pen.
+
+"Give me the coordinates."
+
+I give them to her. She writes them down in small, precise handwriting. She writes the date range. She writes the frequency range. She caps the pen and looks at what she's written.
+
+"If this signal appears," she says, "where you say it will, when you say it will, I'm going to need a real explanation. Not the version you've been giving me. The real one."
+
+"If it appears," I say, "you'll get one."
+
+She studies me for a long moment. I don't know what she sees. An eighteen-year-old kid. A con artist. A lunatic. A person who is telling the truth about something impossible. Some days I don't know which of those I am either.
+
+"Wednesday," she says. "Two o'clock. Bring the notebook."
+
+"Okay."
+
+"And Callahan?"
+
+"Yeah?"
+
+"If you're wasting my time, I will make your academic career a footnote in the history of regret."
+
+"Understood."
+
+"Good. Boltzmann, get off his lap. He's leaving."
+
+Boltzmann does not move. I extract myself from under him like a man escaping a soft, purring landslide, and I walk out of her office into the hallway that smells like chalk dust and old radiators, and my hands are shaking and my mouth is dry and I've just bet everything on a woman I've known for five months.
+
+Not everything. Not yet. But the first real piece of it. The first time I've given someone a thread they could pull. If she pulls it the wrong way—reports me, tells the department, decides I'm unstable—the whole strategy falls apart. Two years of careful, invisible preparation, gone.
+
+But the strategy doesn't work without her. That's the thing I realized at the library over the summer, reading her papers for the fourth and fifth time. The signal is coming whether I tell anyone or not. The question is whether anyone is listening in the right place when it arrives. And the only person brilliant enough and stubborn enough and ignored enough to be looking where no one else is looking—the only person already tuned to the right frequency—is a five-foot-one physicist in duct-taped sneakers who ranks sunsets on a spreadsheet.
+
+You don't save the world with a plan. You save it with people. And you can't get the people without the risk.
+
+Anyway.
+
+---
+
+Back in my dorm. Todd is at a party. The room is quiet except for the radiator, which makes a sound like a small animal trapped in the wall. My books are on the shelf my father built—the slight leftward lean is worse now, or I'm imagining it, or I've been staring at it too long.
+
+I open my journal. Not the spiral notebook with the script—the other one. The one I don't show anyone. The one where I try to say what I actually mean instead of what's useful.
+
+I write the date. I write Chen's name, and the coordinates I gave her, and the way her hands went still.
+
+Then I write this:
+
+*Here's the problem. The man who can see what's coming has to use people. Has to manipulate timelines, position assets, exploit foreknowledge. Has to be calculating and strategic and willing to treat human beings as pieces on a board, including the ones he loves, because the stakes are literally everything.*
+
+*And the man who deserves to survive what's coming—the man who would be worth saving—wouldn't do any of that. Would be honest. Would be present. Would be the son Frank and Diane actually raised instead of the one who's performing the role while running a secret operation out of a physics professor's office.*
+
+*The man who can save the world and the man who deserves to be saved cannot be the same person.*
+
+*I have to be both.*
+
+I stare at the page. The radiator clicks. Outside, someone crosses the quad, laughing at something I can't hear.
+
+*Anyway. The point is—*
+
+The pen hovers. I can feel the sentence sitting there, just past the edge of what I know how to say. The thing that connects the two halves. The answer to a question I've been asking since I woke up seventeen years old in a bed that wasn't mine with a future that isn't mine and a past that no one else remembers.
+
+I don't write it. I don't know it yet.
+
+I close the journal. I put it on the shelf between *Atmospheric Chemistry* and the pocket guide to edible plants. I turn off the desk lamp. I lie down in the dark and listen to the building settle around me—the radiator, the pipes, the footsteps of eighteen-year-olds living lives that make sense—and I wait for the thing I can't name to become the thing I can.
+
+Outside, spring is coming. You can't see it yet but it's there, the way a signal is there before anyone detects it—present in the data, hidden by noise, waiting for someone stubborn enough to look in the right place at the right time and believe what they find.
+
+Eighteen months.
+
+The countdown is running.

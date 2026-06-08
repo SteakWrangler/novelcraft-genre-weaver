@@ -1,0 +1,159 @@
+The gymnasium smells like sweat and canned soup and something else I can't name. Something that might be hope but is probably just the industrial cleaner Marcus found under the janitor's sink on day two.
+
+Three days. That's how long it's been since the sky turned gray and stayed that way. Seventy-two hours since the Kessari harvesting platforms descended through the cloud cover and settled on the horizon like mountains that hadn't been there before. They don't move. They don't make sound. They just sit there, vast and patient, doing whatever it is they do to the soil and the air and the things that grow from both. The grass on the football field outside is brown. The oaks along Maple Street are dropping leaves in June. Mrs. Peretti's garden — the one she spent forty years tending, the one with the roses she talked about like they were her grandchildren — is gone.
+
+But Mrs. Peretti is here. Sleeping on a cot near the south wall with a fleece blanket pulled to her chin. Breathing.
+
+I haven't slept. Not really. Two hours here, ninety minutes there, the kind of sleep that's more like your body shutting down than resting. Every time I close my eyes, I run the numbers. Supply calculations. Water ratification schedules. Generator fuel consumption. The math hasn't changed since yesterday, but my brain keeps doing it anyway, like a dog circling before it lies down.
+
+I'm walking the gymnasium floor at 6 A.M. because that's what I do now. That's what I've been doing since before the invasion, if I'm being honest. Walking through rooms full of people, checking the architecture of the thing I built, looking for cracks.
+
+The light through the high windows is the color of old dishwater. It's been that color since June 14. No sunrise, no sunset, just a slow brightening and dimming behind the gray. The weatherman — Dave Tucker, Channel 9, who's sleeping in the equipment closet because he said it reminded him of his first apartment — told me on day one that whatever the Kessari are doing to the atmosphere is scattering light across the full spectrum. I told him I didn't need to understand why the sky was gray. I just needed to know how much vitamin D we had in the supply closet.
+
+Fourteen bottles. Enough for three months if we ration.
+
+I'm rationing everything now.
+
+---
+
+The shelter runs on its own rhythms. People wake in shifts because we set it up that way — staggered sleep cycles, something Chen suggested based on submarine crew management protocols. Submariners. That's what we are now. Living in a sealed environment, watching our oxygen and our food and our sanity, waiting to surface into a world that might not want us anymore.
+
+The early risers are moving through the gymnasium. Janet Liu is folding blankets with a precision that borders on compulsive. Two of her kids are still asleep on the mats behind the bleachers. The third — Michael, the oldest, the one who used to throw rocks at my mailbox — is carrying water jugs from the storage room. He doesn't throw rocks anymore. Hasn't since the day his mother showed up at my door during the planning phase and asked what she could do. I gave her a binder. She gave me her family.
+
+That's how it worked. That's how all of it worked.
+
+---
+
+Elena is in the northeast corner. We designated it the medical station on day one, and she claimed it with the territorial efficiency of someone who has spent twenty years in emergency rooms. She's got three folding tables arranged in an L-shape, supplies organized in clear bins she labeled with a Sharpie in handwriting only she can read. Gauze. Antiseptic. Ibuprofen. The amoxicillin we stockpiled. Blood pressure cuffs hanging from hooks she screwed into the wall herself.
+
+She's checking Roger Whitfield's blood sugar when I walk up. Roger is sixty-eight and diabetic and should be dead within a year if the insulin supply chain doesn't reconstitute itself, and both Elena and I know this, and neither of us has said it out loud. She finishes the reading, writes it on the chart she's keeping in a spiral notebook, and pats Roger's arm.
+
+"Looking good, Rog. Stay off the canned peaches."
+
+Roger shuffles away. Elena looks up at me.
+
+She doesn't say anything. She touches my hand — her fingers against my knuckles, a pressure so brief it barely registers — and goes back to organizing the bins. Rotating stock. Checking expiration dates.
+
+Her hand was warm. That's what I hold onto. In a gymnasium full of people I spent eighteen years preparing to save, Elena's hand was warm and she touched me with it and then she went back to work. That's us. That's always been us. The thing we have exists in the spaces between crises. Moments stolen from triage. I used to want more. I used to think we deserved more. Now I think this might be the only honest version of love available to people like us — the kind that lives in a two-second touch and doesn't ask for anything back.
+
+---
+
+I find Marcus on the west side, running his hands along the cinder block wall the way a doctor palpates a patient's abdomen. He's been doing this twice a day since we opened the shelter. Checking for cracks. Monitoring the structural integrity of a building that was designed to host basketball games and is now holding two hundred and thirty-one human lives.
+
+"Structure's sound," he says without turning around. He heard my footsteps. Marcus always knows who's approaching by the sound of their walk. He told me once it was a habit from construction sites — you learn to identify people by their gait because you can't always see them behind the scaffolding. I think it's something deeper than that. I think Marcus pays a quality of attention to the physical world that most people reserve for other humans.
+
+He turns. Looks at me. His face is the same face it's always been: weathered, serious, built for function rather than expression.
+
+"We can hold here."
+
+I wait. There's more.
+
+He holds my gaze for a beat longer than Marcus ever holds anyone's gaze. "Good work."
+
+From anyone else it would be nothing. From Marcus Reed, the man who once told me that praise was a tool used by people who hadn't earned respect, it is a hand reaching across years of silence and gripping mine.
+
+I nod because that's the language we share, Marcus and I. Economy.
+
+---
+
+The satellite phone crackles from the communications table near the stage. Sophie set it up there because the stage has the highest elevation in the gymnasium and she said signal strength matters even with satellite frequencies, though I suspect the real reason is that Sophie has always liked stages. She spent four years refusing to speak to adults and then grew into the kind of person who naturally gravitates toward the front of any room.
+
+Chen's voice comes through the static. He's in Madison, at the University of Wisconsin node, the one he helped establish through NEORAN's academic outreach last year. He sounds tired. Everyone sounds tired.
+
+"Eleven nodes confirmed active," he says. "Des Moines, Minneapolis, Champaign, Columbia. Kansas City came online last night. I'm still trying to reach Omaha, but their primary operator went dark on day one."
+
+I lean into the handset. "What's the total headcount?"
+
+A pause. The clicking of keys. Chen does everything with data; it's his native tongue the way silence is Frank's. "Across all confirmed nodes, approximately four thousand, six hundred sheltered. Give or take."
+
+Four thousand six hundred people alive and organized across the Midwest because a network of amateurs decided to take an alien invasion seriously before anyone else did. Because a man in a lab in Madison saw something in the data and called a stranger in Iowa. Because that stranger believed him.
+
+"Your network held," Chen says.
+
+"Our network."
+
+"Fine. Our network. But Nate—" Another pause. I hear him choosing his words, which is unusual for Chen. He normally speaks in data streams. "You should know that the military coordination we're seeing from FEMA — the shelter protocols they're rolling out now, three days late — they're based on our model. Someone in the chain of command saw what NEORAN was doing and started replicating it."
+
+I don't know what to do with that. So I don't do anything with it. I tell him I'll check in at 1400 hours. He tells me to sleep. I tell him the same thing I tell everyone who tells me to sleep, which is that I will, and which is a lie.
+
+---
+
+Sophie takes the handset from me when I'm done. She's twenty-three years old. She has dark circles under her eyes and her hair is pulled back in a knot that's been the same knot for three days and she is running the communications station of a post-invasion survival shelter with the calm of someone directing traffic at a church picnic.
+
+"I've got the next check-in with Kansas City at oh-eight-hundred," she says. Not asking permission. Informing me.
+
+She looks up. The smile is small. You'd miss it if you didn't know her. A slight lift at the corner of her mouth, there and gone, the kind of expression you learn to make when you've spent your formative years being told your voice doesn't matter and you've decided, quietly and irreversibly, that it does.
+
+"Go check on your mom," she says.
+
+---
+
+Diane is in the kitchen area. Calling it a kitchen is generous — it's four folding tables, two camp stoves, and a collection of pots and pans that looks like it was assembled by raiding every garage sale in Story County. Which it basically was. Diane organized the kitchen supplies herself last year, going door to door with a checklist I'd drawn up, and she came back with more cookware than I'd asked for because Diane has always understood something I had to learn: that when you ask people for help, they want to give you more than you requested.
+
+She's stirring a pot of oatmeal. The big pot, the one she brought from home, the one she used to make Sunday morning pancakes in when I was small enough to stand on a chair and watch. Her hair is up. Her sleeves are rolled. She looks like what she is: a woman in her sixties who has been feeding people for three days straight and has no intention of stopping.
+
+She sees me across the room. Thirty feet of gymnasium floor between us, folding tables and sleeping bags and the quiet movements of people waking up.
+
+She mouths the words. I love you.
+
+No audience. No performance. Not the way she said it when I was a kid, loud and public and sometimes performative, the love that was partly for her and partly for whoever was watching. This is private. Just her mouth forming the shapes across a room full of survivors, knowing I can read her lips because I've been reading her my whole life.
+
+I mouth it back. I love you.
+
+It's the first time I've said it — even silently, even from thirty feet away — without the weight of everything we did wrong pressing down on the words. Without thinking about the years she disappeared into her own grief. Without thinking about the years I disappeared into mine. It's clean. Not forgiven, exactly. Not resolved. Just — clean. The way a thing can be when you've carried it long enough that your arms have changed shape around it and it doesn't feel like a burden anymore. It feels like the shape of your arms.
+
+---
+
+I step outside. Not far. Just to the entrance, where the double doors open onto the parking lot and the gray light falls on asphalt that's already starting to crack from whatever the Kessari are doing to the soil underneath. I need air, even if the air tastes like metal now. Even if breathing it feels like swallowing pennies.
+
+The harvesting platforms are there. Four of them visible from this angle, spread across the farmland to the west. They're the size of aircraft carriers, if aircraft carriers floated thirty feet off the ground and made no sound whatsoever. I've been looking at them for three days and I still can't describe them properly. The geometry is wrong. Not wrong like a mistake — wrong like a language I don't speak. They're doing something to the fields beneath them. The corn is gone. The soil is changing color, going from Iowa black to something pale andite.
+
+I used to know what those fields would look like in June. Knee-high corn. Soybeans spreading their first leaves. The green so vivid it hurt your eyes after a long winter.
+
+I don't know what anything will look like anymore.
+
+A dog comes and sits beside me. Hazard. He's a mutt of uncertain provenance who belonged to the Kowalski family until the Kowalskis didn't make it to the shelter and Hazard did, trotting through the doors on day one like he had an appointment. He's been sleeping in the corner near the bleachers, accepting food from whoever offers it, distributing his attention with democratic indifference. He doesn't seem to understand that the world has ended. Or maybe he understands it perfectly and has decided that the appropriate response is to sit in patches of gray light and wait for someone to scratch his ears.
+
+I scratch his ears. He leans into my hand.
+
+There is no version of the future I can calculate from here. I've spent eighteen years running projections, modeling scenarios, planning for this exact event, and now that it's happened, the planning is over and something else has started. Something I don't have a name for. Something that involves oatmeal and blood sugar readings and satellite check-ins and a dog who doesn't know the world has changed.
+
+I go back inside.
+
+---
+
+Frank is near the supply area. His truck — the old Ford, the one with two hundred thousand miles and a passenger seat held together with duct tape — is parked right outside the gymnasium's loading dock. He drove it here on the first night with a bed full of blankets and canned goods. Nobody asked him to come. Nobody called him. He just came.
+
+He's handing out blankets now. Moving down the rows of cots with a stack of fleece blankets in his arms, offering them to people who are cold or scared or both. He moves slowly. His knees are bad. His heart is the heart of a man who drank too much for too many years and worked too hard for all of them. But he's moving.
+
+He comes to Mrs. Peretti's cot. She's awake now, sitting up, looking small and confused. Frank holds out a blanket. She takes it. He doesn't say anything. He just waits until she's tucked it around her shoulders, and then he moves to the next cot.
+
+This is what Frank Callahan does. This is what he's always done, underneath the silence and the distance and the things he could never say. He shows up with what he has — blankets, canned goods, a truck with a bad transmission — and he gives it away. He gave it away my entire childhood, but he gave it to everyone except me, and I spent thirty-five years thinking that meant he had nothing left. I was wrong. He had everything left. He just didn't know how to carry it the distance between his hands and mine.
+
+The gymnasium is quiet. The early morning sounds — Janet folding blankets, Michael carrying water, the soft static of the satellite phone — have settled into a hum. The gray light from the windows lays itself across the floor in long rectangles. Someone coughs. Someone else murmurs in their sleep. Elena is taking someone's blood pressure. Marcus is checking the east wall now, his hands reading the cinder block like Braille. Sophie is at the communications station, headphones on, writing something in her logbook.
+
+Two hundred and thirty-one people. Breathing. Organized. Not saved — I didn't save anyone. I just built a structure and they walked into it. They saved themselves by showing up.
+
+Frank reaches the end of his row. He's out of blankets. He stands there for a moment with his empty arms at his sides, and then he turns and looks across the gymnasium.
+
+He finds me.
+
+Forty feet of scuffed hardwood floor between us. Cots and sleeping bags and people and all the years we couldn't cross. The gray light makes everything look like an old photograph, like something already remembered.
+
+Frank nods.
+
+Not "I'm proud of you." Not "I love you." Not "You saved us." Not "I'm sorry." Just a nod. A single downward motion of his chin, his eyes on mine, steady. That's it. That's the whole thing.
+
+I used to need words from him. I used to sit in his truck after baseball games, waiting for him to say something — anything — about the double I hit, the play I made at second, the game we won. He never did. He'd drive us home in silence and I'd go to my room and I'd lie there thinking something was broken in him, or in me, or in the space between us.
+
+Nothing was broken. The silence was the language. I just didn't speak it yet.
+
+I nod back.
+
+Frank turns and walks to his truck to get more blankets. I stand there in the middle of the gymnasium floor with two hundred and thirty-one people around me and the gray light coming through the windows and a dog named Hazard sleeping in the corner, and I am not okay, and the world is not okay, and the sky might never be blue again, and the fields might never grow corn again, and I don't know if we'll make it through the summer, let alone the year, let alone whatever comes after.
+
+But the lights are on. The walls are holding. The people are here.
+
+Hazard rolls onto his side and sighs the way dogs sigh, with his whole body, complete and unselfconscious. The gray light moves across his ribs.
+
+Anyway. The point is—
